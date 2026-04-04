@@ -1,0 +1,104 @@
+---
+// FilterBar.astro - フィルターバーコンポーネント
+// 器具をカテゴリ・抽出方法・価格帯で絞り込む
+---
+
+<div class="filter-bar" id="filter-bar">
+  <!-- カテゴリフィルター -->
+  <span class="filter-bar__label">Category</span>
+  <div class="filter-bar__group" id="filter-category">
+    <button class="filter-btn is-active" data-filter="category" data-value="all">All</button>
+    <button class="filter-btn" data-filter="category" data-value="dripper">Dripper</button>
+    <button class="filter-btn" data-filter="category" data-value="grinder">Grinder</button>
+    <button class="filter-btn" data-filter="category" data-value="kettle">Kettle</button>
+    <button class="filter-btn" data-filter="category" data-value="espresso-machine">Espresso</button>
+    <button class="filter-btn" data-filter="category" data-value="french-press">French Press</button>
+    <button class="filter-btn" data-filter="category" data-value="aeropress">AeroPress</button>
+    <button class="filter-btn" data-filter="category" data-value="moka-pot">Moka Pot</button>
+    <button class="filter-btn" data-filter="category" data-value="scale">Scale</button>
+  </div>
+
+  <!-- 区切り線 -->
+  <div class="filter-bar__divider"></div>
+
+  <!-- 抽出方法フィルター -->
+  <span class="filter-bar__label">Method</span>
+  <div class="filter-bar__group" id="filter-method">
+    <button class="filter-btn is-active" data-filter="brew-method" data-value="all">All</button>
+    <button class="filter-btn" data-filter="brew-method" data-value="pour-over">Pour Over</button>
+    <button class="filter-btn" data-filter="brew-method" data-value="espresso">Espresso</button>
+    <button class="filter-btn" data-filter="brew-method" data-value="immersion">Immersion</button>
+    <button class="filter-btn" data-filter="brew-method" data-value="pressure">Pressure</button>
+  </div>
+
+  <!-- 価格帯スライダー -->
+  <div class="filter-price">
+    <label for="price-range">Max $</label>
+    <input type="range" id="price-range" min="5" max="2000" value="2000" step="5" />
+    <span id="price-value">$2000</span>
+  </div>
+</div>
+
+<!-- フィルタリングのJavaScript -->
+<script>
+  // フィルターの状態を管理するオブジェクト
+  const filterState: Record<string, string> = {
+    category: 'all',
+    'brew-method': 'all',
+    maxPrice: '2000',
+  };
+
+  // フィルターボタンのクリックイベント
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const filterName = (btn as HTMLElement).dataset.filter!;
+      const filterValue = (btn as HTMLElement).dataset.value!;
+
+      // 同じフィルターグループ内のアクティブ状態を更新
+      btn.parentElement?.querySelectorAll('.filter-btn').forEach(b => {
+        b.classList.remove('is-active');
+      });
+      btn.classList.add('is-active');
+
+      // フィルター状態を更新
+      filterState[filterName] = filterValue;
+
+      // カードをフィルタリング
+      applyFilters();
+    });
+  });
+
+  // 価格スライダーのイベント
+  const priceRange = document.getElementById('price-range') as HTMLInputElement;
+  const priceValue = document.getElementById('price-value');
+
+  priceRange?.addEventListener('input', () => {
+    filterState.maxPrice = priceRange.value;
+    if (priceValue) priceValue.textContent = `$${priceRange.value}`;
+    applyFilters();
+  });
+
+  // フィルターを適用する関数
+  function applyFilters() {
+    // .item-card クラスのカードを全取得
+    const cards = document.querySelectorAll('.item-card') as NodeListOf<HTMLElement>;
+
+    cards.forEach(card => {
+      const cardCategory = card.dataset.category || '';
+      const cardMethod = card.dataset.brewMethod || '';
+      const cardPrice = parseInt(card.dataset.price || '0');
+
+      // 各フィルター条件をチェック
+      const categoryMatch = filterState.category === 'all' || cardCategory === filterState.category;
+      const methodMatch = filterState['brew-method'] === 'all' || cardMethod === filterState['brew-method'];
+      const priceMatch = cardPrice <= parseInt(filterState.maxPrice);
+
+      // すべての条件を満たす場合のみ表示
+      if (categoryMatch && methodMatch && priceMatch) {
+        card.style.display = '';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+  }
+</script>

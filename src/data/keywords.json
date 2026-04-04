@@ -1,0 +1,57 @@
+{
+  "review": [
+    { "keyword": "best pour over dripper", "slug": "best-pour-over-drippers", "category": "review" },
+    { "keyword": "best coffee grinder under 100", "slug": "best-coffee-grinders-under-100", "category": "review" },
+    { "keyword": "best gooseneck kettle", "slug": "best-gooseneck-kettles", "category": "review" },
+    { "keyword": "best coffee scale", "slug": "best-coffee-scales", "category": "review" },
+    { "keyword": "best manual espresso maker", "slug": "best-manual-espresso-makers", "category": "review" },
+    { "keyword": "best hand coffee grinder", "slug": "best-hand-coffee-grinders", "category": "review" },
+    { "keyword": "best moka pot", "slug": "best-moka-pots", "category": "review" },
+    { "keyword": "best cold brew maker", "slug": "best-cold-brew-makers", "category": "review" }
+  ],
+  "method": [
+    { "keyword": "how to brew perfect pour over", "slug": "how-to-brew-perfect-pour-over", "category": "method" },
+    { "keyword": "french press brewing guide", "slug": "french-press-brewing-guide", "category": "method" },
+    { "keyword": "aeropress brewing techniques", "slug": "aeropress-brewing-techniques", "category": "method" },
+    { "keyword": "cold brew coffee method", "slug": "cold-brew-coffee-method", "category": "method" },
+    { "keyword": "moka pot brewing tips", "slug": "moka-pot-brewing-tips", "category": "method" },
+    { "keyword": "espresso extraction guide", "slug": "espresso-extraction-guide", "category": "method" },
+    { "keyword": "v60 pour over technique", "slug": "v60-pour-over-technique", "category": "method" }
+  ],
+  "recipe": [
+    { "keyword": "james hoffmann v60 recipe", "slug": "hoffmann-v60-recipe", "category": "recipe" },
+    { "keyword": "aeropress championship recipe", "slug": "aeropress-championship-recipe", "category": "recipe" },
+    { "keyword": "iced pour over recipe", "slug": "iced-pour-over-recipe", "category": "recipe" },
+    { "keyword": "french press ratio guide", "slug": "french-press-ratio-guide", "category": "recipe" },
+    { "keyword": "cold brew concentrate recipe", "slug": "cold-brew-concentrate-recipe", "category": "recipe" },
+    { "keyword": "chemex brewing recipe", "slug": "chemex-brewing-recipe", "category": "recipe" },
+    { "keyword": "kalita wave recipe", "slug": "kalita-wave-recipe", "category": "recipe" }
+  ],
+  "comparison": [
+    { "keyword": "hario v60 vs kalita wave", "slug": "hario-v60-vs-kalita-wave", "category": "comparison" },
+    { "keyword": "aeropress vs french press", "slug": "aeropress-vs-french-press", "category": "comparison" },
+    { "keyword": "comandante vs 1zpresso", "slug": "comandante-vs-1zpresso", "category": "comparison" },
+    { "keyword": "fellow ode vs baratza encore", "slug": "fellow-ode-vs-baratza-encore", "category": "comparison" },
+    { "keyword": "chemex vs v60", "slug": "chemex-vs-v60", "category": "comparison" },
+    { "keyword": "manual vs electric grinder", "slug": "manual-vs-electric-grinder", "category": "comparison" },
+    { "keyword": "ceramic vs stainless dripper", "slug": "ceramic-vs-stainless-dripper", "category": "comparison" }
+  ],
+  "guide": [
+    { "keyword": "coffee grind size guide", "slug": "coffee-grind-size-guide", "category": "guide" },
+    { "keyword": "water temperature for coffee", "slug": "water-temperature-guide", "category": "guide" },
+    { "keyword": "coffee to water ratio chart", "slug": "coffee-water-ratio-chart", "category": "guide" },
+    { "keyword": "how to clean coffee equipment", "slug": "how-to-clean-coffee-equipment", "category": "guide" },
+    { "keyword": "beginner home coffee setup", "slug": "beginner-home-coffee-setup", "category": "guide" },
+    { "keyword": "coffee bean storage guide", "slug": "coffee-bean-storage-guide", "category": "guide" },
+    { "keyword": "understanding coffee extraction", "slug": "understanding-coffee-extraction", "category": "guide" }
+  ],
+  "beginner": [
+    { "keyword": "aeropress complete guide", "slug": "aeropress-complete-guide", "category": "beginner" },
+    { "keyword": "pour over coffee for beginners", "slug": "pour-over-for-beginners", "category": "beginner" },
+    { "keyword": "french press for beginners", "slug": "french-press-for-beginners", "category": "beginner" },
+    { "keyword": "espresso basics for home", "slug": "espresso-basics-for-home", "category": "beginner" },
+    { "keyword": "first coffee grinder buying guide", "slug": "first-coffee-grinder-guide", "category": "beginner" },
+    { "keyword": "specialty coffee starter kit", "slug": "specialty-coffee-starter-kit", "category": "beginner" },
+    { "keyword": "how to taste coffee like a pro", "slug": "how-to-taste-coffee", "category": "beginner" }
+  ]
+}

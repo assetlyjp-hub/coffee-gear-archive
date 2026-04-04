@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- ドリッパーのシルエット -->
+  <rect width="400" height="300" fill="#1C1714"/>
+  <!-- 円錐形ドリッパー -->
+  <path d="M140 80 L260 80 L220 220 L180 220 Z" fill="none" stroke="#C8956C" stroke-width="2" opacity="0.6"/>
+  <!-- リブ（溝） -->
+  <line x1="160" y1="100" x2="185" y2="210" stroke="#C8956C" stroke-width="1" opacity="0.3"/>
+  <line x1="200" y1="80" x2="200" y2="220" stroke="#C8956C" stroke-width="1" opacity="0.3"/>
+  <line x1="240" y1="100" x2="215" y2="210" stroke="#C8956C" stroke-width="1" opacity="0.3"/>
+  <!-- サーバー（下） -->
+  <path d="M170 225 L160 270 L240 270 L230 225" fill="none" stroke="#C8956C" stroke-width="1.5" opacity="0.4"/>
+  <!-- ラベル -->
+  <text x="200" y="290" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#666">Dripper</text>
+</svg>

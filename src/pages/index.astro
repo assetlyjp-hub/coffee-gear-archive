@@ -1,0 +1,45 @@
+---
+// index.astro - トップページ
+// ヒーロー + フィルター付き器具グリッドを表示
+
+import Base from '../layouts/Base.astro';
+import FilterBar from '../components/FilterBar.astro';
+import GearCard from '../components/GearCard.astro';
+
+// 器具データの読み込み
+import gearData from '../data/gear.json';
+---
+
+<Base title="Coffee Gear Archive">
+  <!-- ヒーローセクション -->
+  <section class="hero">
+    <h1 class="hero__title">Coffee Gear <span>Archive</span></h1>
+    <p class="hero__subtitle">Brew Better Coffee</p>
+  </section>
+
+  <!-- メインコンテンツ -->
+  <div class="container">
+    <!-- フィルターバー -->
+    <FilterBar />
+
+    <!-- 器具グリッド -->
+    <div class="item-grid" id="gear-grid">
+      {gearData.map((gear) => (
+        <GearCard
+          id={gear.id}
+          name={gear.name}
+          brand={gear.brand}
+          category={gear.category}
+          brewMethod={gear.brewMethod}
+          price={gear.price}
+          image={gear.image}
+        />
+      ))}
+    </div>
+
+    <!-- 結果なし表示（フィルターで全非表示の時） -->
+    <p id="no-results" style="display:none; text-align:center; color:var(--color-text-muted); padding: 2rem 0;">
+      No gear matches your filters. Try adjusting your criteria.
+    </p>
+  </div>
+</Base>

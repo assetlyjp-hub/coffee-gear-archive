@@ -1,0 +1,52 @@
+---
+// brew-methods/index.astro - 抽出方法データベースページ
+// 各抽出方法のレーダーチャートとスペックを一覧表示
+
+import Base from '../../layouts/Base.astro';
+import BrewRadar from '../../components/BrewRadar.astro';
+import brewMethodsData from '../../data/brewmethods.json';
+---
+
+<Base
+  title="Coffee Brew Methods Guide"
+  description="Complete guide to coffee brewing methods — Pour Over, French Press, AeroPress, Espresso, Moka Pot, and Cold Brew. Compare clarity, body, ease, speed, and control."
+>
+  <!-- ページヘッダー -->
+  <div class="page-header">
+    <h1 class="page-header__title">Brew Methods</h1>
+    <p class="page-header__description">
+      The science behind the cup — explore every way to brew coffee
+    </p>
+  </div>
+
+  <div class="container">
+    <!-- 抽出方法一覧 -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: var(--space-md); padding: var(--space-lg) 0;">
+      {brewMethodsData.map((method) => (
+        <a href={`/brew-methods/${method.id}/`} class="method-card">
+          <!-- 抽出方法名 -->
+          <h3 class="method-card__name">{method.name}</h3>
+          <p class="method-card__type">{method.nameJa}</p>
+
+          <!-- レーダーチャート -->
+          <BrewRadar
+            clarity={method.properties.clarity}
+            body={method.properties.body}
+            ease={method.properties.ease}
+            speed={method.properties.speed}
+            control={method.properties.control}
+          />
+
+          <!-- スタッツバッジ -->
+          <div class="method-card__stats">
+            <span class="method-card__stat">Clarity: {method.properties.clarity}/5</span>
+            <span class="method-card__stat">Body: {method.properties.body}/5</span>
+            <span class="method-card__stat">Ease: {method.properties.ease}/5</span>
+            <span class="method-card__stat">Speed: {method.properties.speed}/5</span>
+            <span class="method-card__stat">Control: {method.properties.control}/5</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

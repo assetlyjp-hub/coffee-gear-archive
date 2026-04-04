@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- エスプレッソマシンのシルエット -->
+  <rect width="400" height="300" fill="#1C1714"/>
+  <!-- レバー式マシン本体 -->
+  <rect x="150" y="100" width="100" height="130" rx="4" fill="none" stroke="#C8956C" stroke-width="2" opacity="0.6"/>
+  <!-- レバー -->
+  <line x1="200" y1="100" x2="200" y2="60" stroke="#C8956C" stroke-width="3" opacity="0.6"/>
+  <circle cx="200" cy="55" r="8" fill="none" stroke="#C8956C" stroke-width="2" opacity="0.6"/>
+  <!-- ポルタフィルター -->
+  <path d="M170 230 L150 250 L250 250 L230 230" fill="none" stroke="#C8956C" stroke-width="1.5" opacity="0.5"/>
+  <line x1="170" y1="230" x2="230" y2="230" stroke="#C8956C" stroke-width="2" opacity="0.6"/>
+  <!-- ハンドル -->
+  <line x1="250" y1="250" x2="280" y2="240" stroke="#C8956C" stroke-width="2" opacity="0.5"/>
+  <!-- 圧力ゲージ -->
+  <circle cx="200" cy="140" r="15" fill="none" stroke="#C8956C" stroke-width="1" opacity="0.4"/>
+  <line x1="200" y1="130" x2="208" y2="137" stroke="#C8956C" stroke-width="1" opacity="0.4"/>
+  <!-- ラベル -->
+  <text x="200" y="290" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#666">Espresso Machine</text>
+</svg>
