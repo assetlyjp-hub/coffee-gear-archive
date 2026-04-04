@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- ケトルのシルエット -->
+  <rect width="400" height="300" fill="#1C1714"/>
+  <!-- ケトル本体 -->
+  <ellipse cx="210" cy="200" rx="80" ry="50" fill="none" stroke="#C8956C" stroke-width="2" opacity="0.6"/>
+  <!-- フタ -->
+  <path d="M150 170 Q210 140 270 170" fill="none" stroke="#C8956C" stroke-width="2" opacity="0.6"/>
+  <!-- つまみ -->
+  <circle cx="210" cy="148" r="5" fill="none" stroke="#C8956C" stroke-width="1.5" opacity="0.5"/>
+  <!-- グースネック注ぎ口 -->
+  <path d="M130 190 Q100 180 95 140 Q92 110 110 90" fill="none" stroke="#C8956C" stroke-width="2" opacity="0.6"/>
+  <!-- ハンドル -->
+  <path d="M290 170 Q320 150 310 200 Q300 230 290 220" fill="none" stroke="#C8956C" stroke-width="2" opacity="0.6"/>
+  <!-- ベース -->
+  <line x1="140" y1="250" x2="280" y2="250" stroke="#C8956C" stroke-width="1.5" opacity="0.4"/>
+  <!-- ラベル -->
+  <text x="200" y="290" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#666">Kettle</text>
+</svg>

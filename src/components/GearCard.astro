@@ -1,0 +1,51 @@
+---
+// GearCard.astro - コーヒー器具カードコンポーネント
+// グリッド表示用の器具1点分のカード
+
+// 器具データの型定義
+interface Props {
+  id: string;          // 器具ID（URLスラッグ）
+  name: string;        // 英語名
+  brand: string;       // ブランドID
+  category: string;    // カテゴリ（dripper/grinder等）
+  brewMethod: string;  // 抽出方法（pour-over/espresso等）
+  price: number;       // 価格（USD）
+  image: string;       // 画像パス
+}
+
+const { id, name, brand, category, brewMethod, price, image } = Astro.props;
+
+// カテゴリの表示名を整形（ハイフンをスペースに、先頭大文字）
+const categoryLabel = category.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+
+// 抽出方法の表示名を整形
+const methodLabel = brewMethod.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+---
+
+<!-- 器具カード: クリックで詳細ページへ遷移 -->
+<a href={`/gear/${id}/`} class="item-card"
+   data-category={category}
+   data-brew-method={brewMethod}
+   data-price={price}>
+
+  <!-- 器具画像（プレースホルダーSVG） -->
+  <img src={image} alt={name} class="item-card__image" loading="lazy" />
+
+  <div class="item-card__body">
+    <!-- カテゴリラベル -->
+    <p class="item-card__type">{categoryLabel}</p>
+
+    <!-- 器具名 -->
+    <h3 class="item-card__name">{name}</h3>
+
+    <!-- ブランド名 -->
+    <p class="item-card__brand">{brand}</p>
+
+    <!-- メタ情報: カテゴリ・抽出方法・価格 -->
+    <div class="item-card__meta">
+      <span class="item-card__tag">{categoryLabel}</span>
+      <span class="item-card__tag">{methodLabel}</span>
+      <span class="item-card__price">${price}</span>
+    </div>
+  </div>
+</a>

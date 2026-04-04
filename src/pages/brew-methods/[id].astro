@@ -1,0 +1,123 @@
+---
+// brew-methods/[id].astro - 抽出方法詳細ページ
+// 抽出方法のスペック、レーダーチャート、対応器具一覧を表示
+
+import Base from '../../layouts/Base.astro';
+import BrewRadar from '../../components/BrewRadar.astro';
+import GearCard from '../../components/GearCard.astro';
+
+import brewMethodsData from '../../data/brewmethods.json';
+import gearData from '../../data/gear.json';
+
+// 静的パス生成
+export function getStaticPaths() {
+  return brewMethodsData.map((method) => ({
+    params: { id: method.id },
+  }));
+}
+
+const { id } = Astro.params;
+const method = brewMethodsData.find(m => m.id === id);
+if (!method) return Astro.redirect('/404');
+
+// この抽出方法に対応する器具を取得
+const methodGear = gearData.filter(g => g.brewMethod === id);
+---
+
+<Base
+  title={`${method.name} Brew Guide`}
+  description={method.description.slice(0, 160)}
+>
+  <div class="page-header">
+    <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); margin-bottom: 0.5rem; font-weight: 600;">
+      Brew Method
+    </p>
+    <h1 class="page-header__title">{method.name}</h1>
+    <p style="font-family: var(--font-ja); color: var(--color-text-sub);">{method.nameJa}</p>
+  </div>
+
+  <div class="container container--narrow">
+    <!-- レーダーチャート（大きめ） -->
+    <div style="padding: var(--space-lg) 0; max-width: 300px; margin: 0 auto;">
+      <BrewRadar
+        clarity={method.properties.clarity}
+        body={method.properties.body}
+        ease={method.properties.ease}
+        speed={method.properties.speed}
+        control={method.properties.control}
+        size={300}
+      />
+    </div>
+
+    <!-- 説明文 -->
+    <p style="margin-bottom: var(--space-lg); line-height: 1.9;">{method.description}</p>
+
+    <!-- スペック詳細 -->
+    <div style="padding: var(--space-lg) 0; border-top: 1px solid var(--color-border);">
+      <h2 style="margin-bottom: var(--space-md);">Brew Profile</h2>
+
+      <div style="display: flex; flex-direction: column; gap: var(--space-sm);">
+        <!-- 各レーティングバー -->
+        <div class="rating-bar">
+          <span class="rating-bar__label">Clarity</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${method.properties.clarity * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{method.properties.clarity}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Body</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${method.properties.body * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{method.properties.body}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Ease of Use</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${method.properties.ease * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{method.properties.ease}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Speed</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${method.properties.speed * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{method.properties.speed}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Control</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${method.properties.control * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{method.properties.control}/5</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- この抽出方法に対応する器具 -->
+    {methodGear.length > 0 && (
+      <div style="padding: var(--space-lg) 0; border-top: 1px solid var(--color-border);">
+        <h2 style="margin-bottom: var(--space-md);">Gear for {method.name}</h2>
+        <div class="item-grid">
+          {methodGear.map((gear) => (
+            <GearCard
+              id={gear.id}
+              name={gear.name}
+              brand={gear.brand}
+              category={gear.category}
+              brewMethod={gear.brewMethod}
+              price={gear.price}
+              image={gear.image}
+            />
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+</Base>

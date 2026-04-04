@@ -1,0 +1,50 @@
+[
+  {
+    "id": "pour-over",
+    "name": "Pour Over",
+    "nameJa": "ポアオーバー",
+    "description": "Pour over brewing involves manually pouring hot water over ground coffee in a filter. This method gives you precise control over every variable — water temperature, pour rate, and bloom time — resulting in a clean, nuanced cup that highlights a coffee's unique origin characteristics.",
+    "descriptionJa": "ポアオーバーはフィルターに入れたコーヒー粉に手動でお湯を注ぐ抽出方法です。湯温、注ぎ速度、蒸らし時間を精密にコントロールでき、コーヒー豆の産地特性を際立たせるクリーンで繊細な一杯を生み出します。",
+    "properties": { "clarity": 5, "body": 2, "ease": 3, "speed": 3, "control": 5 }
+  },
+  {
+    "id": "french-press",
+    "name": "French Press",
+    "nameJa": "フレンチプレス",
+    "description": "The French press is a full-immersion brewing method where coarsely ground coffee steeps directly in hot water for several minutes before being separated by a metal mesh plunger. It produces a rich, full-bodied cup with natural oils and fine sediment that paper filters would remove.",
+    "descriptionJa": "フレンチプレスは粗挽きコーヒーをお湯に数分間浸漬させた後、金属メッシュプランジャーで分離する抽出方法です。ペーパーフィルターでは除去される天然オイルと微粉を含む、リッチでフルボディな一杯を生み出します。",
+    "properties": { "clarity": 2, "body": 5, "ease": 5, "speed": 4, "control": 2 }
+  },
+  {
+    "id": "aeropress",
+    "name": "AeroPress",
+    "nameJa": "エアロプレス",
+    "description": "The AeroPress uses air pressure to push water through a compact bed of coffee grounds, combining elements of both immersion and pressure brewing. Its versatility is legendary — capable of producing everything from espresso-style concentrate to clean filtered coffee, and beloved by travelers for its portability.",
+    "descriptionJa": "エアロプレスは空気圧を使ってコンパクトなコーヒー粉の層にお湯を押し通す、浸漬式と加圧式を組み合わせた抽出方法です。エスプレッソ風の濃縮液からクリーンなフィルターコーヒーまで幅広く対応し、携帯性の高さから旅行者にも愛用されています。",
+    "properties": { "clarity": 4, "body": 3, "ease": 4, "speed": 5, "control": 4 }
+  },
+  {
+    "id": "espresso",
+    "name": "Espresso",
+    "nameJa": "エスプレッソ",
+    "description": "Espresso forces near-boiling water through finely ground coffee at 9 bars of pressure, producing a concentrated shot topped with golden crema. This intense extraction method is the foundation of cafe culture worldwide and serves as the base for lattes, cappuccinos, and countless other drinks.",
+    "descriptionJa": "エスプレッソは約9気圧の圧力で高温のお湯を細かく挽いたコーヒーに通し、ゴールデンクレマを冠した濃縮ショットを抽出します。世界のカフェ文化の基盤であり、ラテやカプチーノなど数多くのドリンクのベースとなっています。",
+    "properties": { "clarity": 3, "body": 5, "ease": 1, "speed": 5, "control": 5 }
+  },
+  {
+    "id": "moka-pot",
+    "name": "Moka Pot",
+    "nameJa": "モカポット",
+    "description": "The Moka pot brews coffee by passing boiling water pressurized by steam through ground coffee on a stovetop. Invented in Italy in 1933, it produces a strong, rich brew that sits between drip coffee and espresso in intensity. Found in over 300 million homes worldwide, it remains an icon of Italian coffee culture.",
+    "descriptionJa": "モカポットは直火で加熱した水を蒸気圧でコーヒー粉に通す抽出方法です。1933年にイタリアで発明され、ドリップコーヒーとエスプレッソの中間の濃さのリッチな味わいを生み出します。世界3億以上の家庭で使用されるイタリアンコーヒー文化のアイコンです。",
+    "properties": { "clarity": 2, "body": 4, "ease": 4, "speed": 3, "control": 2 }
+  },
+  {
+    "id": "cold-brew",
+    "name": "Cold Brew",
+    "nameJa": "コールドブリュー",
+    "description": "Cold brew steeps coarsely ground coffee in cold or room-temperature water for 12 to 24 hours. The extended, low-temperature extraction produces a smooth, naturally sweet concentrate with significantly less acidity than hot-brewed coffee. It can be stored in the refrigerator for up to two weeks.",
+    "descriptionJa": "コールドブリューは粗挽きコーヒーを冷水または常温水に12〜24時間浸漬させる抽出方法です。長時間の低温抽出により、ホットコーヒーより大幅に酸味が少なく、なめらかで自然な甘みのある濃縮液を生み出します。冷蔵庫で最大2週間保存可能です。",
+    "properties": { "clarity": 4, "body": 3, "ease": 5, "speed": 1, "control": 2 }
+  }
+]

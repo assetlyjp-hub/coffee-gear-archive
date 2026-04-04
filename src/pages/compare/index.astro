@@ -1,0 +1,118 @@
+---
+// compare/index.astro - 器具比較ツールページ
+// 2つの器具を選んでスペックを比較
+
+import Base from '../../layouts/Base.astro';
+import gearData from '../../data/gear.json';
+import brandsData from '../../data/brands.json';
+---
+
+<Base
+  title="Compare Coffee Gear"
+  description="Side-by-side comparison tool for coffee brewing equipment. Compare drippers, grinders, kettles, and more — materials, capacity, price, and brew method."
+>
+  <div class="page-header">
+    <h1 class="page-header__title">Compare</h1>
+    <p class="page-header__description">
+      Select two pieces of gear to compare their specifications side by side
+    </p>
+  </div>
+
+  <div class="container">
+    <!-- 器具選択セレクター -->
+    <div class="compare-selector">
+      <div>
+        <select class="compare-select" id="gear-a">
+          <option value="">Select first gear...</option>
+          {gearData.map(g => (
+            <option value={g.id}>{g.name}</option>
+          ))}
+        </select>
+      </div>
+
+      <span class="compare-vs">VS</span>
+
+      <div>
+        <select class="compare-select" id="gear-b">
+          <option value="">Select second gear...</option>
+          {gearData.map(g => (
+            <option value={g.id}>{g.name}</option>
+          ))}
+        </select>
+      </div>
+    </div>
+
+    <!-- 比較テーブル -->
+    <div id="compare-result" style="padding-bottom: var(--space-xl);">
+      <p style="text-align: center; color: var(--color-text-muted); padding: var(--space-lg) 0;">
+        Select two items above to see the comparison
+      </p>
+    </div>
+  </div>
+
+  <!-- 器具・ブランドデータをJSに渡す -->
+  <script define:vars={{ gearData, brandsData }}>
+    // セレクターの要素を取得
+    const selectA = document.getElementById('gear-a');
+    const selectB = document.getElementById('gear-b');
+    const resultDiv = document.getElementById('compare-result');
+
+    // セレクター変更時に比較テーブルを更新
+    selectA?.addEventListener('change', updateComparison);
+    selectB?.addEventListener('change', updateComparison);
+
+    function updateComparison() {
+      const idA = /** @type {HTMLSelectElement} */ (selectA).value;
+      const idB = /** @type {HTMLSelectElement} */ (selectB).value;
+
+      // 両方選択されていない場合
+      if (!idA || !idB) {
+        resultDiv.innerHTML = '<p style="text-align: center; color: var(--color-text-muted); padding: var(--space-lg) 0;">Select two items above to see the comparison</p>';
+        return;
+      }
+
+      // 器具データを検索
+      const gearA = gearData.find(g => g.id === idA);
+      const gearB = gearData.find(g => g.id === idB);
+
+      if (!gearA || !gearB) return;
+
+      // ブランドデータを検索
+      const brandA = brandsData.find(b => b.id === gearA.brand);
+      const brandB = brandsData.find(b => b.id === gearB.brand);
+
+      // 比較テーブルを生成
+      const rows = [
+        ['Brand', brandA?.name || gearA.brand, brandB?.name || gearB.brand],
+        ['Category', gearA.category, gearB.category],
+        ['Material', gearA.material, gearB.material],
+        ['Brew Method', gearA.brewMethod, gearB.brewMethod],
+        ['Capacity', gearA.capacity, gearB.capacity],
+        ['Price (USD)', `$${gearA.price}`, `$${gearB.price}`],
+      ];
+
+      const tableHTML = `
+        <table class="compare-table">
+          <thead>
+            <tr>
+              <th>Specification</th>
+              <th>${gearA.name}</th>
+              <th>${gearB.name}</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${rows.map(([label, valA, valB]) => `
+              <tr>
+                <td style="font-weight: 500; color: var(--color-text);">${label}</td>
+                <td>${valA}</td>
+                <td>${valB}</td>
+              </tr>
+            `).join('')}
+          </tbody>
+        </table>
+      `;
+
+      resultDiv.innerHTML = tableHTML;
+    }
+  </script>
+</Base>
