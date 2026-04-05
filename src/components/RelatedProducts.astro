@@ -1,0 +1,96 @@
+---
+// RelatedProducts.astro - 記事内の関連商品カードセクション
+// 記事のfrontmatter「relatedGear」で指定された商品をカード表示する
+
+// 商品データの型定義
+interface GearItem {
+  id: string;
+  name: string;
+  nameJa?: string;
+  brand: string;
+  category?: string;
+  material?: string;
+  brewMethod?: string;
+  capacity?: string;
+  price?: number;
+  priceRange?: string;
+  image?: string;
+  amazonUrl?: string;
+  rakutenUrl?: string;
+  description?: string;
+  descriptionJa?: string;
+  features?: string[];
+  featuresJa?: string[];
+}
+
+// propsとしてgear配列を受け取る
+interface Props {
+  gear: GearItem[];
+}
+
+const { gear } = Astro.props;
+---
+
+{/* 商品が1つ以上あるときだけセクションを表示 */}
+{gear.length > 0 && (
+  <section class="related-products">
+    <h2 class="related-products__title">☕ Featured Gear in This Article</h2>
+    <div class="related-products__grid">
+      {gear.map((item) => (
+        <div class="related-products__card">
+          {/* 商品画像 */}
+          <div class="related-products__image">
+            {item.image && (
+              <img src={item.image} alt={item.name} loading="lazy" />
+            )}
+          </div>
+
+          {/* 商品情報 */}
+          <div class="related-products__info">
+            {/* 商品名（詳細ページへのリンク付き） */}
+            <h3 class="related-products__name">
+              <a href={`/gear/${item.id}/`}>{item.name}</a>
+            </h3>
+
+            {/* ブランド名 */}
+            <p class="related-products__meta">{item.brand}</p>
+
+            {/* 素材・容量（あれば表示） */}
+            {(item.material || item.capacity) && (
+              <p class="related-products__materials">
+                {[item.material, item.capacity].filter(Boolean).join(' · ')}
+              </p>
+            )}
+
+            {/* 価格（あれば表示） */}
+            {item.price != null && (
+              <p class="related-products__price">${item.price}</p>
+            )}
+
+            {/* 購入リンクボタン */}
+            <div class="related-products__links">
+              {/* 詳細ページへのリンク */}
+              <a href={`/gear/${item.id}/`} class="related-products__btn related-products__btn--detail">
+                View Details
+              </a>
+
+              {/* Amazonリンク（URLがあるときだけ表示） */}
+              {item.amazonUrl && (
+                <a href={item.amazonUrl} class="related-products__btn related-products__btn--amazon" target="_blank" rel="noopener noreferrer">
+                  Amazon
+                </a>
+              )}
+
+              {/* 楽天リンク（URLがあるときだけ表示） */}
+              {item.rakutenUrl && (
+                <a href={item.rakutenUrl} class="related-products__btn related-products__btn--rakuten" target="_blank" rel="noopener noreferrer">
+                  Rakuten
+                </a>
+              )}
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+)}
