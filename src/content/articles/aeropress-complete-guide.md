@@ -4,6 +4,7 @@ description: "The complete AeroPress guide for beginners and enthusiasts. Learn 
 category: "beginner"
 tags: ["aeropress", "brewing guide", "beginner", "immersion", "pressure", "travel"]
 publishedAt: "2026-04-04"
+updatedAt: "2026-04-06"
 relatedGear: ["aeropress-original", "aeropress-clear"]
 articleType: "guide"
 ---

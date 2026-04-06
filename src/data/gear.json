@@ -10,13 +10,22 @@
     "capacity": "1-2 cups",
     "price": 25,
     "priceRange": "under-50",
-    "features": ["Spiral ribs for optimal flow", "Large single hole", "Cone shape for even extraction"],
-    "featuresJa": ["螺旋状のリブで最適な流速", "大きなシングルホール", "円錐形で均一な抽出"],
+    "features": [
+      "Spiral ribs for optimal flow",
+      "Large single hole",
+      "Cone shape for even extraction"
+    ],
+    "featuresJa": [
+      "螺旋状のリブで最適な流速",
+      "大きなシングルホール",
+      "円錐形で均一な抽出"
+    ],
     "description": "The iconic V60 01 is the gold standard for single-cup pour over brewing. Its spiral ribs and large single hole give you complete control over flow rate and extraction.",
     "descriptionJa": "V60 01はシングルカップのポアオーバー抽出のゴールドスタンダード。螺旋リブと大きなシングルホールで流速と抽出をコントロールできます。",
     "amazonUrl": "https://amzn.to/4sqwKCY",
+    "amazonJPUrl": "https://amzn.to/47JZkrh",
     "rakutenUrl": "",
-    "image": "/images/gear/dripper.svg"
+    "image": "/images/gear/hario-v60-01.webp"
   },
   {
     "id": "hario-v60-02",
@@ -29,13 +38,22 @@
     "capacity": "1-4 cups",
     "price": 29,
     "priceRange": "under-50",
-    "features": ["Spiral ribs for optimal flow", "Large single hole", "Most popular V60 size"],
-    "featuresJa": ["螺旋状のリブで最適な流速", "大きなシングルホール", "最も人気のV60サイズ"],
+    "features": [
+      "Spiral ribs for optimal flow",
+      "Large single hole",
+      "Most popular V60 size"
+    ],
+    "featuresJa": [
+      "螺旋状のリブで最適な流速",
+      "大きなシングルホール",
+      "最も人気のV60サイズ"
+    ],
     "description": "The V60 02 is the most versatile size in the V60 lineup, perfect for brewing 1-4 cups. Ceramic retains heat exceptionally well for consistent extraction temperature.",
     "descriptionJa": "V60 02はV60シリーズで最も汎用性の高いサイズ。セラミックは保温性が高く、安定した抽出温度を保てます。",
     "amazonUrl": "https://amzn.to/4sfSFww",
+    "amazonJPUrl": "https://amzn.to/4sMjQQu",
     "rakutenUrl": "",
-    "image": "/images/gear/dripper.svg"
+    "image": "/images/gear/hario-v60-02.webp"
   },
   {
     "id": "hario-v60-copper",
@@ -48,13 +66,22 @@
     "capacity": "1-4 cups",
     "price": 80,
     "priceRange": "50-100",
-    "features": ["Excellent heat retention", "Premium copper construction", "Develops patina over time"],
-    "featuresJa": ["優れた保温性", "プレミアム銅製", "経年変化で味わいが出る"],
+    "features": [
+      "Excellent heat retention",
+      "Premium copper construction",
+      "Develops patina over time"
+    ],
+    "featuresJa": [
+      "優れた保温性",
+      "プレミアム銅製",
+      "経年変化で味わいが出る"
+    ],
     "description": "The copper V60 offers superior thermal conductivity, maintaining brewing temperature throughout the pour. A beautiful piece that develops a unique patina with use.",
     "descriptionJa": "銅製V60は優れた熱伝導性で、注湯中の抽出温度を維持します。使い込むほどに独特のパティナが生まれる美しい一品。",
     "amazonUrl": "https://amzn.to/4sWMleq",
+    "amazonJPUrl": "",
     "rakutenUrl": "",
-    "image": "/images/gear/dripper.svg"
+    "image": "/images/gear/hario-v60-copper.webp"
   },
   {
     "id": "hario-switch",
@@ -67,13 +94,22 @@
     "capacity": "1-4 cups",
     "price": 35,
     "priceRange": "under-50",
-    "features": ["Immersion + pour-over hybrid", "Switch valve for draining", "Uses V60 02 filters"],
-    "featuresJa": ["浸漬式＋ポアオーバーのハイブリッド", "排出バルブ搭載", "V60 02フィルター対応"],
+    "features": [
+      "Immersion + pour-over hybrid",
+      "Switch valve for draining",
+      "Uses V60 02 filters"
+    ],
+    "featuresJa": [
+      "浸漬式＋ポアオーバーのハイブリッド",
+      "排出バルブ搭載",
+      "V60 02フィルター対応"
+    ],
     "description": "The Switch combines immersion and pour-over brewing in one device. Steep your coffee, then flip the switch to drain — giving you the best of both worlds.",
     "descriptionJa": "Switchは浸漬式とポアオーバーを1台で実現。コーヒーを浸漬した後、スイッチを切り替えて排出できます。",
     "amazonUrl": "https://amzn.to/4c5AFP7",
+    "amazonJPUrl": "https://amzn.to/4sjX55o",
     "rakutenUrl": "",
-    "image": "/images/gear/dripper.svg"
+    "image": "/images/gear/hario-switch.webp"
   },
   {
     "id": "kalita-wave-185",
@@ -86,13 +122,22 @@
     "capacity": "2-4 cups",
     "price": 38,
     "priceRange": "under-50",
-    "features": ["Flat bottom for even extraction", "Three drain holes", "Wave filters prevent channeling"],
-    "featuresJa": ["フラットボトムで均一抽出", "3つの排出穴", "ウェーブフィルターでチャネリング防止"],
+    "features": [
+      "Flat bottom for even extraction",
+      "Three drain holes",
+      "Wave filters prevent channeling"
+    ],
+    "featuresJa": [
+      "フラットボトムで均一抽出",
+      "3つの排出穴",
+      "ウェーブフィルターでチャネリング防止"
+    ],
     "description": "The Kalita Wave 185 uses a flat-bottom design with three small drain holes, producing a more even extraction than cone drippers. Extremely forgiving and consistent.",
     "descriptionJa": "カリタウェーブ185はフラットボトムと3つの排出穴で、コーン型ドリッパーよりも均一な抽出を実現。非常に寛容で安定した味わい。",
     "amazonUrl": "https://amzn.to/4sbPiq7",
+    "amazonJPUrl": "https://amzn.to/4cb8ezy",
     "rakutenUrl": "",
-    "image": "/images/gear/dripper.svg"
+    "image": "/images/gear/kalita-wave-185.webp"
   },
   {
     "id": "chemex-6-cup",
@@ -105,13 +150,22 @@
     "capacity": "6 cups",
     "price": 47,
     "priceRange": "under-50",
-    "features": ["Iconic design since 1941", "Thick filters for clean cup", "Brewer and server in one"],
-    "featuresJa": ["1941年からの象徴的デザイン", "厚手フィルターでクリーンなカップ", "ブリューワーとサーバーが一体型"],
+    "features": [
+      "Iconic design since 1941",
+      "Thick filters for clean cup",
+      "Brewer and server in one"
+    ],
+    "featuresJa": [
+      "1941年からの象徴的デザイン",
+      "厚手フィルターでクリーンなカップ",
+      "ブリューワーとサーバーが一体型"
+    ],
     "description": "The Chemex is a design icon that produces an exceptionally clean, bright cup. Its proprietary bonded filters are 20-30% thicker than standard, removing oils and sediment.",
     "descriptionJa": "ケメックスは非常にクリーンで明るいカップを生み出すデザインアイコン。専用フィルターは標準より20-30%厚く、オイルと微粉を除去します。",
     "amazonUrl": "https://amzn.to/4sgiT1I",
+    "amazonJPUrl": "https://amzn.to/3NM1G2h",
     "rakutenUrl": "",
-    "image": "/images/gear/dripper.svg"
+    "image": "/images/gear/chemex-6-cup.webp"
   },
   {
     "id": "origami-dripper",
@@ -124,13 +178,22 @@
     "capacity": "1-4 cups",
     "price": 42,
     "priceRange": "under-50",
-    "features": ["Works with cone and wave filters", "20 ribs for airflow", "Made in Mino, Japan"],
-    "featuresJa": ["コーン・ウェーブ両フィルター対応", "20本のリブでエアフロー確保", "美濃焼"],
+    "features": [
+      "Works with cone and wave filters",
+      "20 ribs for airflow",
+      "Made in Mino, Japan"
+    ],
+    "featuresJa": [
+      "コーン・ウェーブ両フィルター対応",
+      "20本のリブでエアフロー確保",
+      "美濃焼"
+    ],
     "description": "The Origami Dripper's unique 20-rib design works with both cone (V60) and flat-bottom (Wave) filters, giving you unmatched versatility. A World Brewers Cup favorite.",
     "descriptionJa": "オリガミドリッパーの20リブデザインはコーン型とフラットボトム両方のフィルターに対応。ワールドブリューワーズカップでも愛用される逸品。",
     "amazonUrl": "https://amzn.to/3PSKZCL",
+    "amazonJPUrl": "https://amzn.to/4dO947V",
     "rakutenUrl": "",
-    "image": "/images/gear/dripper.svg"
+    "image": "/images/gear/origami-dripper.webp"
   },
   {
     "id": "clever-dripper",
@@ -143,13 +206,22 @@
     "capacity": "1-3 cups",
     "price": 25,
     "priceRange": "under-50",
-    "features": ["Immersion brewer with valve", "Beginner-friendly", "Uses Melitta #4 filters"],
-    "featuresJa": ["バルブ付き浸漬式ブリューワー", "初心者向け", "メリタ#4フィルター対応"],
+    "features": [
+      "Immersion brewer with valve",
+      "Beginner-friendly",
+      "Uses Melitta #4 filters"
+    ],
+    "featuresJa": [
+      "バルブ付き浸漬式ブリューワー",
+      "初心者向け",
+      "メリタ#4フィルター対応"
+    ],
     "description": "The Clever Dripper combines the ease of immersion brewing with the clean cup of a paper filter. Simply add coffee and water, wait, then place on your mug to drain.",
     "descriptionJa": "クレバードリッパーは浸漬式の手軽さとペーパーフィルターのクリーンさを両立。コーヒーと湯を入れて待ち、マグに乗せるだけ。",
     "amazonUrl": "https://amzn.to/4bSayMX",
+    "amazonJPUrl": "https://amzn.to/4vbYUnv",
     "rakutenUrl": "",
-    "image": "/images/gear/dripper.svg"
+    "image": "/images/gear/clever-dripper.webp"
   },
   {
     "id": "cafec-flower-dripper",
@@ -162,13 +234,22 @@
     "capacity": "1-4 cups",
     "price": 28,
     "priceRange": "under-50",
-    "features": ["Petal-shaped ribs", "Designed by Chikao Taguchi", "Excellent flow control"],
-    "featuresJa": ["花びら型リブ", "田口護氏監修", "優れた流速コントロール"],
+    "features": [
+      "Petal-shaped ribs",
+      "Designed by Chikao Taguchi",
+      "Excellent flow control"
+    ],
+    "featuresJa": [
+      "花びら型リブ",
+      "田口護氏監修",
+      "優れた流速コントロール"
+    ],
     "description": "Designed by coffee legend Chikao Taguchi, the Flower Dripper's petal-shaped ribs create optimal airflow between filter and wall, allowing for precise extraction control.",
     "descriptionJa": "コーヒーの巨匠・田口護氏が監修したフラワードリッパー。花びら型リブがフィルターと壁の間に最適なエアフローを生み出します。",
     "amazonUrl": "https://amzn.to/4mbCRJu",
+    "amazonJPUrl": "https://amzn.to/4bUIpVq",
     "rakutenUrl": "",
-    "image": "/images/gear/dripper.svg"
+    "image": "/images/gear/cafec-flower-dripper.webp"
   },
   {
     "id": "december-dripper",
@@ -181,13 +262,22 @@
     "capacity": "1-3 cups",
     "price": 60,
     "priceRange": "50-100",
-    "features": ["Adjustable flow rate (12 settings)", "Cone shape design", "Immersion capable"],
-    "featuresJa": ["流速調整可能（12段階）", "コーン型デザイン", "浸漬式にも対応"],
+    "features": [
+      "Adjustable flow rate (12 settings)",
+      "Cone shape design",
+      "Immersion capable"
+    ],
+    "featuresJa": [
+      "流速調整可能（12段階）",
+      "コーン型デザイン",
+      "浸漬式にも対応"
+    ],
     "description": "The December Dripper lets you adjust flow rate with 12 settings, from fully open (fast pour-over) to fully closed (immersion). The most versatile dripper ever made.",
     "descriptionJa": "ディセンバードリッパーは12段階の流速調整が可能。全開（高速ポアオーバー）から全閉（浸漬式）まで対応する最も汎用性の高いドリッパー。",
     "amazonUrl": "https://amzn.to/4bThYzA",
+    "amazonJPUrl": "",
     "rakutenUrl": "",
-    "image": "/images/gear/dripper.svg"
+    "image": "/images/gear/december-dripper.webp"
   },
   {
     "id": "melodrip",
@@ -200,13 +290,22 @@
     "capacity": "Accessory",
     "price": 28,
     "priceRange": "under-50",
-    "features": ["Disperses water evenly", "Reduces agitation", "Works with any dripper"],
-    "featuresJa": ["湯を均一に分散", "撹拌を軽減", "どのドリッパーにも対応"],
+    "features": [
+      "Disperses water evenly",
+      "Reduces agitation",
+      "Works with any dripper"
+    ],
+    "featuresJa": [
+      "湯を均一に分散",
+      "撹拌を軽減",
+      "どのドリッパーにも対応"
+    ],
     "description": "The Melodrip is a pour-over accessory that disperses water into gentle droplets, reducing agitation for a sweeter, more balanced extraction. Used by competition baristas worldwide.",
     "descriptionJa": "メロドリップはポアオーバーのアクセサリー。湯を穏やかな水滴に分散させ、撹拌を抑えることで甘くバランスの取れた抽出を実現します。",
     "amazonUrl": "",
+    "amazonJPUrl": "https://amzn.to/4sRu9CJ",
     "rakutenUrl": "",
-    "image": "/images/gear/dripper.svg"
+    "image": "/images/gear/melodrip.webp"
   },
   {
     "id": "fellow-stagg-ekg",
@@ -219,13 +318,22 @@
     "capacity": "0.9L",
     "price": 195,
     "priceRange": "100-300",
-    "features": ["Variable temperature control", "Precision pour spout", "60-min hold mode"],
-    "featuresJa": ["温度調整機能", "精密注湯スパウト", "60分保温モード"],
+    "features": [
+      "Variable temperature control",
+      "Precision pour spout",
+      "60-min hold mode"
+    ],
+    "featuresJa": [
+      "温度調整機能",
+      "精密注湯スパウト",
+      "60分保温モード"
+    ],
     "description": "The Stagg EKG is the gold standard of pour-over kettles. Variable temperature control, a precision-pour spout, and a 60-minute hold mode make it indispensable for serious brewers.",
     "descriptionJa": "Stagg EKGはポアオーバーケトルのゴールドスタンダード。温度調整、精密注湯スパウト、60分保温モードは本格派に不可欠です。",
     "amazonUrl": "https://amzn.to/47Jk7eJ",
+    "amazonJPUrl": "https://amzn.to/4c5ZyKv",
     "rakutenUrl": "",
-    "image": "/images/gear/kettle.svg"
+    "image": "/images/gear/fellow-stagg-ekg.webp"
   },
   {
     "id": "fellow-ode-grinder",
@@ -238,13 +346,22 @@
     "capacity": "80g",
     "price": 345,
     "priceRange": "300-plus",
-    "features": ["64mm SSP burrs", "31 grind settings", "Low-retention design"],
-    "featuresJa": ["64mm SSPバー", "31段階の挽き目", "低残留設計"],
+    "features": [
+      "64mm SSP burrs",
+      "31 grind settings",
+      "Low-retention design"
+    ],
+    "featuresJa": [
+      "64mm SSPバー",
+      "31段階の挽き目",
+      "低残留設計"
+    ],
     "description": "The Ode Gen 2 features professional-grade 64mm SSP burrs in a compact countertop design. 31 grind settings cover everything from AeroPress to French Press with exceptional uniformity.",
     "descriptionJa": "Ode Gen 2はプロ級64mm SSPバーをコンパクトな卓上デザインに搭載。31段階でエアロプレスからフレンチプレスまで対応します。",
     "amazonUrl": "",
+    "amazonJPUrl": "https://amzn.to/41f2S16",
     "rakutenUrl": "",
-    "image": "/images/gear/grinder.svg"
+    "image": "/images/gear/fellow-ode-grinder.webp"
   },
   {
     "id": "baratza-encore",
@@ -257,13 +374,22 @@
     "capacity": "227g hopper",
     "price": 170,
     "priceRange": "100-300",
-    "features": ["40mm conical burrs", "40 grind settings", "Industry-standard entry grinder"],
-    "featuresJa": ["40mmコニカルバー", "40段階の挽き目", "業界標準のエントリーグラインダー"],
+    "features": [
+      "40mm conical burrs",
+      "40 grind settings",
+      "Industry-standard entry grinder"
+    ],
+    "featuresJa": [
+      "40mmコニカルバー",
+      "40段階の挽き目",
+      "業界標準のエントリーグラインダー"
+    ],
     "description": "The Baratza Encore is the most recommended entry-level electric grinder in specialty coffee. Reliable 40mm conical burrs, 40 settings, and excellent customer support make it a no-brainer first grinder.",
     "descriptionJa": "バラッツァ アンコールはスペシャルティコーヒー界で最も推奨されるエントリー電動グラインダー。信頼性の高い40mmコニカルバーと40段階の挽き目。",
     "amazonUrl": "",
+    "amazonJPUrl": "https://amzn.to/4sqJ7io",
     "rakutenUrl": "",
-    "image": "/images/gear/grinder.svg"
+    "image": "/images/gear/baratza-encore.webp"
   },
   {
     "id": "comandante-c40",
@@ -276,13 +402,22 @@
     "capacity": "40g",
     "price": 290,
     "priceRange": "100-300",
-    "features": ["High Nitrogen steel burrs", "Legendary grind quality", "Handmade in Germany"],
-    "featuresJa": ["ハイニトロジェンスチールバー", "伝説的な挽き品質", "ドイツ手作り"],
+    "features": [
+      "High Nitrogen steel burrs",
+      "Legendary grind quality",
+      "Handmade in Germany"
+    ],
+    "featuresJa": [
+      "ハイニトロジェンスチールバー",
+      "伝説的な挽き品質",
+      "ドイツ手作り"
+    ],
     "description": "The Comandante C40 is widely considered the best hand grinder ever made. Its proprietary High Nitrogen steel burrs produce exceptional particle uniformity across all brew methods.",
     "descriptionJa": "コマンダンテC40は史上最高のハンドグラインダーと広く評価されています。独自のハイニトロジェンスチールバーが全抽出方法で優れた粒度均一性を実現。",
     "amazonUrl": "https://amzn.to/41NuP05",
+    "amazonJPUrl": "",
     "rakutenUrl": "",
-    "image": "/images/gear/grinder.svg"
+    "image": "/images/gear/comandante-c40.webp"
   },
   {
     "id": "1zpresso-jx-pro",
@@ -295,13 +430,22 @@
     "capacity": "35g",
     "price": 169,
     "priceRange": "100-300",
-    "features": ["48mm steel burrs", "Espresso-capable", "External adjustment ring"],
-    "featuresJa": ["48mmスチールバー", "エスプレッソ対応", "外部調整リング"],
+    "features": [
+      "48mm steel burrs",
+      "Espresso-capable",
+      "External adjustment ring"
+    ],
+    "featuresJa": [
+      "48mmスチールバー",
+      "エスプレッソ対応",
+      "外部調整リング"
+    ],
     "description": "The JX-Pro offers exceptional value for a hand grinder capable of espresso. Its 48mm burrs and external adjustment ring make dialing in espresso surprisingly easy.",
     "descriptionJa": "JX-Proはエスプレッソ対応ハンドグラインダーとして抜群のコスパを誇ります。48mmバーと外部調整リングでエスプレッソの調整が驚くほど簡単。",
     "amazonUrl": "https://amzn.to/4mcnhxv",
+    "amazonJPUrl": "",
     "rakutenUrl": "",
-    "image": "/images/gear/grinder.svg"
+    "image": "/images/gear/1zpresso-jx-pro.webp"
   },
   {
     "id": "timemore-c2",
@@ -314,13 +458,22 @@
     "capacity": "25g",
     "price": 65,
     "priceRange": "50-100",
-    "features": ["S2C stainless burrs", "Budget-friendly", "Compact travel size"],
-    "featuresJa": ["S2Cステンレスバー", "コスパ最強", "コンパクトな旅行サイズ"],
+    "features": [
+      "S2C stainless burrs",
+      "Budget-friendly",
+      "Compact travel size"
+    ],
+    "featuresJa": [
+      "S2Cステンレスバー",
+      "コスパ最強",
+      "コンパクトな旅行サイズ"
+    ],
     "description": "The Timemore C2 punches well above its weight. At under $70, it delivers grind quality that rivals grinders twice its price, making it the best budget hand grinder available.",
     "descriptionJa": "タイムモアC2は価格を超えた性能を発揮。7,000円台で倍の価格帯に匹敵する挽き品質を実現する、最高のバジェットハンドグラインダーです。",
     "amazonUrl": "https://amzn.to/47LaQmd",
+    "amazonJPUrl": "https://amzn.to/4bPkW88",
     "rakutenUrl": "",
-    "image": "/images/gear/grinder.svg"
+    "image": "/images/gear/timemore-c2.webp"
   },
   {
     "id": "aeropress-original",
@@ -333,13 +486,22 @@
     "capacity": "1-3 cups",
     "price": 40,
     "priceRange": "under-50",
-    "features": ["Rapid full immersion brewing", "Extremely versatile", "Nearly indestructible"],
-    "featuresJa": ["高速フルイマージョン抽出", "極めて多用途", "ほぼ壊れない耐久性"],
+    "features": [
+      "Rapid full immersion brewing",
+      "Extremely versatile",
+      "Nearly indestructible"
+    ],
+    "featuresJa": [
+      "高速フルイマージョン抽出",
+      "極めて多用途",
+      "ほぼ壊れない耐久性"
+    ],
     "description": "The AeroPress is the most versatile brewer ever invented. Standard, inverted, bypass — it can brew anything from espresso-style concentrate to clean filter coffee in under 2 minutes.",
     "descriptionJa": "エアロプレスは史上最も多用途なブリューワー。スタンダード、インバート、バイパス方式で、エスプレッソ風からクリーンなフィルターコーヒーまで2分以内で抽出。",
     "amazonUrl": "https://amzn.to/3PIJfvZ",
+    "amazonJPUrl": "https://amzn.to/4e3yrT2",
     "rakutenUrl": "",
-    "image": "/images/gear/placeholder.svg"
+    "image": "/images/gear/aeropress-original.webp"
   },
   {
     "id": "aeropress-go",
@@ -352,13 +514,22 @@
     "capacity": "1 cup",
     "price": 35,
     "priceRange": "under-50",
-    "features": ["Travel-sized", "Mug doubles as carrying case", "Same brew quality"],
-    "featuresJa": ["トラベルサイズ", "マグがキャリングケースに", "同等の抽出品質"],
+    "features": [
+      "Travel-sized",
+      "Mug doubles as carrying case",
+      "Same brew quality"
+    ],
+    "featuresJa": [
+      "トラベルサイズ",
+      "マグがキャリングケースに",
+      "同等の抽出品質"
+    ],
     "description": "The AeroPress Go packs the same brilliant brewing into a compact travel package. The included mug doubles as a carrying case, making it the ultimate travel coffee maker.",
     "descriptionJa": "エアロプレスGoは同じ素晴らしい抽出をコンパクトなトラベルパッケージに凝縮。付属のマグがキャリングケースとしても使えます。",
-    "amazonUrl": "",
+    "amazonUrl": "https://amzn.to/4bSn0Mz",
+    "amazonJPUrl": "https://amzn.to/3NOh1zk",
     "rakutenUrl": "",
-    "image": "/images/gear/placeholder.svg"
+    "image": "/images/gear/aeropress-go.webp"
   },
   {
     "id": "bialetti-moka-express",
@@ -371,13 +542,22 @@
     "capacity": "6 cups (300ml)",
     "price": 35,
     "priceRange": "under-50",
-    "features": ["Iconic Italian design since 1933", "Stovetop brewing", "Rich concentrated coffee"],
-    "featuresJa": ["1933年からのイタリアンアイコン", "直火式抽出", "濃厚なコーヒー"],
+    "features": [
+      "Iconic Italian design since 1933",
+      "Stovetop brewing",
+      "Rich concentrated coffee"
+    ],
+    "featuresJa": [
+      "1933年からのイタリアンアイコン",
+      "直火式抽出",
+      "濃厚なコーヒー"
+    ],
     "description": "The Bialetti Moka Express has been producing rich, concentrated stovetop coffee since 1933. Its patented safety valve and iconic octagonal design are recognizable worldwide.",
     "descriptionJa": "ビアレッティ モカエキスプレスは1933年から濃厚な直火式コーヒーを生み出し続けています。特許の安全弁と八角形デザインは世界中で認知されています。",
-    "amazonUrl": "",
+    "amazonUrl": "https://amzn.to/48nz8Tt",
+    "amazonJPUrl": "https://amzn.to/4sYwqw8",
     "rakutenUrl": "",
-    "image": "/images/gear/placeholder.svg"
+    "image": "/images/gear/bialetti-moka-express.webp"
   },
   {
     "id": "flair-espresso-pro-2",
@@ -390,13 +570,22 @@
     "capacity": "Single/Double shot",
     "price": 289,
     "priceRange": "100-300",
-    "features": ["Manual lever espresso", "Pressure gauge included", "No electricity needed"],
-    "featuresJa": ["手動レバーエスプレッソ", "圧力ゲージ付属", "電源不要"],
+    "features": [
+      "Manual lever espresso",
+      "Pressure gauge included",
+      "No electricity needed"
+    ],
+    "featuresJa": [
+      "手動レバーエスプレッソ",
+      "圧力ゲージ付属",
+      "電源不要"
+    ],
     "description": "The Flair Pro 2 puts cafe-quality espresso in your hands — literally. Its manual lever design with pressure gauge gives you full control over every variable in the shot.",
     "descriptionJa": "Flair Pro 2はカフェクオリティのエスプレッソを文字通り手の中に。圧力ゲージ付き手動レバーでショットのすべてをコントロールできます。",
     "amazonUrl": "",
+    "amazonJPUrl": "https://amzn.to/4tn3T34",
     "rakutenUrl": "",
-    "image": "/images/gear/espresso-machine.svg"
+    "image": "/images/gear/flair-espresso-pro-2.webp"
   },
   {
     "id": "rok-espresso-gc",
@@ -409,13 +598,22 @@
     "capacity": "Single/Double shot",
     "price": 199,
     "priceRange": "100-300",
-    "features": ["Manual lever design", "Beautiful glass composite", "10-year warranty"],
-    "featuresJa": ["手動レバー式", "美しいガラスコンポジット", "10年保証"],
+    "features": [
+      "Manual lever design",
+      "Beautiful glass composite",
+      "10-year warranty"
+    ],
+    "featuresJa": [
+      "手動レバー式",
+      "美しいガラスコンポジット",
+      "10年保証"
+    ],
     "description": "The ROK EspressoGC combines beautiful design with functional espresso making. Its dual-arm lever system provides 9+ bars of pressure for authentic espresso extraction.",
     "descriptionJa": "ROK EspressoGCは美しいデザインと機能的なエスプレッソ抽出を両立。デュアルアームレバーで9bar以上の圧力を生み出します。",
     "amazonUrl": "",
+    "amazonJPUrl": "https://amzn.to/47HuiAk",
     "rakutenUrl": "",
-    "image": "/images/gear/espresso-machine.svg"
+    "image": "/images/gear/rok-espresso-gc.webp"
   },
   {
     "id": "breville-bambino-plus",
@@ -428,13 +626,22 @@
     "capacity": "Single/Double shot",
     "price": 499,
     "priceRange": "300-plus",
-    "features": ["3-second heat up", "Automatic milk texturing", "Compact footprint"],
-    "featuresJa": ["3秒で加熱完了", "自動ミルクテクスチャリング", "コンパクト設計"],
+    "features": [
+      "3-second heat up",
+      "Automatic milk texturing",
+      "Compact footprint"
+    ],
+    "featuresJa": [
+      "3秒で加熱完了",
+      "自動ミルクテクスチャリング",
+      "コンパクト設計"
+    ],
     "description": "The Bambino Plus heats up in just 3 seconds with ThermoJet technology. Automatic steam wand textures milk perfectly for lattes, all in a footprint smaller than most drip machines.",
     "descriptionJa": "バンビーノプラスはThermoJet技術で僅か3秒で加熱完了。自動スチームワンドでラテに最適なミルクフォームを生成する、コンパクトなエスプレッソマシン。",
-    "amazonUrl": "",
+    "amazonUrl": "https://amzn.to/4vhhWsY",
+    "amazonJPUrl": "https://amzn.to/4m9Tju5",
     "rakutenUrl": "",
-    "image": "/images/gear/espresso-machine.svg"
+    "image": "/images/gear/breville-bambino-plus.webp"
   },
   {
     "id": "rancilio-silvia",
@@ -447,13 +654,22 @@
     "capacity": "Single/Double shot",
     "price": 835,
     "priceRange": "300-plus",
-    "features": ["Commercial group head", "Iron frame construction", "Professional steam wand"],
-    "featuresJa": ["業務用グループヘッド", "鉄フレーム構造", "プロフェッショナルスチームワンド"],
+    "features": [
+      "Commercial group head",
+      "Iron frame construction",
+      "Professional steam wand"
+    ],
+    "featuresJa": [
+      "業務用グループヘッド",
+      "鉄フレーム構造",
+      "プロフェッショナルスチームワンド"
+    ],
     "description": "The Rancilio Silvia is a legendary home espresso machine with commercial-grade components. Its brass boiler, iron frame, and commercial group head deliver cafe-quality shots for decades.",
     "descriptionJa": "ランチリオ シルビアは業務用部品を搭載した伝説的な家庭用エスプレッソマシン。真鍮ボイラー、鉄フレーム、業務用グループヘッドで数十年使えます。",
     "amazonUrl": "",
+    "amazonJPUrl": "https://amzn.to/4vd8XJo",
     "rakutenUrl": "",
-    "image": "/images/gear/espresso-machine.svg"
+    "image": "/images/gear/rancilio-silvia.webp"
   },
   {
     "id": "acaia-pearl",
@@ -466,13 +682,22 @@
     "capacity": "2000g x 0.1g",
     "price": 160,
     "priceRange": "100-300",
-    "features": ["0.1g precision", "Bluetooth app connectivity", "Built-in flow rate timer"],
-    "featuresJa": ["0.1g精度", "Bluetoothアプリ連携", "フローレートタイマー内蔵"],
+    "features": [
+      "0.1g precision",
+      "Bluetooth app connectivity",
+      "Built-in flow rate timer"
+    ],
+    "featuresJa": [
+      "0.1g精度",
+      "Bluetoothアプリ連携",
+      "フローレートタイマー内蔵"
+    ],
     "description": "The Acaia Pearl is the professional barista's choice. 0.1g precision, Bluetooth connectivity to the Acaia app, and a built-in flow rate timer make every brew perfectly repeatable.",
     "descriptionJa": "アカイア パールはプロバリスタのスタンダード。0.1g精度、Bluetoothアプリ連携、フローレートタイマーであらゆる抽出を完璧に再現できます。",
     "amazonUrl": "",
+    "amazonJPUrl": "",
     "rakutenUrl": "",
-    "image": "/images/gear/placeholder.svg"
+    "image": "/images/gear/acaia-pearl.webp"
   },
   {
     "id": "hario-scale",
@@ -485,13 +710,22 @@
     "capacity": "2000g x 0.1g",
     "price": 55,
     "priceRange": "50-100",
-    "features": ["Built-in timer", "0.1g precision", "Auto power off"],
-    "featuresJa": ["タイマー内蔵", "0.1g精度", "オートパワーオフ"],
+    "features": [
+      "Built-in timer",
+      "0.1g precision",
+      "Auto power off"
+    ],
+    "featuresJa": [
+      "タイマー内蔵",
+      "0.1g精度",
+      "オートパワーオフ"
+    ],
     "description": "The Hario V60 Drip Scale offers essential features — 0.1g precision and a built-in timer — at a fraction of the price of premium scales. The go-to budget scale for pour-over.",
     "descriptionJa": "ハリオ V60ドリップスケールは0.1g精度とタイマーをプレミアムスケールの数分の一の価格で提供。ポアオーバー用バジェットスケールの定番です。",
     "amazonUrl": "",
+    "amazonJPUrl": "https://amzn.to/4tsEh4Q",
     "rakutenUrl": "",
-    "image": "/images/gear/placeholder.svg"
+    "image": "/images/gear/hario-scale.webp"
   },
   {
     "id": "hario-server",
@@ -504,13 +738,22 @@
     "capacity": "600ml",
     "price": 18,
     "priceRange": "under-50",
-    "features": ["Microwave safe", "Glass handle", "600ml capacity markings"],
-    "featuresJa": ["電子レンジ対応", "ガラスハンドル", "600ml容量表示"],
+    "features": [
+      "Microwave safe",
+      "Glass handle",
+      "600ml capacity markings"
+    ],
+    "featuresJa": [
+      "電子レンジ対応",
+      "ガラスハンドル",
+      "600ml容量表示"
+    ],
     "description": "The Hario Range Server is the perfect companion for any V60 dripper. Microwave-safe heatproof glass with clear volume markings makes it both practical and elegant.",
     "descriptionJa": "ハリオ レンジサーバーはV60ドリッパーの最高のパートナー。電子レンジ対応の耐熱ガラスに明瞭な容量表示で実用的かつエレガント。",
     "amazonUrl": "",
+    "amazonJPUrl": "https://amzn.to/3POWHhP",
     "rakutenUrl": "",
-    "image": "/images/gear/placeholder.svg"
+    "image": "/images/gear/hario-server.webp"
   },
   {
     "id": "fellow-atmos",
@@ -523,13 +766,22 @@
     "capacity": "400g / 700g",
     "price": 32,
     "priceRange": "under-50",
-    "features": ["Integrated vacuum pump", "Removes air to preserve freshness", "Twist-lock lid"],
-    "featuresJa": ["統合真空ポンプ", "空気を除去して鮮度維持", "ツイストロックリッド"],
+    "features": [
+      "Integrated vacuum pump",
+      "Removes air to preserve freshness",
+      "Twist-lock lid"
+    ],
+    "featuresJa": [
+      "統合真空ポンプ",
+      "空気を除去して鮮度維持",
+      "ツイストロックリッド"
+    ],
     "description": "The Atmos Canister removes air with a twist-lock vacuum lid, keeping beans fresh up to 50% longer than standard containers. A simple but brilliant storage solution.",
     "descriptionJa": "アトモスキャニスターはツイストロック真空リッドで空気を除去し、標準的な容器より最大50%長く豆の鮮度を維持します。",
     "amazonUrl": "",
+    "amazonJPUrl": "https://amzn.to/4sWYfVE",
     "rakutenUrl": "",
-    "image": "/images/gear/placeholder.svg"
+    "image": "/images/gear/fellow-atmos.webp"
   },
   {
     "id": "ember-mug-2",
@@ -542,12 +794,225 @@
     "capacity": "295ml",
     "price": 130,
     "priceRange": "100-300",
-    "features": ["Temperature control (49-62.5°C)", "Bluetooth app", "80-min battery"],
-    "featuresJa": ["温度コントロール(49-62.5°C)", "Bluetoothアプリ", "80分バッテリー"],
+    "features": [
+      "Temperature control (49-62.5°C)",
+      "Bluetooth app",
+      "80-min battery"
+    ],
+    "featuresJa": [
+      "温度コントロール(49-62.5°C)",
+      "Bluetoothアプリ",
+      "80分バッテリー"
+    ],
     "description": "The Ember Mug 2 keeps your coffee at your perfect drinking temperature for up to 80 minutes. Set your preferred temperature via the app and never drink lukewarm coffee again.",
     "descriptionJa": "エンバーマグ2はコーヒーを最大80分間お好みの温度に保ちます。アプリで温度を設定すれば、もうぬるいコーヒーとは無縁です。",
     "amazonUrl": "",
+    "amazonJPUrl": "https://amzn.to/4m8VON0",
     "rakutenUrl": "",
-    "image": "/images/gear/placeholder.svg"
+    "image": "/images/gear/ember-mug-2.webp"
+  },
+  {
+    "id": "bodum-chambord",
+    "name": "Bodum Chambord French Press",
+    "nameJa": "ボダム シャンボール フレンチプレス",
+    "brand": "bodum",
+    "category": "french-press",
+    "material": "Borosilicate Glass + Stainless Steel",
+    "brewMethod": "immersion",
+    "capacity": "1L (8 cups)",
+    "price": 35,
+    "priceRange": "under-50",
+    "features": [
+      "Borosilicate glass carafe",
+      "3-part stainless steel mesh filter",
+      "Classic chrome frame design"
+    ],
+    "featuresJa": [
+      "耐熱ガラスカラフェ",
+      "3層ステンレスメッシュフィルター",
+      "クラシックなクロームフレーム"
+    ],
+    "description": "The Bodum Chambord is the world's best-selling French press for good reason. Its 3-part stainless steel mesh filter produces a rich, full-bodied cup while the borosilicate glass carafe withstands thermal shock with ease.",
+    "descriptionJa": "ボダム シャンボールは世界で最も売れているフレンチプレス。3層ステンレスメッシュフィルターがリッチでフルボディのカップを生み出し、耐熱ガラスカラフェは急激な温度変化にも耐えます。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/gear/bodum-chambord.webp",
+    "relatedGear": [
+      "espro-p7",
+      "fellow-ode-grinder",
+      "timemore-c2",
+      "hario-scale"
+    ]
+  },
+  {
+    "id": "espro-p7",
+    "name": "Espro P7 French Press",
+    "nameJa": "エスプロ P7 フレンチプレス",
+    "brand": "espro",
+    "category": "french-press",
+    "material": "Double-Wall Stainless Steel",
+    "brewMethod": "immersion",
+    "capacity": "950ml",
+    "price": 100,
+    "priceRange": "50-100",
+    "features": [
+      "Patented double micro-filter",
+      "Double-wall vacuum insulation",
+      "Locks out grit and bitterness"
+    ],
+    "featuresJa": [
+      "特許取得済みダブルマイクロフィルター",
+      "二重壁真空断熱",
+      "微粉と雑味をシャットアウト"
+    ],
+    "description": "The Espro P7 reinvents the French press with a patented double micro-filter that produces a remarkably clean cup — no grit, no bitterness. Double-wall vacuum insulation keeps coffee hot for hours without over-extracting.",
+    "descriptionJa": "エスプロ P7は特許取得済みダブルマイクロフィルターでフレンチプレスを再発明。微粉も雑味もない驚くほどクリーンなカップを実現。二重壁真空断熱で過抽出なく何時間も保温します。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/gear/espro-p7.webp",
+    "relatedGear": [
+      "bodum-chambord",
+      "fellow-ode-grinder",
+      "comandante-c40",
+      "acaia-pearl"
+    ]
+  },
+  {
+    "id": "fellow-opus-grinder",
+    "name": "Fellow Opus Grinder",
+    "nameJa": "フェロー オーパス グラインダー",
+    "brand": "fellow",
+    "category": "grinder",
+    "material": "Stainless Steel + Die-Cast Aluminum",
+    "brewMethod": "pour-over",
+    "capacity": "110g hopper",
+    "price": 195,
+    "priceRange": "100-300",
+    "features": [
+      "40mm conical burrs",
+      "41 grind settings",
+      "Electric all-purpose grinder"
+    ],
+    "featuresJa": [
+      "40mmコニカルバー",
+      "41段階の挽き目",
+      "電動オールパーパスグラインダー"
+    ],
+    "description": "The Fellow Opus bridges the gap between entry-level and premium electric grinders. Its 40mm conical burrs and 41 grind settings handle everything from espresso to cold brew, making it the ideal all-rounder for home baristas.",
+    "descriptionJa": "フェロー オーパスはエントリーレベルとプレミアムの間を埋める電動グラインダー。40mmコニカルバーと41段階の挽き目で、エスプレッソからコールドブリューまで対応するホームバリスタの万能選手。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/gear/fellow-opus-grinder.webp",
+    "relatedGear": [
+      "fellow-ode-grinder",
+      "baratza-encore",
+      "fellow-stagg-ekg",
+      "hario-v60-02"
+    ]
+  },
+  {
+    "id": "timemore-c3-pro",
+    "name": "Timemore C3 Pro",
+    "nameJa": "タイムモア C3 プロ",
+    "brand": "timemore",
+    "category": "grinder",
+    "material": "Stainless Steel Burr + Aluminum Body",
+    "brewMethod": "pour-over",
+    "capacity": "25g",
+    "price": 80,
+    "priceRange": "50-100",
+    "features": [
+      "Upgraded S2C stainless steel burrs",
+      "Finer click adjustment",
+      "Foldable handle for portability"
+    ],
+    "featuresJa": [
+      "改良型S2Cステンレスバー",
+      "より細かいクリック調整",
+      "折りたたみハンドルで携帯性向上"
+    ],
+    "description": "The Timemore C3 Pro builds on the legendary C2 with upgraded S2C burrs and finer click adjustment for more precise dialing. The foldable handle makes it even more travel-friendly, while grind quality approaches grinders twice the price.",
+    "descriptionJa": "タイムモア C3 Proは名機C2を改良型S2Cバーとより細かいクリック調整でアップグレード。折りたたみハンドルで携帯性も向上し、倍の価格帯に迫る挽き品質を実現します。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/gear/timemore-c3-pro.webp",
+    "relatedGear": [
+      "timemore-c2",
+      "1zpresso-jx-pro",
+      "comandante-c40",
+      "hario-v60-02"
+    ]
+  },
+  {
+    "id": "toddy-cold-brew",
+    "name": "Toddy Cold Brew System",
+    "nameJa": "トディ コールドブリューシステム",
+    "brand": "toddy",
+    "category": "cold-brew",
+    "material": "BPA-Free Plastic + Glass Decanter",
+    "brewMethod": "immersion",
+    "capacity": "1.4L",
+    "price": 40,
+    "priceRange": "under-50",
+    "features": [
+      "Reusable felt filters",
+      "Makes smooth cold brew concentrate",
+      "Glass decanter for storage"
+    ],
+    "featuresJa": [
+      "再利用可能なフェルトフィルター",
+      "滑らかなコールドブリュー濃縮液を作成",
+      "保存用ガラスデキャンタ"
+    ],
+    "description": "The Toddy Cold Brew System is the original and still one of the best ways to make cold brew at home. Steep coarsely ground coffee for 12-24 hours, then drain into the glass decanter for up to two weeks of smooth, low-acid concentrate.",
+    "descriptionJa": "トディ コールドブリューシステムは元祖にして今なお最良のコールドブリュー器具の一つ。粗挽きコーヒーを12-24時間浸漬し、ガラスデキャンタに抽出すれば、最大2週間分の滑らかで低酸味の濃縮液が完成します。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/gear/toddy-cold-brew.webp",
+    "relatedGear": [
+      "fellow-ode-grinder",
+      "baratza-encore",
+      "fellow-atmos",
+      "hario-scale"
+    ]
+  },
+  {
+    "id": "delonghi-dedica-duo",
+    "name": "De'Longhi Dedica Duo",
+    "nameJa": "デロンギ デディカ デュオ",
+    "brand": "delonghi",
+    "category": "espresso-machine",
+    "material": "Stainless Steel",
+    "brewMethod": "espresso",
+    "capacity": "Single/Double shot",
+    "price": 350,
+    "priceRange": "300-plus",
+    "features": [
+      "15-bar professional pump",
+      "Thermoblock heating system",
+      "Ultra-slim 6-inch width"
+    ],
+    "featuresJa": [
+      "15気圧プロフェッショナルポンプ",
+      "サーモブロック加熱システム",
+      "超スリム幅15cm"
+    ],
+    "description": "The De'Longhi Dedica Duo packs a 15-bar pump and thermoblock heater into an ultra-slim 6-inch wide body. Its manual frothing wand gives you full control over milk texture, making it an excellent semi-automatic for tight countertops.",
+    "descriptionJa": "デロンギ デディカ デュオは15気圧ポンプとサーモブロックヒーターを幅わずか15cmのスリムボディに搭載。手動フロッサーでミルクテクスチャを自在にコントロールでき、省スペースな半自動エスプレッソマシンです。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/gear/delonghi-dedica-duo.webp",
+    "relatedGear": [
+      "breville-bambino-plus",
+      "rancilio-silvia",
+      "flair-espresso-pro-2",
+      "1zpresso-jx-pro"
+    ]
   }
 ]

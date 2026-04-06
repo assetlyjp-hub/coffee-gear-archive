@@ -4,6 +4,7 @@ description: "Find the best coffee grinders under $100 for pour over, French pre
 category: "review"
 tags: ["grinder", "budget", "timemore", "1zpresso", "baratza", "buying guide"]
 publishedAt: "2026-04-03"
+updatedAt: "2026-04-06"
 relatedGear: ["timemore-c2", "1zpresso-q2", "baratza-encore"]
 articleType: "listicle"
 ---

@@ -8,9 +8,23 @@ import GearCard from '../components/GearCard.astro';
 
 // 器具データの読み込み
 import gearData from '../data/gear.json';
+
+// ItemList JSON-LD: Google検索結果でカルーセル表示の可能性を高める
+const itemListJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Coffee Brewing Equipment & Gear",
+  "numberOfItems": gearData.length,
+  "itemListElement": gearData.map((gear, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "url": `https://coffeegeararchive.com/gear/${gear.id}/`,
+    "name": gear.name,
+  })),
+};
 ---
 
-<Base title="Coffee Gear Archive">
+<Base title="Coffee Gear Archive" jsonLd={itemListJsonLd}>
   <!-- ヒーローセクション -->
   <section class="hero">
     <h1 class="hero__title">Coffee Gear <span>Archive</span></h1>
