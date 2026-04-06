@@ -1,31 +1,23 @@
 ---
-// magazine/[...slug].astro - 記事詳細ページ
-// Markdownの記事をレンダリングして表示
-// relatedGearフィールドから関連商品カードも表示する
-
-import Article from '../../layouts/Article.astro';
-import RelatedProducts from '../../components/RelatedProducts.astro';
+// ja/magazine/[...slug].astro - 日本語版 記事詳細ページ
+import Article from '../../../layouts/Article.astro';
+import RelatedProducts from '../../../components/RelatedProducts.astro';
 import { getCollection, render } from 'astro:content';
-import gearData from '../../data/gear.json';
+import gearData from '../../../data/gear.json';
 
-// 静的パス生成（全記事からパスを生成）
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
   return articles
-    .filter(a => !a.id.startsWith('ja/'))
+    .filter(a => a.id.startsWith('ja/'))
     .map((article) => ({
-      params: { slug: article.id },
+      params: { slug: article.id.replace('ja/', '') },
       props: { article },
     }));
 }
 
-// 記事データを取得
 const { article } = Astro.props;
-
-// MarkdownをHTMLにレンダリング
 const { Content } = await render(article);
 
-// frontmatterのrelatedGearからIDを取得し、gear.jsonとマッチング
 const relatedIds = article.data.relatedGear || [];
 const matchedGear = relatedIds.map((id: string) =>
   gearData.find((g: any) => g.id === id)

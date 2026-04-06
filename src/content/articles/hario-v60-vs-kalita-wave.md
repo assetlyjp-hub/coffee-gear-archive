@@ -4,6 +4,7 @@ description: "A detailed comparison of the Hario V60 and Kalita Wave pour over d
 category: "comparison"
 tags: ["v60", "kalita wave", "pour over", "comparison", "hario", "kalita"]
 publishedAt: "2026-04-02"
+updatedAt: "2026-04-06"
 relatedGear: ["hario-v60-02", "kalita-wave-185"]
 articleType: "comparison"
 ---

@@ -4,6 +4,7 @@ description: "Master pour over coffee with our complete brewing guide. Learn the
 category: "method"
 tags: ["pour over", "brewing guide", "technique", "v60", "beginner"]
 publishedAt: "2026-04-03"
+updatedAt: "2026-04-06"
 relatedGear: ["hario-v60-02", "fellow-stagg-ekg", "timemore-black-mirror"]
 articleType: "guide"
 ---

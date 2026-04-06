@@ -4,6 +4,7 @@ description: "Discover the best pour over drippers from Hario, Kalita, and Cheme
 category: "review"
 tags: ["pour over", "dripper", "v60", "kalita wave", "chemex", "buying guide"]
 publishedAt: "2026-04-01"
+updatedAt: "2026-04-06"
 relatedGear: ["hario-v60-02", "kalita-wave-185", "chemex-6-cup"]
 articleType: "listicle"
 ---
