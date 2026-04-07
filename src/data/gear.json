@@ -1014,5 +1014,215 @@
       "flair-espresso-pro-2",
       "1zpresso-jx-pro"
     ]
+  },
+  {
+    "id": "niche-zero",
+    "name": "Niche Zero Grinder",
+    "nameJa": "ニッシェ ゼロ グラインダー",
+    "brand": "niche",
+    "category": "grinder",
+    "material": "Aluminum / Stainless Steel",
+    "brewMethod": "all-purpose",
+    "capacity": "single dose",
+    "price": 700,
+    "priceRange": "500-plus",
+    "features": [
+      "63mm conical burr set",
+      "Zero retention single-dose design",
+      "Quiet DC motor",
+      "Stepless grind adjustment"
+    ],
+    "featuresJa": [
+      "63mmコニカル刃",
+      "ゼロリテンション・シングルドーズ設計",
+      "静音DCモーター",
+      "無段階挽き目調整"
+    ],
+    "description": "The Niche Zero revolutionized the home grinder market with its zero-retention, single-dose design. Its 63mm conical burr set handles everything from espresso to French press with a simple twist of the dial. Compact, quiet, and virtually waste-free.",
+    "descriptionJa": "ニッシェ ゼロはゼロリテンション・シングルドーズ設計で家庭用グラインダー市場に革命を起こした。63mmコニカル刃がエスプレッソからフレンチプレスまでダイヤル一つで対応。コンパクト、静音、豆のロスがほぼゼロ。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/gear/niche-zero.webp",
+    "relatedGear": [
+      "1zpresso-k-ultra",
+      "timemore-sculptor-064s",
+      "weber-eg-1"
+    ]
+  },
+  {
+    "id": "tricolate",
+    "name": "Tricolate Coffee Brewer",
+    "nameJa": "トリコレート コーヒーブリューワー",
+    "brand": "tricolate",
+    "category": "dripper",
+    "material": "Borosilicate Glass",
+    "brewMethod": "pour-over",
+    "capacity": "1-2 cups",
+    "price": 90,
+    "priceRange": "50-100",
+    "features": [
+      "Full immersion and percolation hybrid",
+      "Flat-bottom design for even extraction",
+      "Borosilicate glass construction",
+      "Extremely high extraction yields"
+    ],
+    "featuresJa": [
+      "フルイマージョンとパーコレーションのハイブリッド",
+      "フラットボトムで均一な抽出",
+      "耐熱ホウケイ酸ガラス製",
+      "非常に高い抽出率"
+    ],
+    "description": "The Tricolate is a groundbreaking brewer that achieves remarkably high extraction yields through its unique flat-bottom design. By allowing full immersion followed by slow percolation, it produces an exceptionally clean and sweet cup that rivals the best pour-over methods.",
+    "descriptionJa": "トリコレートは独自のフラットボトム設計で驚くほど高い抽出率を実現する画期的なブリューワー。フルイマージョン後にゆっくりパーコレーションすることで、最高のポアオーバーに匹敵するクリーンで甘いカップを生み出す。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/gear/tricolate.webp",
+    "relatedGear": [
+      "hario-v60-02",
+      "orea-v3",
+      "origami-dripper"
+    ]
+  },
+  {
+    "id": "orea-v3",
+    "name": "Orea V3 Brewer",
+    "nameJa": "オレア V3 ブリューワー",
+    "brand": "orea",
+    "category": "dripper",
+    "material": "Stainless Steel",
+    "brewMethod": "pour-over",
+    "capacity": "1-3 cups",
+    "price": 65,
+    "priceRange": "50-100",
+    "features": [
+      "Interchangeable flow restrictors",
+      "Stainless steel construction",
+      "Compact and travel-friendly",
+      "Works with standard flat-bottom filters"
+    ],
+    "featuresJa": [
+      "交換可能なフローリストリクター",
+      "ステンレススチール製",
+      "コンパクトで旅行に最適",
+      "標準フラットボトムフィルター対応"
+    ],
+    "description": "The Orea V3 is a precision-engineered stainless steel dripper with interchangeable flow restrictors that let you fine-tune your brew. Swap between fast, medium, and slow flow to match any coffee and recipe. Built to last and travel anywhere.",
+    "descriptionJa": "オレア V3は精密設計のステンレスドリッパー。交換可能なフローリストリクターで抽出をカスタマイズ。高速・中速・低速のフローを使い分け、あらゆるコーヒーとレシピに対応。耐久性に優れ、どこへでも持ち運べる。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/gear/orea-v3.webp",
+    "relatedGear": [
+      "tricolate",
+      "hario-v60-02",
+      "origami-dripper"
+    ]
+  },
+  {
+    "id": "1zpresso-k-ultra",
+    "name": "1Zpresso K-Ultra",
+    "nameJa": "ワンゼットプレッソ K-Ultra",
+    "brand": "1zpresso",
+    "category": "grinder",
+    "material": "Aluminum / Stainless Steel",
+    "brewMethod": "all-purpose",
+    "capacity": "single dose",
+    "price": 300,
+    "priceRange": "200-500",
+    "features": [
+      "48mm stainless steel burr set",
+      "External grind adjustment dial",
+      "Blind shaker anti-popcorn system",
+      "Magnet catch cup"
+    ],
+    "featuresJa": [
+      "48mmステンレススチール刃",
+      "外部挽き目調整ダイヤル",
+      "ブラインドシェーカー・アンチポップコーンシステム",
+      "マグネットキャッチカップ"
+    ],
+    "description": "The 1Zpresso K-Ultra is the pinnacle of hand grinder engineering. Its 48mm stainless steel burrs deliver espresso-quality grinds with remarkable speed and consistency. The external adjustment dial and blind shaker design make it the most user-friendly premium hand grinder available.",
+    "descriptionJa": "ワンゼットプレッソ K-Ultraはハンドグラインダー工学の頂点。48mmステンレス刃がエスプレッソ品質の粉を驚くほどの速さと一貫性で提供。外部調整ダイヤルとブラインドシェーカー設計で最も使いやすいプレミアムハンドグラインダー。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/gear/1zpresso-k-ultra.webp",
+    "relatedGear": [
+      "1zpresso-jx-pro",
+      "niche-zero",
+      "timemore-sculptor-064s"
+    ]
+  },
+  {
+    "id": "timemore-sculptor-064s",
+    "name": "Timemore Sculptor 064S",
+    "nameJa": "タイムモア スカルプター 064S",
+    "brand": "timemore",
+    "category": "grinder",
+    "material": "Aluminum / Stainless Steel",
+    "brewMethod": "all-purpose",
+    "capacity": "single dose",
+    "price": 350,
+    "priceRange": "200-500",
+    "features": [
+      "64mm flat burr set",
+      "Variable speed motor",
+      "Zero retention design",
+      "USB-C powered option"
+    ],
+    "featuresJa": [
+      "64mmフラット刃",
+      "可変速モーター",
+      "ゼロリテンション設計",
+      "USB-C電源オプション"
+    ],
+    "description": "The Timemore Sculptor 064S brings 64mm flat burr grinding performance to a compact, affordable package. Its variable speed motor allows you to dial in the perfect grind speed, while the zero-retention design ensures every gram of coffee makes it into your cup.",
+    "descriptionJa": "タイムモア スカルプター 064Sは64mmフラット刃の高性能をコンパクトで手頃なパッケージに凝縮。可変速モーターで最適な挽き速度を設定でき、ゼロリテンション設計で全てのコーヒーをカップへ届ける。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/gear/timemore-sculptor-064s.webp",
+    "relatedGear": [
+      "niche-zero",
+      "weber-eg-1",
+      "1zpresso-k-ultra"
+    ]
+  },
+  {
+    "id": "weber-eg-1",
+    "name": "Weber EG-1",
+    "nameJa": "ウェーバー EG-1",
+    "brand": "weber",
+    "category": "grinder",
+    "material": "Aluminum / Stainless Steel",
+    "brewMethod": "espresso",
+    "capacity": "single dose",
+    "price": 3500,
+    "priceRange": "500-plus",
+    "features": [
+      "83mm flat burr set",
+      "Ultra-low retention",
+      "Monolithic aluminum body",
+      "Precision-machined components"
+    ],
+    "featuresJa": [
+      "83mmフラット刃",
+      "超低リテンション",
+      "モノリシックアルミニウムボディ",
+      "精密加工コンポーネント"
+    ],
+    "description": "The Weber EG-1 is an ultra-premium espresso grinder that pushes the boundaries of grind quality. Its massive 83mm flat burrs produce exceptionally uniform particles, while the minimalist aluminum body is as much a work of art as it is a tool. The benchmark for home espresso grinding.",
+    "descriptionJa": "ウェーバー EG-1は挽き品質の限界に挑むウルトラプレミアムエスプレッソグラインダー。巨大な83mmフラット刃が格別に均一な粒子を生み出し、ミニマリストなアルミボディは道具であると同時に芸術品。家庭用エスプレッソグラインドのベンチマーク。",
+    "amazonUrl": "",
+    "amazonJPUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/gear/weber-eg-1.webp",
+    "relatedGear": [
+      "niche-zero",
+      "timemore-sculptor-064s",
+      "lagom-p64"
+    ]
   }
 ]
