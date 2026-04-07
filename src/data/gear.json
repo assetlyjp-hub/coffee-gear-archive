@@ -25,7 +25,8 @@
     "amazonUrl": "https://amzn.to/4sqwKCY",
     "amazonJPUrl": "https://amzn.to/47JZkrh",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tk7am.vntj2a96.g00tk7am.vntj33be/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmujica-felice%2Fb015r7yw5o%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmujica-felice%2Fi%2F10210647%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/hario-v60-01.webp"
+    "image": "/images/gear/hario-v60-01.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Hario+V60+01+Ceramic&tag=assetly-21"
   },
   {
     "id": "hario-v60-02",
@@ -53,7 +54,8 @@
     "amazonUrl": "https://amzn.to/4sfSFww",
     "amazonJPUrl": "https://amzn.to/4sMjQQu",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00s4o6m.vntj2538.g00s4o6m.vntj349d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2F4977642143364_10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F10763480%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/hario-v60-02.webp"
+    "image": "/images/gear/hario-v60-02.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Hario+V60+02+Ceramic&tag=assetly-21"
   },
   {
     "id": "hario-v60-copper",
@@ -79,9 +81,10 @@
     "description": "The copper V60 offers superior thermal conductivity, maintaining brewing temperature throughout the pour. A beautiful piece that develops a unique patina with use.",
     "descriptionJa": "銅製V60は優れた熱伝導性で、注湯中の抽出温度を維持します。使い込むほどに独特のパティナが生まれる美しい一品。",
     "amazonUrl": "https://amzn.to/4sWMleq",
-    "amazonJPUrl": "",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%AA%E3%82%AA+V60+%E3%82%AB%E3%83%83%E3%83%91%E3%83%BC&tag=assetly-22",
     "rakutenUrl": "",
-    "image": "/images/gear/hario-v60-copper.webp"
+    "image": "/images/gear/hario-v60-copper.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Hario+V60+Copper&tag=assetly-21"
   },
   {
     "id": "hario-switch",
@@ -109,7 +112,8 @@
     "amazonUrl": "https://amzn.to/4c5AFP7",
     "amazonJPUrl": "https://amzn.to/4sjX55o",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00umcwm.vntj29f1.g00umcwm.vntj31f5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftanemaru%2Fyk31804-a2206%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftanemaru%2Fi%2F10015223%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/hario-switch.webp"
+    "image": "/images/gear/hario-switch.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Hario+Switch+02&tag=assetly-21"
   },
   {
     "id": "kalita-wave-185",
@@ -137,7 +141,8 @@
     "amazonUrl": "https://amzn.to/4sbPiq7",
     "amazonJPUrl": "https://amzn.to/4cb8ezy",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u1c9m.vntj2d9e.g00u1c9m.vntj3a08/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff212181-motosu%2F26381184%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff212181-motosu%2Fi%2F10001022%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/kalita-wave-185.webp"
+    "image": "/images/gear/kalita-wave-185.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Kalita+Wave+185&tag=assetly-21"
   },
   {
     "id": "chemex-6-cup",
@@ -165,7 +170,8 @@
     "amazonUrl": "https://amzn.to/4sgiT1I",
     "amazonJPUrl": "https://amzn.to/3NM1G2h",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tywqm.vntj2cad.g00tywqm.vntj3312/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajimura4861%2Fsb0cklsyczh%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fajimura4861%2Fi%2F12826180%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/chemex-6-cup.webp"
+    "image": "/images/gear/chemex-6-cup.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Chemex+Classic+6-Cup&tag=assetly-21"
   },
   {
     "id": "origami-dripper",
@@ -192,8 +198,9 @@
     "descriptionJa": "オリガミドリッパーの20リブデザインはコーン型とフラットボトム両方のフィルターに対応。ワールドブリューワーズカップでも愛用される逸品。",
     "amazonUrl": "https://amzn.to/3PSKZCL",
     "amazonJPUrl": "https://amzn.to/4dO947V",
-    "rakutenUrl": "",
-    "image": "/images/gear/origami-dripper.webp"
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qb28m.vntj2d4d.g00qb28m.vntj3ae0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finter-c%2Forigami-s-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finter-c%2Fi%2F10006817%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
+    "image": "/images/gear/origami-dripper.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Origami+Dripper+M&tag=assetly-21"
   },
   {
     "id": "clever-dripper",
@@ -221,7 +228,8 @@
     "amazonUrl": "https://amzn.to/4bSayMX",
     "amazonJPUrl": "https://amzn.to/4vbYUnv",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u0ztm.vntj25a7.g00u0ztm.vntj3c26/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fskymarketplus%2Fb081gqq7nh%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fskymarketplus%2Fi%2F11867877%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/clever-dripper.webp"
+    "image": "/images/gear/clever-dripper.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Clever+Dripper&tag=assetly-21"
   },
   {
     "id": "cafec-flower-dripper",
@@ -249,7 +257,8 @@
     "amazonUrl": "https://amzn.to/4mbCRJu",
     "amazonJPUrl": "https://amzn.to/4bUIpVq",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rbhsm.vntj25e8.g00rbhsm.vntj3b93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmartkitchen%2F10012724%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmartkitchen%2Fi%2F10012809%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/cafec-flower-dripper.webp"
+    "image": "/images/gear/cafec-flower-dripper.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Cafec+Flower+Dripper&tag=assetly-21"
   },
   {
     "id": "december-dripper",
@@ -275,9 +284,10 @@
     "description": "The December Dripper lets you adjust flow rate with 12 settings, from fully open (fast pour-over) to fully closed (immersion). The most versatile dripper ever made.",
     "descriptionJa": "ディセンバードリッパーは12段階の流速調整が可能。全開（高速ポアオーバー）から全閉（浸漬式）まで対応する最も汎用性の高いドリッパー。",
     "amazonUrl": "https://amzn.to/4bThYzA",
-    "amazonJPUrl": "",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%BB%E3%83%B3%E3%83%90%E3%83%BC%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC&tag=assetly-22",
     "rakutenUrl": "",
-    "image": "/images/gear/december-dripper.webp"
+    "image": "/images/gear/december-dripper.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=December+Dripper&tag=assetly-21"
   },
   {
     "id": "melodrip",
@@ -302,10 +312,11 @@
     ],
     "description": "The Melodrip is a pour-over accessory that disperses water into gentle droplets, reducing agitation for a sweeter, more balanced extraction. Used by competition baristas worldwide.",
     "descriptionJa": "メロドリップはポアオーバーのアクセサリー。湯を穏やかな水滴に分散させ、撹拌を抑えることで甘くバランスの取れた抽出を実現します。",
-    "amazonUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Melodrip&tag=assetly-20",
     "amazonJPUrl": "https://amzn.to/4sRu9CJ",
     "rakutenUrl": "",
-    "image": "/images/gear/melodrip.webp"
+    "image": "/images/gear/melodrip.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Melodrip&tag=assetly-21"
   },
   {
     "id": "fellow-stagg-ekg",
@@ -333,7 +344,8 @@
     "amazonUrl": "https://amzn.to/47Jk7eJ",
     "amazonJPUrl": "https://amzn.to/4c5ZyKv",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tk7am.vntj2a96.g00tk7am.vntj33be/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmujica-felice%2Fb07j4t5j65%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmujica-felice%2Fi%2F10216163%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/fellow-stagg-ekg.webp"
+    "image": "/images/gear/fellow-stagg-ekg.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Fellow+Stagg+EKG+Kettle&tag=assetly-21"
   },
   {
     "id": "fellow-ode-grinder",
@@ -358,10 +370,11 @@
     ],
     "description": "The Ode Gen 2 features professional-grade 64mm SSP burrs in a compact countertop design. 31 grind settings cover everything from AeroPress to French Press with exceptional uniformity.",
     "descriptionJa": "Ode Gen 2はプロ級64mm SSPバーをコンパクトな卓上デザインに搭載。31段階でエアロプレスからフレンチプレスまで対応します。",
-    "amazonUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Fellow+Ode+Brew+Grinder+Gen+2&tag=assetly-20",
     "amazonJPUrl": "https://amzn.to/41f2S16",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tk7am.vntj2a96.g00tk7am.vntj33be/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmujica-felice%2Fb08v3vfxcn%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmujica-felice%2Fi%2F10223524%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/fellow-ode-grinder.webp"
+    "image": "/images/gear/fellow-ode-grinder.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Fellow+Ode+Brew+Grinder+Gen+2&tag=assetly-21"
   },
   {
     "id": "baratza-encore",
@@ -386,10 +399,11 @@
     ],
     "description": "The Baratza Encore is the most recommended entry-level electric grinder in specialty coffee. Reliable 40mm conical burrs, 40 settings, and excellent customer support make it a no-brainer first grinder.",
     "descriptionJa": "バラッツァ アンコールはスペシャルティコーヒー界で最も推奨されるエントリー電動グラインダー。信頼性の高い40mmコニカルバーと40段階の挽き目。",
-    "amazonUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Baratza+Encore+ESP&tag=assetly-20",
     "amazonJPUrl": "https://amzn.to/4sqJ7io",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00synlm.vntj20e2.g00synlm.vntj3a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F3008084%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10002635%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/baratza-encore.webp"
+    "image": "/images/gear/baratza-encore.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Baratza+Encore+ESP&tag=assetly-21"
   },
   {
     "id": "comandante-c40",
@@ -415,9 +429,10 @@
     "description": "The Comandante C40 is widely considered the best hand grinder ever made. Its proprietary High Nitrogen steel burrs produce exceptional particle uniformity across all brew methods.",
     "descriptionJa": "コマンダンテC40は史上最高のハンドグラインダーと広く評価されています。独自のハイニトロジェンスチールバーが全抽出方法で優れた粒度均一性を実現。",
     "amazonUrl": "https://amzn.to/41NuP05",
-    "amazonJPUrl": "",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40+MK4&tag=assetly-22",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ug2dm.vntj2737.g00ug2dm.vntj3606/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpontakushop%2F373ea4qafwqer4gdkwd5ftiz7m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpontakushop%2Fi%2F10604811%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/comandante-c40.webp"
+    "image": "/images/gear/comandante-c40.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Comandante+C40+MK4&tag=assetly-21"
   },
   {
     "id": "1zpresso-jx-pro",
@@ -443,9 +458,10 @@
     "description": "The JX-Pro offers exceptional value for a hand grinder capable of espresso. Its 48mm burrs and external adjustment ring make dialing in espresso surprisingly easy.",
     "descriptionJa": "JX-Proはエスプレッソ対応ハンドグラインダーとして抜群のコスパを誇ります。48mmバーと外部調整リングでエスプレッソの調整が驚くほど簡単。",
     "amazonUrl": "https://amzn.to/4mcnhxv",
-    "amazonJPUrl": "",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%AF%E3%83%B3%E3%82%BC%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD+JX-Pro&tag=assetly-22",
     "rakutenUrl": "",
-    "image": "/images/gear/1zpresso-jx-pro.webp"
+    "image": "/images/gear/1zpresso-jx-pro.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=1Zpresso+JX-Pro&tag=assetly-21"
   },
   {
     "id": "timemore-c2",
@@ -473,7 +489,8 @@
     "amazonUrl": "https://amzn.to/47LaQmd",
     "amazonJPUrl": "https://amzn.to/4bPkW88",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u1q2m.vntj21ec.g00u1q2m.vntj3299/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakaramonya%2Fcompass1752399528%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftakaramonya%2Fi%2F10001011%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/timemore-c2.webp"
+    "image": "/images/gear/timemore-c2.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Timemore+Chestnut+C2&tag=assetly-21"
   },
   {
     "id": "aeropress-original",
@@ -501,7 +518,8 @@
     "amazonUrl": "https://amzn.to/3PIJfvZ",
     "amazonJPUrl": "https://amzn.to/4e3yrT2",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00utrem.vntj2bb2.g00utrem.vntj33e0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaison-outre%2Fse-0dz745d3l%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaison-outre%2Fi%2F10025767%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/aeropress-original.webp"
+    "image": "/images/gear/aeropress-original.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=AeroPress+Original&tag=assetly-21"
   },
   {
     "id": "aeropress-go",
@@ -528,8 +546,9 @@
     "descriptionJa": "エアロプレスGoは同じ素晴らしい抽出をコンパクトなトラベルパッケージに凝縮。付属のマグがキャリングケースとしても使えます。",
     "amazonUrl": "https://amzn.to/4bSn0Mz",
     "amazonJPUrl": "https://amzn.to/3NOh1zk",
-    "rakutenUrl": "",
-    "image": "/images/gear/aeropress-go.webp"
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pxzhm.vntj25d7.g00pxzhm.vntj3b4b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsujimoto%2Faeropressgo%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsujimoto%2Fi%2F10001278%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
+    "image": "/images/gear/aeropress-go.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=AeroPress+Go&tag=assetly-21"
   },
   {
     "id": "bialetti-moka-express",
@@ -557,7 +576,8 @@
     "amazonUrl": "https://amzn.to/48nz8Tt",
     "amazonJPUrl": "https://amzn.to/4sYwqw8",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uklgm.vntj2667.g00uklgm.vntj3b2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpalmsamerica%2Fay1c79rkzf%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpalmsamerica%2Fi%2F10004761%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/bialetti-moka-express.webp"
+    "image": "/images/gear/bialetti-moka-express.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Bialetti+Moka+Express+6-Cup&tag=assetly-21"
   },
   {
     "id": "flair-espresso-pro-2",
@@ -582,10 +602,11 @@
     ],
     "description": "The Flair Pro 2 puts cafe-quality espresso in your hands — literally. Its manual lever design with pressure gauge gives you full control over every variable in the shot.",
     "descriptionJa": "Flair Pro 2はカフェクオリティのエスプレッソを文字通り手の中に。圧力ゲージ付き手動レバーでショットのすべてをコントロールできます。",
-    "amazonUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Flair+Espresso+Pro+2&tag=assetly-20",
     "amazonJPUrl": "https://amzn.to/4tn3T34",
     "rakutenUrl": "",
-    "image": "/images/gear/flair-espresso-pro-2.webp"
+    "image": "/images/gear/flair-espresso-pro-2.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Flair+Espresso+Pro+2&tag=assetly-21"
   },
   {
     "id": "rok-espresso-gc",
@@ -610,10 +631,11 @@
     ],
     "description": "The ROK EspressoGC combines beautiful design with functional espresso making. Its dual-arm lever system provides 9+ bars of pressure for authentic espresso extraction.",
     "descriptionJa": "ROK EspressoGCは美しいデザインと機能的なエスプレッソ抽出を両立。デュアルアームレバーで9bar以上の圧力を生み出します。",
-    "amazonUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=ROK+EspressoGC&tag=assetly-20",
     "amazonJPUrl": "https://amzn.to/47HuiAk",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tk7am.vntj2a96.g00tk7am.vntj33be/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmujica-felice%2Fb00gzarhg4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmujica-felice%2Fi%2F10199796%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/rok-espresso-gc.webp"
+    "image": "/images/gear/rok-espresso-gc.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=ROK+EspressoGC&tag=assetly-21"
   },
   {
     "id": "breville-bambino-plus",
@@ -641,7 +663,8 @@
     "amazonUrl": "https://amzn.to/4vhhWsY",
     "amazonJPUrl": "https://amzn.to/4m9Tju5",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00synlm.vntj20e2.g00synlm.vntj3a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F3006164%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10013495%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/breville-bambino-plus.webp"
+    "image": "/images/gear/breville-bambino-plus.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Breville+Bambino+Plus&tag=assetly-21"
   },
   {
     "id": "rancilio-silvia",
@@ -666,10 +689,11 @@
     ],
     "description": "The Rancilio Silvia is a legendary home espresso machine with commercial-grade components. Its brass boiler, iron frame, and commercial group head deliver cafe-quality shots for decades.",
     "descriptionJa": "ランチリオ シルビアは業務用部品を搭載した伝説的な家庭用エスプレッソマシン。真鍮ボイラー、鉄フレーム、業務用グループヘッドで数十年使えます。",
-    "amazonUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Rancilio+Silvia+v6&tag=assetly-20",
     "amazonJPUrl": "https://amzn.to/4vd8XJo",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tywqm.vntj2cad.g00tywqm.vntj3312/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajimura4861%2Fsb0bfnlrx9k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fajimura4861%2Fi%2F12825096%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/rancilio-silvia.webp"
+    "image": "/images/gear/rancilio-silvia.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Rancilio+Silvia+v6&tag=assetly-21"
   },
   {
     "id": "acaia-pearl",
@@ -694,10 +718,11 @@
     ],
     "description": "The Acaia Pearl is the professional barista's choice. 0.1g precision, Bluetooth connectivity to the Acaia app, and a built-in flow rate timer make every brew perfectly repeatable.",
     "descriptionJa": "アカイア パールはプロバリスタのスタンダード。0.1g精度、Bluetoothアプリ連携、フローレートタイマーであらゆる抽出を完璧に再現できます。",
-    "amazonUrl": "",
-    "amazonJPUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Acaia+Pearl+Scale&tag=assetly-20",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%A2%E3%82%AB%E3%82%A4%E3%82%A2+%E3%83%91%E3%83%BC%E3%83%AB+%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB&tag=assetly-22",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00synlm.vntj20e2.g00synlm.vntj3a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F3015596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10011619%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/acaia-pearl.webp"
+    "image": "/images/gear/acaia-pearl.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Acaia+Pearl+Scale&tag=assetly-21"
   },
   {
     "id": "hario-scale",
@@ -722,10 +747,11 @@
     ],
     "description": "The Hario V60 Drip Scale offers essential features — 0.1g precision and a built-in timer — at a fraction of the price of premium scales. The go-to budget scale for pour-over.",
     "descriptionJa": "ハリオ V60ドリップスケールは0.1g精度とタイマーをプレミアムスケールの数分の一の価格で提供。ポアオーバー用バジェットスケールの定番です。",
-    "amazonUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Hario+V60+Drip+Scale&tag=assetly-20",
     "amazonJPUrl": "https://amzn.to/4tsEh4Q",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qn2hm.vntj2fcb.g00qn2hm.vntj3e13/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-ulmax%2F4977642021907_3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-ulmax%2Fi%2F11608802%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/hario-scale.webp"
+    "image": "/images/gear/hario-scale.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Hario+V60+Drip+Scale&tag=assetly-21"
   },
   {
     "id": "hario-server",
@@ -750,10 +776,11 @@
     ],
     "description": "The Hario Range Server is the perfect companion for any V60 dripper. Microwave-safe heatproof glass with clear volume markings makes it both practical and elegant.",
     "descriptionJa": "ハリオ レンジサーバーはV60ドリッパーの最高のパートナー。電子レンジ対応の耐熱ガラスに明瞭な容量表示で実用的かつエレガント。",
-    "amazonUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Hario+V60+Range+Server+600&tag=assetly-20",
     "amazonJPUrl": "https://amzn.to/3POWHhP",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00s4o6m.vntj2538.g00s4o6m.vntj349d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2F4977642730632_10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F10736825%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/hario-server.webp"
+    "image": "/images/gear/hario-server.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Hario+V60+Range+Server+600&tag=assetly-21"
   },
   {
     "id": "fellow-atmos",
@@ -778,10 +805,11 @@
     ],
     "description": "The Atmos Canister removes air with a twist-lock vacuum lid, keeping beans fresh up to 50% longer than standard containers. A simple but brilliant storage solution.",
     "descriptionJa": "アトモスキャニスターはツイストロック真空リッドで空気を除去し、標準的な容器より最大50%長く豆の鮮度を維持します。",
-    "amazonUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Fellow+Atmos+Vacuum+Canister&tag=assetly-20",
     "amazonJPUrl": "https://amzn.to/4sWYfVE",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rbhsm.vntj25e8.g00rbhsm.vntj3b93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmartkitchen%2F10012702%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmartkitchen%2Fi%2F10012872%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
-    "image": "/images/gear/fellow-atmos.webp"
+    "image": "/images/gear/fellow-atmos.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Fellow+Atmos+Vacuum+Canister&tag=assetly-21"
   },
   {
     "id": "ember-mug-2",
@@ -806,10 +834,11 @@
     ],
     "description": "The Ember Mug 2 keeps your coffee at your perfect drinking temperature for up to 80 minutes. Set your preferred temperature via the app and never drink lukewarm coffee again.",
     "descriptionJa": "エンバーマグ2はコーヒーを最大80分間お好みの温度に保ちます。アプリで温度を設定すれば、もうぬるいコーヒーとは無縁です。",
-    "amazonUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Ember+Mug+2&tag=assetly-20",
     "amazonJPUrl": "https://amzn.to/4m8VON0",
     "rakutenUrl": "",
-    "image": "/images/gear/ember-mug-2.webp"
+    "image": "/images/gear/ember-mug-2.webp",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Ember+Mug+2&tag=assetly-21"
   },
   {
     "id": "bodum-chambord",
@@ -834,8 +863,8 @@
     ],
     "description": "The Bodum Chambord is the world's best-selling French press for good reason. Its 3-part stainless steel mesh filter produces a rich, full-bodied cup while the borosilicate glass carafe withstands thermal shock with ease.",
     "descriptionJa": "ボダム シャンボールは世界で最も売れているフレンチプレス。3層ステンレスメッシュフィルターがリッチでフルボディのカップを生み出し、耐熱ガラスカラフェは急激な温度変化にも耐えます。",
-    "amazonUrl": "",
-    "amazonJPUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Bodum+Chambord+French+Press&tag=assetly-20",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%9C%E3%83%80%E3%83%A0+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB+%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9&tag=assetly-22",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00twmam.vntj2152.g00twmam.vntj3ff8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fglobalhomes%2Fbo1746723588-5298%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fglobalhomes%2Fi%2F10029699%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
     "image": "/images/gear/bodum-chambord.webp",
     "relatedGear": [
@@ -843,7 +872,8 @@
       "fellow-ode-grinder",
       "timemore-c2",
       "hario-scale"
-    ]
+    ],
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Bodum+Chambord+French+Press&tag=assetly-21"
   },
   {
     "id": "espro-p7",
@@ -868,8 +898,8 @@
     ],
     "description": "The Espro P7 reinvents the French press with a patented double micro-filter that produces a remarkably clean cup — no grit, no bitterness. Double-wall vacuum insulation keeps coffee hot for hours without over-extracting.",
     "descriptionJa": "エスプロ P7は特許取得済みダブルマイクロフィルターでフレンチプレスを再発明。微粉も雑味もない驚くほどクリーンなカップを実現。二重壁真空断熱で過抽出なく何時間も保温します。",
-    "amazonUrl": "",
-    "amazonJPUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Espro+P7+French+Press&tag=assetly-20",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%B9%E3%83%97%E3%83%AD+P7+%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9&tag=assetly-22",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00synlm.vntj20e2.g00synlm.vntj3a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F2009050%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10019683%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
     "image": "/images/gear/espro-p7.webp",
     "relatedGear": [
@@ -877,7 +907,8 @@
       "fellow-ode-grinder",
       "comandante-c40",
       "acaia-pearl"
-    ]
+    ],
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Espro+P7+French+Press&tag=assetly-21"
   },
   {
     "id": "fellow-opus-grinder",
@@ -902,8 +933,8 @@
     ],
     "description": "The Fellow Opus bridges the gap between entry-level and premium electric grinders. Its 40mm conical burrs and 41 grind settings handle everything from espresso to cold brew, making it the ideal all-rounder for home baristas.",
     "descriptionJa": "フェロー オーパスはエントリーレベルとプレミアムの間を埋める電動グラインダー。40mmコニカルバーと41段階の挽き目で、エスプレッソからコールドブリューまで対応するホームバリスタの万能選手。",
-    "amazonUrl": "",
-    "amazonJPUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Fellow+Opus+Grinder&tag=assetly-20",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC+%E3%82%AA%E3%83%BC%E3%83%91%E3%82%B9+%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC&tag=assetly-22",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pyd1m.vntj2ec9.g00pyd1m.vntj34f9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdtc%2F0840228804031%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdtc%2Fi%2F13065459%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
     "image": "/images/gear/fellow-opus-grinder.webp",
     "relatedGear": [
@@ -911,7 +942,8 @@
       "baratza-encore",
       "fellow-stagg-ekg",
       "hario-v60-02"
-    ]
+    ],
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Fellow+Opus+Grinder&tag=assetly-21"
   },
   {
     "id": "timemore-c3-pro",
@@ -936,8 +968,8 @@
     ],
     "description": "The Timemore C3 Pro builds on the legendary C2 with upgraded S2C burrs and finer click adjustment for more precise dialing. The foldable handle makes it even more travel-friendly, while grind quality approaches grinders twice the price.",
     "descriptionJa": "タイムモア C3 Proは名機C2を改良型S2Cバーとより細かいクリック調整でアップグレード。折りたたみハンドルで携帯性も向上し、倍の価格帯に迫る挽き品質を実現します。",
-    "amazonUrl": "",
-    "amazonJPUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Timemore+C3+Pro&tag=assetly-20",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A2%E3%82%A2+C3+%E3%83%97%E3%83%AD&tag=assetly-22",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uj9tm.vntj2971.g00uj9tm.vntj36e5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fb0fhh9gg1m%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fi%2F10475043%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
     "image": "/images/gear/timemore-c3-pro.webp",
     "relatedGear": [
@@ -945,7 +977,8 @@
       "1zpresso-jx-pro",
       "comandante-c40",
       "hario-v60-02"
-    ]
+    ],
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Timemore+C3+Pro&tag=assetly-21"
   },
   {
     "id": "toddy-cold-brew",
@@ -970,8 +1003,8 @@
     ],
     "description": "The Toddy Cold Brew System is the original and still one of the best ways to make cold brew at home. Steep coarsely ground coffee for 12-24 hours, then drain into the glass decanter for up to two weeks of smooth, low-acid concentrate.",
     "descriptionJa": "トディ コールドブリューシステムは元祖にして今なお最良のコールドブリュー器具の一つ。粗挽きコーヒーを12-24時間浸漬し、ガラスデキャンタに抽出すれば、最大2週間分の滑らかで低酸味の濃縮液が完成します。",
-    "amazonUrl": "",
-    "amazonJPUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Toddy+Cold+Brew+System&tag=assetly-20",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%87%E3%82%A3+%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0&tag=assetly-22",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tywqm.vntj2cad.g00tywqm.vntj3312/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajimura4861%2Fsb07w8ykwy4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fajimura4861%2Fi%2F12827729%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
     "image": "/images/gear/toddy-cold-brew.webp",
     "relatedGear": [
@@ -979,7 +1012,8 @@
       "baratza-encore",
       "fellow-atmos",
       "hario-scale"
-    ]
+    ],
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Toddy+Cold+Brew+System&tag=assetly-21"
   },
   {
     "id": "delonghi-dedica-duo",
@@ -1004,8 +1038,8 @@
     ],
     "description": "The De'Longhi Dedica Duo packs a 15-bar pump and thermoblock heater into an ultra-slim 6-inch wide body. Its manual frothing wand gives you full control over milk texture, making it an excellent semi-automatic for tight countertops.",
     "descriptionJa": "デロンギ デディカ デュオは15気圧ポンプとサーモブロックヒーターを幅わずか15cmのスリムボディに搭載。手動フロッサーでミルクテクスチャを自在にコントロールでき、省スペースな半自動エスプレッソマシンです。",
-    "amazonUrl": "",
-    "amazonJPUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=De%27Longhi+Dedica+Duo&tag=assetly-20",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE+%E3%83%87%E3%83%87%E3%82%A3%E3%82%AB+%E3%83%87%E3%83%A5%E3%82%AA&tag=assetly-22",
     "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tywqm.vntj2cad.g00tywqm.vntj3312/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajimura4861%2Fb0ct2pt244%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fajimura4861%2Fi%2F12810555%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
     "image": "/images/gear/delonghi-dedica-duo.webp",
     "relatedGear": [
@@ -1013,7 +1047,8 @@
       "rancilio-silvia",
       "flair-espresso-pro-2",
       "1zpresso-jx-pro"
-    ]
+    ],
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=De%27Longhi+Dedica+Duo&tag=assetly-21"
   },
   {
     "id": "niche-zero",
@@ -1040,15 +1075,16 @@
     ],
     "description": "The Niche Zero revolutionized the home grinder market with its zero-retention, single-dose design. Its 63mm conical burr set handles everything from espresso to French press with a simple twist of the dial. Compact, quiet, and virtually waste-free.",
     "descriptionJa": "ニッシェ ゼロはゼロリテンション・シングルドーズ設計で家庭用グラインダー市場に革命を起こした。63mmコニカル刃がエスプレッソからフレンチプレスまでダイヤル一つで対応。コンパクト、静音、豆のロスがほぼゼロ。",
-    "amazonUrl": "",
-    "amazonJPUrl": "",
-    "rakutenUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Niche+Zero+Grinder&tag=assetly-20",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%8B%E3%83%83%E3%82%B7%E3%82%A7+%E3%82%BC%E3%83%AD+%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC&tag=assetly-22",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uj9tm.vntj2971.g00uj9tm.vntj36e5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fb0cvg3kx6r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzakkabenrikuishinbou%2Fi%2F10676260%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
     "image": "/images/gear/niche-zero.webp",
     "relatedGear": [
       "1zpresso-k-ultra",
       "timemore-sculptor-064s",
       "weber-eg-1"
-    ]
+    ],
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Niche+Zero+Grinder&tag=assetly-21"
   },
   {
     "id": "tricolate",
@@ -1075,15 +1111,16 @@
     ],
     "description": "The Tricolate is a groundbreaking brewer that achieves remarkably high extraction yields through its unique flat-bottom design. By allowing full immersion followed by slow percolation, it produces an exceptionally clean and sweet cup that rivals the best pour-over methods.",
     "descriptionJa": "トリコレートは独自のフラットボトム設計で驚くほど高い抽出率を実現する画期的なブリューワー。フルイマージョン後にゆっくりパーコレーションすることで、最高のポアオーバーに匹敵するクリーンで甘いカップを生み出す。",
-    "amazonUrl": "",
-    "amazonJPUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Tricolate+Coffee+Brewer&tag=assetly-20",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%AA%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%AF%E3%83%BC&tag=assetly-22",
     "rakutenUrl": "",
     "image": "/images/gear/tricolate.webp",
     "relatedGear": [
       "hario-v60-02",
       "orea-v3",
       "origami-dripper"
-    ]
+    ],
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Tricolate+Coffee+Brewer&tag=assetly-21"
   },
   {
     "id": "orea-v3",
@@ -1110,15 +1147,16 @@
     ],
     "description": "The Orea V3 is a precision-engineered stainless steel dripper with interchangeable flow restrictors that let you fine-tune your brew. Swap between fast, medium, and slow flow to match any coffee and recipe. Built to last and travel anywhere.",
     "descriptionJa": "オレア V3は精密設計のステンレスドリッパー。交換可能なフローリストリクターで抽出をカスタマイズ。高速・中速・低速のフローを使い分け、あらゆるコーヒーとレシピに対応。耐久性に優れ、どこへでも持ち運べる。",
-    "amazonUrl": "",
-    "amazonJPUrl": "",
-    "rakutenUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Orea+V3+Brewer&tag=assetly-20",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AC%E3%82%A2+V3+%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%AF%E3%83%BC&tag=assetly-22",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qb28m.vntj2d4d.g00qb28m.vntj3ae0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finter-c%2Forea-bo%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finter-c%2Fi%2F10007417%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
     "image": "/images/gear/orea-v3.webp",
     "relatedGear": [
       "tricolate",
       "hario-v60-02",
       "origami-dripper"
-    ]
+    ],
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Orea+V3+Brewer&tag=assetly-21"
   },
   {
     "id": "1zpresso-k-ultra",
@@ -1145,15 +1183,16 @@
     ],
     "description": "The 1Zpresso K-Ultra is the pinnacle of hand grinder engineering. Its 48mm stainless steel burrs deliver espresso-quality grinds with remarkable speed and consistency. The external adjustment dial and blind shaker design make it the most user-friendly premium hand grinder available.",
     "descriptionJa": "ワンゼットプレッソ K-Ultraはハンドグラインダー工学の頂点。48mmステンレス刃がエスプレッソ品質の粉を驚くほどの速さと一貫性で提供。外部調整ダイヤルとブラインドシェーカー設計で最も使いやすいプレミアムハンドグラインダー。",
-    "amazonUrl": "",
-    "amazonJPUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=1Zpresso+K-Ultra&tag=assetly-20",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%AF%E3%83%B3%E3%82%BC%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD+K-Ultra&tag=assetly-22",
     "rakutenUrl": "",
     "image": "/images/gear/1zpresso-k-ultra.webp",
     "relatedGear": [
       "1zpresso-jx-pro",
       "niche-zero",
       "timemore-sculptor-064s"
-    ]
+    ],
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=1Zpresso+K-Ultra&tag=assetly-21"
   },
   {
     "id": "timemore-sculptor-064s",
@@ -1180,15 +1219,16 @@
     ],
     "description": "The Timemore Sculptor 064S brings 64mm flat burr grinding performance to a compact, affordable package. Its variable speed motor allows you to dial in the perfect grind speed, while the zero-retention design ensures every gram of coffee makes it into your cup.",
     "descriptionJa": "タイムモア スカルプター 064Sは64mmフラット刃の高性能をコンパクトで手頃なパッケージに凝縮。可変速モーターで最適な挽き速度を設定でき、ゼロリテンション設計で全てのコーヒーをカップへ届ける。",
-    "amazonUrl": "",
-    "amazonJPUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Timemore+Sculptor+064S&tag=assetly-20",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A2%E3%82%A2+%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%82%BF%E3%83%BC+064S&tag=assetly-22",
     "rakutenUrl": "",
     "image": "/images/gear/timemore-sculptor-064s.webp",
     "relatedGear": [
       "niche-zero",
       "weber-eg-1",
       "1zpresso-k-ultra"
-    ]
+    ],
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Timemore+Sculptor+064S&tag=assetly-21"
   },
   {
     "id": "weber-eg-1",
@@ -1215,14 +1255,1351 @@
     ],
     "description": "The Weber EG-1 is an ultra-premium espresso grinder that pushes the boundaries of grind quality. Its massive 83mm flat burrs produce exceptionally uniform particles, while the minimalist aluminum body is as much a work of art as it is a tool. The benchmark for home espresso grinding.",
     "descriptionJa": "ウェーバー EG-1は挽き品質の限界に挑むウルトラプレミアムエスプレッソグラインダー。巨大な83mmフラット刃が格別に均一な粒子を生み出し、ミニマリストなアルミボディは道具であると同時に芸術品。家庭用エスプレッソグラインドのベンチマーク。",
-    "amazonUrl": "",
-    "amazonJPUrl": "",
-    "rakutenUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=Weber+EG-1&tag=assetly-20",
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%90%E3%83%BC+EG-1&tag=assetly-22",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pvhtm.vntj229e.g00pvhtm.vntj3a7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fparts%2Faa67-cc-neg1-fl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fparts%2Fi%2F13079333%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
     "image": "/images/gear/weber-eg-1.webp",
     "relatedGear": [
       "niche-zero",
       "timemore-sculptor-064s",
       "lagom-p64"
-    ]
+    ],
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Weber+EG-1&tag=assetly-21"
+  },
+  {
+    "id": "breville-barista-express",
+    "name": "Breville Barista Express",
+    "nameJa": "ブレビル バリスタエクスプレス",
+    "brand": "breville",
+    "category": "espresso-machine",
+    "brewMethod": "espresso",
+    "price": 99800,
+    "priceRange": "premium",
+    "description": "An all-in-one espresso machine with built-in conical burr grinder, PID temperature control, and micro-foam milk texturing. Perfect entry point into home espresso.",
+    "descriptionJa": "コニカル刃グラインダー内蔵のオールインワンエスプレッソマシン。PID温度制御とマイクロフォームミルクテクスチャリング搭載で、家庭用エスプレッソの最適な入門機。",
+    "material": "Stainless Steel",
+    "origin": "Australia",
+    "image": "/images/gear/breville-barista-express.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%AC%E3%83%93%E3%83%AB+%E3%83%90%E3%83%AA%E3%82%B9%E3%82%BF%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Breville+Barista+Express&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Breville+Barista+Express&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tywqm.vntj2cad.g00tywqm.vntj3312/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajimura4861%2Fsb00ds4767k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fajimura4861%2Fi%2F12823959%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "rancilio-silvia-pro-x",
+    "name": "Rancilio Silvia Pro X",
+    "nameJa": "ランチリオ シルビア プロ X",
+    "brand": "rancilio",
+    "category": "espresso-machine",
+    "brewMethod": "espresso",
+    "price": 198000,
+    "priceRange": "luxury",
+    "description": "Dual boiler espresso machine with PID temperature control on both boilers. Brew espresso and steam milk simultaneously with commercial-grade components.",
+    "descriptionJa": "デュアルボイラー搭載で抽出とスチームを同時に行えるプロ仕様機。両ボイラーにPID温度制御を装備し、業務用レベルのパーツを採用。",
+    "material": "Stainless Steel",
+    "origin": "Italy",
+    "image": "/images/gear/rancilio-silvia-pro-x.webp",
+    "affiliateUrls": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/g00pyjvm.vntj2e9d.g00pyjvm.vntj3ec2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace%2F3006173%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace%2Fi%2F10024805%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%A9%E3%83%B3%E3%83%81%E3%83%AA%E3%82%AA+%E3%82%B7%E3%83%AB%E3%83%93%E3%82%A2+%E3%83%97%E3%83%AD+X&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Rancilio+Silvia+Pro+X&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Rancilio+Silvia+Pro+X&tag=assetly-21"
+  },
+  {
+    "id": "profitec-pro-300",
+    "name": "Profitec Pro 300",
+    "nameJa": "プロフィテック プロ 300",
+    "brand": "profitec",
+    "category": "espresso-machine",
+    "brewMethod": "espresso",
+    "price": 198000,
+    "priceRange": "luxury",
+    "description": "Compact dual boiler machine with PID control and a 58mm portafilter. The Pro 300 delivers cafe-quality espresso in a surprisingly small footprint.",
+    "descriptionJa": "コンパクトなデュアルボイラーマシン。PID制御と58mmポルタフィルターを搭載し、省スペースながらカフェ品質のエスプレッソを実現。",
+    "material": "Stainless Steel",
+    "origin": "Germany",
+    "image": "/images/gear/profitec-pro-300.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%86%E3%83%83%E3%82%AF+%E3%83%97%E3%83%AD+300&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Profitec+Pro+300&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Profitec+Pro+300&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00synlm.vntj20e2.g00synlm.vntj3a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F3006247%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10021295%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "lelit-bianca",
+    "name": "Lelit Bianca V3",
+    "nameJa": "レリット ビアンカ V3",
+    "brand": "lelit",
+    "category": "espresso-machine",
+    "brewMethod": "espresso",
+    "price": 398000,
+    "priceRange": "luxury",
+    "description": "A prosumer dual boiler machine featuring flow control via a paddle, allowing manual pressure profiling. E61 group head with PID and shot timer.",
+    "descriptionJa": "パドル式フロー制御で手動プレッシャープロファイリングが可能なプロシューマー機。E61グループヘッド、PID、ショットタイマー搭載。",
+    "material": "Stainless Steel + Walnut",
+    "origin": "Italy",
+    "image": "/images/gear/lelit-bianca.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%AC%E3%83%AA%E3%83%83%E3%83%88+%E3%83%93%E3%82%A2%E3%83%B3%E3%82%AB+V3&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Lelit+Bianca+V3&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Lelit+Bianca+V3&tag=assetly-21"
+  },
+  {
+    "id": "ascaso-dream",
+    "name": "Ascaso Dream PID",
+    "nameJa": "アスカソ ドリーム PID",
+    "brand": "ascaso",
+    "category": "espresso-machine",
+    "brewMethod": "espresso",
+    "price": 128000,
+    "priceRange": "luxury",
+    "description": "A retro-styled thermoblock espresso machine with PID temperature control. Compact and colorful, it delivers consistent shots with minimal warm-up time.",
+    "descriptionJa": "レトロデザインのサーモブロック式エスプレッソマシン。PID温度制御搭載で、コンパクトかつウォームアップ時間が短く安定したショットを提供。",
+    "material": "Aluminum + Steel",
+    "origin": "Spain",
+    "image": "/images/gear/ascaso-dream.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%A2%E3%82%B9%E3%82%AB%E3%82%BD+%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0+PID&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Ascaso+Dream+PID&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Ascaso+Dream+PID&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00synlm.vntj20e2.g00synlm.vntj3a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F3098170%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10021600%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "quick-mill-silvano",
+    "name": "Quick Mill Silvano Evo",
+    "nameJa": "クイックミル シルバーノ エヴォ",
+    "brand": "quick-mill",
+    "category": "espresso-machine",
+    "brewMethod": "espresso",
+    "price": 158000,
+    "priceRange": "luxury",
+    "description": "A dual boiler machine at a competitive price point with PID control and a commercial-style portafilter. Known for its reliability and build quality.",
+    "descriptionJa": "コストパフォーマンスに優れたデュアルボイラー機。PID制御と業務用スタイルのポルタフィルターを備え、耐久性と品質で定評あり。",
+    "material": "Stainless Steel",
+    "origin": "Italy",
+    "image": "/images/gear/quick-mill-silvano.webp",
+    "affiliateUrls": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/g00synlm.vntj20e2.g00synlm.vntj3a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F3006251%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10021565%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%83%9F%E3%83%AB+%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%83%8E+%E3%82%A8%E3%83%B4%E3%82%A9&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Quick+Mill+Silvano+Evo&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Quick+Mill+Silvano+Evo&tag=assetly-21"
+  },
+  {
+    "id": "ecm-classika",
+    "name": "ECM Classika PID",
+    "nameJa": "ECM クラシカ PID",
+    "brand": "ecm",
+    "category": "espresso-machine",
+    "brewMethod": "espresso",
+    "price": 218000,
+    "priceRange": "luxury",
+    "description": "A single boiler E61 group head machine with PID. ECM's build quality is legendary, with polished stainless steel and precision German engineering throughout.",
+    "descriptionJa": "シングルボイラーのE61グループヘッド搭載機。ドイツの精密な設計と磨き上げられたステンレスボディで、ECMの品質を凝縮した一台。",
+    "material": "Stainless Steel",
+    "origin": "Germany",
+    "image": "/images/gear/ecm-classika.webp",
+    "affiliateUrls": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/g00s8v7m.vntj250b.g00s8v7m.vntj3449/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fideali-store%2Fmrcoffee2015%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fideali-store%2Fi%2F10006470%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=ECM+%E3%82%AF%E3%83%A9%E3%82%B7%E3%82%AB+PID&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=ECM+Classika+PID&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=ECM+Classika+PID&tag=assetly-21"
+  },
+  {
+    "id": "bezzera-bz10",
+    "name": "Bezzera BZ10",
+    "nameJa": "ベゼラ BZ10",
+    "brand": "bezzera",
+    "category": "espresso-machine",
+    "brewMethod": "espresso",
+    "price": 178000,
+    "priceRange": "luxury",
+    "description": "A heat exchanger machine with commercial E61 group head. Bezzera's heritage dates back to 1901, offering reliable Italian craftsmanship with modern PID option.",
+    "descriptionJa": "業務用E61グループヘッド搭載のHX（ヒートエクスチェンジャー）機。1901年創業のベゼラの伝統を受け継ぐイタリアンクラフツマンシップ。",
+    "material": "Stainless Steel",
+    "origin": "Italy",
+    "image": "/images/gear/bezzera-bz10.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%99%E3%82%BC%E3%83%A9+BZ10&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Bezzera+BZ10&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Bezzera+BZ10&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00synlm.vntj20e2.g00synlm.vntj3a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F3006231%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10021414%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "rocket-appartamento",
+    "name": "Rocket Appartamento",
+    "nameJa": "ロケット アパルタメント",
+    "brand": "rocket",
+    "category": "espresso-machine",
+    "brewMethod": "espresso",
+    "price": 198000,
+    "priceRange": "luxury",
+    "description": "An iconic heat exchanger machine with E61 group head and circular side panel inserts. Handmade in Milan, it combines stunning aesthetics with serious performance.",
+    "descriptionJa": "E61グループヘッドと円形サイドパネルが特徴的なHXマシン。ミラノで手作りされ、美しいデザインと本格的な性能を両立。",
+    "material": "Stainless Steel + Copper",
+    "origin": "Italy",
+    "image": "/images/gear/rocket-appartamento.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88+%E3%82%A2%E3%83%91%E3%83%AB%E3%82%BF%E3%83%A1%E3%83%B3%E3%83%88&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Rocket+Appartamento&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Rocket+Appartamento&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tghbm.vntj29dc.g00tghbm.vntj3832/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffounder%2Faj0000349%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffounder%2Fi%2F10030365%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "la-pavoni-europiccola",
+    "name": "La Pavoni Europiccola",
+    "nameJa": "ラ・パヴォーニ ユーロピッコラ",
+    "brand": "la-pavoni",
+    "category": "espresso-machine",
+    "brewMethod": "espresso",
+    "price": 128000,
+    "priceRange": "luxury",
+    "description": "The legendary lever espresso machine, virtually unchanged since 1961. Pull your own shots with direct pressure control for an authentic, hands-on espresso ritual.",
+    "descriptionJa": "1961年から基本設計が変わらない伝説のレバー式エスプレッソマシン。手動レバーで圧力を直接コントロールし、本格的なエスプレッソ体験を。",
+    "material": "Chrome-plated Brass",
+    "origin": "Italy",
+    "image": "/images/gear/la-pavoni-europiccola.webp",
+    "affiliateUrls": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/g00qq0ym.vntj260f.g00qq0ym.vntj38d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftel-j%2F10031908%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftel-j%2Fi%2F10031908%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%A9%E3%83%BB%E3%83%91%E3%83%B4%E3%82%A9%E3%83%BC%E3%83%8B+%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%94%E3%83%83%E3%82%B3%E3%83%A9&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=La+Pavoni+Europiccola&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=La+Pavoni+Europiccola&tag=assetly-21"
+  },
+  {
+    "id": "flair-58",
+    "name": "Flair 58",
+    "nameJa": "フレアー 58",
+    "brand": "flair",
+    "category": "espresso-machine",
+    "brewMethod": "espresso",
+    "price": 72800,
+    "priceRange": "premium",
+    "description": "A manual lever espresso maker with a standard 58mm portafilter. Electric preheat, pressure gauge, and flow control offer full pressure profiling capability.",
+    "descriptionJa": "標準58mmポルタフィルター対応の手動レバー式エスプレッソメーカー。電動プレヒート、圧力ゲージ、フロー制御でプレッシャープロファイリングが可能。",
+    "material": "Aluminum + Stainless Steel",
+    "origin": "USA",
+    "image": "/images/gear/flair-58.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%95%E3%83%AC%E3%82%A2%E3%83%BC+58&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Flair+58&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Flair+58&tag=assetly-21"
+  },
+  {
+    "id": "cafelat-robot",
+    "name": "Cafelat Robot",
+    "nameJa": "カフェラット ロボット",
+    "brand": "cafelat",
+    "category": "espresso-machine",
+    "brewMethod": "espresso",
+    "price": 49800,
+    "priceRange": "premium",
+    "description": "A no-electricity manual lever espresso maker with a unique robot-arm design. Dual-arm lever provides smooth, even pressure for excellent espresso anywhere.",
+    "descriptionJa": "電気不要の手動レバー式エスプレッソメーカー。ユニークなロボットアームデザインの双腕レバーで、滑らかで均一な圧力をかけられます。",
+    "material": "Aluminum + Stainless Steel",
+    "origin": "Hong Kong",
+    "image": "/images/gear/cafelat-robot.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%A9%E3%83%83%E3%83%88+%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Cafelat+Robot&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Cafelat+Robot&tag=assetly-21"
+  },
+  {
+    "id": "eureka-mignon-specialita",
+    "name": "Eureka Mignon Specialita",
+    "nameJa": "エウレカ ミニョン スペシャリタ",
+    "brand": "eureka",
+    "category": "grinder",
+    "brewMethod": "espresso",
+    "price": 68000,
+    "priceRange": "premium",
+    "description": "A premium home espresso grinder with 55mm flat burrs and a silent technology motor. Stepless micrometric adjustment delivers precise, consistent grinds.",
+    "descriptionJa": "55mmフラットバー搭載のプレミアム家庭用エスプレッソグラインダー。静音モーターとステップレスマイクロメトリック調整で精密なグラインドを実現。",
+    "material": "Aluminum + Steel",
+    "origin": "Italy",
+    "image": "/images/gear/eureka-mignon-specialita.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB+%E3%83%9F%E3%83%8B%E3%83%A7%E3%83%B3+%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%BF&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Eureka+Mignon+Specialita&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Eureka+Mignon+Specialita&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00synlm.vntj20e2.g00synlm.vntj3a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F3008142%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10021155%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "baratza-vario-plus",
+    "name": "Baratza Vario+",
+    "nameJa": "バラッツァ ヴァリオ プラス",
+    "brand": "baratza",
+    "category": "grinder",
+    "brewMethod": "all",
+    "price": 72000,
+    "priceRange": "premium",
+    "description": "An all-purpose grinder with 54mm ceramic flat burrs and a digital interface. Macro and micro adjustments cover everything from espresso to French press.",
+    "descriptionJa": "54mmセラミックフラットバーとデジタルインターフェース搭載の万能グラインダー。マクロ・マイクロ調整でエスプレッソからフレンチプレスまで対応。",
+    "material": "Plastic + Ceramic Burrs",
+    "origin": "USA",
+    "image": "/images/gear/baratza-vario-plus.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%90%E3%83%A9%E3%83%83%E3%83%84%E3%82%A1+%E3%83%B4%E3%82%A1%E3%83%AA%E3%82%AA+%E3%83%97%E3%83%A9%E3%82%B9&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Baratza+Vario%2B&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Baratza+Vario%2B&tag=assetly-21"
+  },
+  {
+    "id": "df64-gen-2",
+    "name": "DF64 Gen 2",
+    "nameJa": "DF64 第2世代",
+    "brand": "df64",
+    "category": "grinder",
+    "brewMethod": "espresso",
+    "price": 52000,
+    "priceRange": "premium",
+    "description": "A single-dose grinder with 64mm flat burrs, zero retention design, and stepless adjustment. Excellent value with upgrade path via aftermarket burr sets.",
+    "descriptionJa": "64mmフラットバー搭載のシングルドーズグラインダー。ゼロリテンション設計とステップレス調整で、サードパーティ刃への換装も可能なコスパ機。",
+    "material": "Aluminum + Steel",
+    "origin": "China",
+    "image": "/images/gear/df64-gen-2.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=DF64+%E7%AC%AC2%E4%B8%96%E4%BB%A3&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=DF64+Gen+2&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=DF64+Gen+2&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00umshm.vntj20ae.g00umshm.vntj3dee/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fremake-buddy%2F426h3df64adhnnfbgf4abrtbwe%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fremake-buddy%2Fi%2F10260464%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "mazzer-mini",
+    "name": "Mazzer Mini Electronic Type A",
+    "nameJa": "マッツァー ミニ エレクトロニック タイプA",
+    "brand": "mazzer",
+    "category": "grinder",
+    "brewMethod": "espresso",
+    "price": 98000,
+    "priceRange": "premium",
+    "description": "A compact commercial-grade grinder with 64mm flat burrs from Italy's most respected grinder manufacturer. Built for durability with a doserless design.",
+    "descriptionJa": "イタリアの名門グラインダーメーカーによる64mmフラットバー搭載のコンパクト業務用機。ドーサーレス設計で耐久性抜群。",
+    "material": "Aluminum + Steel",
+    "origin": "Italy",
+    "image": "/images/gear/mazzer-mini.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%83%E3%83%84%E3%82%A1%E3%83%BC+%E3%83%9F%E3%83%8B+%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF+%E3%82%BF%E3%82%A4%E3%83%97A&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Mazzer+Mini+Electronic+Type+A&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Mazzer+Mini+Electronic+Type+A&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00synlm.vntj20e2.g00synlm.vntj3a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F3008096%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10022675%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "lagom-mini",
+    "name": "Option-O Lagom Mini",
+    "nameJa": "オプションオー ラゴム ミニ",
+    "brand": "option-o",
+    "category": "grinder",
+    "brewMethod": "all",
+    "price": 49800,
+    "priceRange": "premium",
+    "description": "A compact single-dose grinder with 38mm conical burrs by Italmill. Designed for filter brewing but capable of espresso with its stepless adjustment.",
+    "descriptionJa": "Italmill製38mmコニカルバー搭載のコンパクトシングルドーズグラインダー。フィルター向けだがステップレス調整でエスプレッソにも対応。",
+    "material": "Aluminum",
+    "origin": "Taiwan",
+    "image": "/images/gear/lagom-mini.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AA%E3%83%BC+%E3%83%A9%E3%82%B4%E3%83%A0+%E3%83%9F%E3%83%8B&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Option-O+Lagom+Mini&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Option-O+Lagom+Mini&tag=assetly-21"
+  },
+  {
+    "id": "option-o-lagom-p64",
+    "name": "Option-O Lagom P64",
+    "nameJa": "オプションオー ラゴム P64",
+    "brand": "option-o",
+    "category": "grinder",
+    "brewMethod": "all",
+    "price": 148000,
+    "priceRange": "luxury",
+    "description": "A high-end single-dose flat burr grinder with 64mm SSP burrs. Ultra-low retention and alignment precision make it a favorite among specialty coffee enthusiasts.",
+    "descriptionJa": "64mm SSPバー搭載のハイエンドシングルドーズフラットバーグラインダー。超低リテンションと高精度アライメントでスペシャルティコーヒー愛好家に人気。",
+    "material": "Aluminum + Steel",
+    "origin": "Taiwan",
+    "image": "/images/gear/option-o-lagom-p64.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AA%E3%83%BC+%E3%83%A9%E3%82%B4%E3%83%A0+P64&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Option-O+Lagom+P64&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Option-O+Lagom+P64&tag=assetly-21"
+  },
+  {
+    "id": "mahlkonig-x54",
+    "name": "Mahlkonig X54",
+    "nameJa": "マールクーニッヒ X54",
+    "brand": "mahlkonig",
+    "category": "grinder",
+    "brewMethod": "all",
+    "price": 118000,
+    "priceRange": "luxury",
+    "description": "A home grinder from the legendary commercial grinder brand. 54mm special steel burrs with AllGround technology cover espresso to filter with exceptional uniformity.",
+    "descriptionJa": "業務用グラインダーの名門が送る家庭用モデル。54mm特殊鋼バーとAllGroundテクノロジーでエスプレッソからフィルターまで優れた均一性を実現。",
+    "material": "Steel + Die-cast",
+    "origin": "Germany",
+    "image": "/images/gear/mahlkonig-x54.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%83%BC%E3%83%AB%E3%82%AF%E3%83%BC%E3%83%8B%E3%83%83%E3%83%92+X54&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Mahlkonig+X54&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Mahlkonig+X54&tag=assetly-21"
+  },
+  {
+    "id": "wilfa-uniform",
+    "name": "Wilfa Uniform",
+    "nameJa": "ウィルファ ユニフォーム",
+    "brand": "wilfa",
+    "category": "grinder",
+    "brewMethod": "pour-over",
+    "price": 48000,
+    "priceRange": "premium",
+    "description": "A filter-focused grinder designed in collaboration with World Barista Champion Tim Wendelboe. 58mm flat steel burrs produce remarkably uniform particles.",
+    "descriptionJa": "世界バリスタチャンピオンのティム・ウェンデルボーとの共同開発。58mmフラットスチールバーで驚くほど均一な粒度を実現するフィルター特化グラインダー。",
+    "material": "Steel + Plastic",
+    "origin": "Norway",
+    "image": "/images/gear/wilfa-uniform.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%95%E3%82%A1+%E3%83%A6%E3%83%8B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Wilfa+Uniform&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Wilfa+Uniform&tag=assetly-21"
+  },
+  {
+    "id": "kingrinder-k6",
+    "name": "KINGrinder K6",
+    "nameJa": "キングラインダー K6",
+    "brand": "kingrinder",
+    "category": "grinder",
+    "brewMethod": "all",
+    "price": 12800,
+    "priceRange": "mid",
+    "description": "A remarkably capable hand grinder with 48mm stainless steel burrs and external stepless adjustment. Outstanding grind quality at an unbeatable price point.",
+    "descriptionJa": "48mmステンレスバーと外部ステップレス調整を備えた手動グラインダー。驚異的なコストパフォーマンスで優れたグラインド品質を実現。",
+    "material": "Aluminum + Stainless Steel",
+    "origin": "China",
+    "image": "/images/gear/kingrinder-k6.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC+K6&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=KINGrinder+K6&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=KINGrinder+K6&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00svu3m.vntj2bd9.g00svu3m.vntj3a4f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funion5255%2F62077020622%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funion5255%2Fi%2F13272484%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "sibarist-fast-flat",
+    "name": "Sibarist FAST Flat",
+    "nameJa": "シバリスト FAST フラット",
+    "brand": "sibarist",
+    "category": "dripper",
+    "brewMethod": "pour-over",
+    "price": 2800,
+    "priceRange": "budget",
+    "description": "Ultra-fast specialty paper filters that dramatically increase flow rate. Made from unique cellulose fibers, they produce clean cups with shorter brew times.",
+    "descriptionJa": "流速を劇的に速める超高速スペシャルティペーパーフィルター。独自のセルロース繊維で、短い抽出時間でもクリーンなカップを実現。",
+    "material": "Specialty Paper",
+    "origin": "Spain",
+    "image": "/images/gear/sibarist-fast-flat.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%B7%E3%83%90%E3%83%AA%E3%82%B9%E3%83%88+FAST+%E3%83%95%E3%83%A9%E3%83%83%E3%83%88&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Sibarist+FAST+Flat&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Sibarist+FAST+Flat&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qb28m.vntj2d4d.g00qb28m.vntj3ae0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finter-c%2Fsibarist-wf%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finter-c%2Fi%2F10007388%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "fellow-stagg-xf",
+    "name": "Fellow Stagg [XF] Dripper",
+    "nameJa": "フェロー スタッグ XF ドリッパー",
+    "brand": "fellow",
+    "category": "dripper",
+    "brewMethod": "pour-over",
+    "price": 5800,
+    "priceRange": "mid",
+    "description": "A double-wall vacuum insulated pour-over dripper with a ratio aid and internal steep-and-release mechanism. Designed for precise, repeatable brewing.",
+    "descriptionJa": "二重壁真空断熱構造のポアオーバードリッパー。レシオエイド付きで、精密かつ再現性の高い抽出が可能。",
+    "material": "Stainless Steel",
+    "origin": "USA",
+    "image": "/images/gear/fellow-stagg-xf.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC+%E3%82%B9%E3%82%BF%E3%83%83%E3%82%B0+XF+%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Fellow+Stagg+%5BXF%5D+Dripper&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Fellow+Stagg+%5BXF%5D+Dripper&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00synlm.vntj20e2.g00synlm.vntj3a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F2009020%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10014712%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "blue-bottle-dripper",
+    "name": "Blue Bottle Dripper",
+    "nameJa": "ブルーボトル ドリッパー",
+    "brand": "blue-bottle",
+    "category": "dripper",
+    "brewMethod": "pour-over",
+    "price": 4400,
+    "priceRange": "budget",
+    "description": "A proprietary flat-bottom dripper co-developed with Bonmac. Its unique shape and ridges promote even extraction with a forgiving brewing process.",
+    "descriptionJa": "ボンマックと共同開発したフラットボトムドリッパー。独自の形状とリブで均一な抽出を促し、誰でも美味しく淹れやすい設計。",
+    "material": "Ceramic",
+    "origin": "Japan",
+    "image": "/images/gear/blue-bottle-dripper.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%AB%E3%83%BC%E3%83%9C%E3%83%88%E3%83%AB+%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Blue+Bottle+Dripper&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Blue+Bottle+Dripper&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00s3vhm.vntj243a.g00s3vhm.vntj3e45/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fec-union3%2Fmh221225-15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fec-union3%2Fi%2F10099709%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "torch-mountain-dripper",
+    "name": "Torch Mountain Dripper",
+    "nameJa": "トーチ マウンテンドリッパー",
+    "brand": "torch",
+    "category": "dripper",
+    "brewMethod": "pour-over",
+    "price": 4180,
+    "priceRange": "budget",
+    "description": "A Japanese-designed dripper with a mountain-inspired silhouette and internal ribs for optimal airflow. Hand-crafted ceramic with excellent heat retention.",
+    "descriptionJa": "山をモチーフにした日本製デザインドリッパー。内部リブで最適な空気の流れを確保し、手作りセラミックで優れた保温性を持つ。",
+    "material": "Ceramic",
+    "origin": "Japan",
+    "image": "/images/gear/torch-mountain-dripper.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%81+%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Torch+Mountain+Dripper&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Torch+Mountain+Dripper&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qgrom.vntj2aad.g00qgrom.vntj37d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fselect-penguin%2Fkt01-915%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fselect-penguin%2Fi%2F10022960%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "april-brewer",
+    "name": "April Brewer",
+    "nameJa": "エイプリル ブリューワー",
+    "brand": "april",
+    "category": "dripper",
+    "brewMethod": "pour-over",
+    "price": 5500,
+    "priceRange": "mid",
+    "description": "A minimalist flat-bottom dripper from the Danish specialty roaster. Its ribless design with a raised platform creates a unique brewing dynamic for clean, sweet cups.",
+    "descriptionJa": "デンマークのスペシャルティロースターが開発したミニマルなフラットボトムドリッパー。リブなしの底上げ設計でクリーンで甘みのあるカップを実現。",
+    "material": "Borosilicate Glass",
+    "origin": "Denmark",
+    "image": "/images/gear/april-brewer.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AA%E3%83%AB+%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%AF%E3%83%BC&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=April+Brewer&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=April+Brewer&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rbhsm.vntj25e8.g00rbhsm.vntj3b93/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmartkitchen%2F10010453%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmartkitchen%2Fi%2F10010453%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "mugen-dripper",
+    "name": "Hario Mugen Dripper",
+    "nameJa": "ハリオ ミュゲン ドリッパー",
+    "brand": "hario",
+    "category": "dripper",
+    "brewMethod": "pour-over",
+    "price": 1650,
+    "priceRange": "budget",
+    "description": "Hario's one-pour dripper with a star-shaped bottom and tall ribs. Designed for single-pour brewing without the need for a gooseneck kettle or pour technique.",
+    "descriptionJa": "星型の底面と高いリブが特徴のハリオの一投注ぎドリッパー。グースネックケトルやテクニック不要で、一回注ぎで美味しく抽出できる。",
+    "material": "Resin (PCT)",
+    "origin": "Japan",
+    "image": "/images/gear/mugen-dripper.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%AA%E3%82%AA+%E3%83%9F%E3%83%A5%E3%82%B2%E3%83%B3+%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Hario+Mugen+Dripper&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Hario+Mugen+Dripper&tag=assetly-21"
+  },
+  {
+    "id": "flower-dripper-cup4",
+    "name": "Cafec Flower Dripper Cup4",
+    "nameJa": "カフェック フラワードリッパー Cup4",
+    "brand": "cafec",
+    "category": "dripper",
+    "brewMethod": "pour-over",
+    "price": 1980,
+    "priceRange": "budget",
+    "description": "A larger version of the Flower Dripper with petal-shaped ribs for 2-4 cups. The unique rib design ensures air circulation and even extraction.",
+    "descriptionJa": "花びら型リブが特徴のフラワードリッパーの2〜4杯用サイズ。独自のリブ設計で空気循環と均一な抽出を実現。",
+    "material": "Resin (Tritan)",
+    "origin": "Japan",
+    "image": "/images/gear/flower-dripper-cup4.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%83%E3%82%AF+%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC+Cup4&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Cafec+Flower+Dripper+Cup4&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Cafec+Flower+Dripper+Cup4&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rxh4m.vntj2499.g00rxh4m.vntj379b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgardenbar-coffeejapan%2Fcafec-decaf200-set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgardenbar-coffeejapan%2Fi%2F10000408%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "key-coffee-crystal-dripper",
+    "name": "Key Coffee Crystal Dripper",
+    "nameJa": "キーコーヒー クリスタルドリッパー",
+    "brand": "key-coffee",
+    "category": "dripper",
+    "brewMethod": "pour-over",
+    "price": 1320,
+    "priceRange": "budget",
+    "description": "A diamond-faceted dripper that creates multiple air pockets for optimal drainage. Its crystal-cut design is both beautiful and functional.",
+    "descriptionJa": "ダイヤモンドカット形状で複数のエアポケットを生み出し、最適なドレナージを実現。美しいクリスタルカットデザインが機能性と美しさを両立。",
+    "material": "Resin (AS)",
+    "origin": "Japan",
+    "image": "/images/gear/key-coffee-crystal-dripper.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC+%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Key+Coffee+Crystal+Dripper&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Key+Coffee+Crystal+Dripper&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00u882m.vntj2e8e.g00u882m.vntj3eb0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyotsubasyouten%2F20240419004744_24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyotsubasyouten%2Fi%2F10058735%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "brewista-artisan",
+    "name": "Brewista Artisan Gooseneck Kettle",
+    "nameJa": "ブリューイスタ アーティザン グースネックケトル",
+    "brand": "brewista",
+    "category": "kettle",
+    "brewMethod": "pour-over",
+    "price": 19800,
+    "priceRange": "mid",
+    "description": "A variable temperature electric gooseneck kettle with 1 degree C precision and hold mode. The precision spout gives excellent pour control for pour-over brewing.",
+    "descriptionJa": "1度単位の温度制御とホールドモード搭載の電気グースネックケトル。精密な注ぎ口でポアオーバーに最適な湯量コントロールが可能。",
+    "material": "Stainless Steel",
+    "origin": "Taiwan",
+    "image": "/images/gear/brewista-artisan.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%A4%E3%82%B9%E3%82%BF+%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B6%E3%83%B3+%E3%82%B0%E3%83%BC%E3%82%B9%E3%83%8D%E3%83%83%E3%82%AF%E3%82%B1%E3%83%88%E3%83%AB&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Brewista+Artisan+Gooseneck+Kettle&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Brewista+Artisan+Gooseneck+Kettle&tag=assetly-21"
+  },
+  {
+    "id": "hario-v60-drip-kettle",
+    "name": "Hario V60 Drip Kettle Buono",
+    "nameJa": "ハリオ V60 ドリップケトル ヴォーノ",
+    "brand": "hario",
+    "category": "kettle",
+    "brewMethod": "pour-over",
+    "price": 4950,
+    "priceRange": "budget",
+    "description": "A classic stovetop gooseneck kettle with a slim spout designed specifically for pour-over. Its ergonomic handle and balanced weight ensure precise pouring.",
+    "descriptionJa": "ポアオーバー専用設計の細口注ぎ口を持つクラシックな直火式グースネックケトル。人間工学に基づくハンドルとバランスの取れた重量で精密な注湯が可能。",
+    "material": "Stainless Steel",
+    "origin": "Japan",
+    "image": "/images/gear/hario-v60-drip-kettle.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%AA%E3%82%AA+V60+%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E3%82%B1%E3%83%88%E3%83%AB+%E3%83%B4%E3%82%A9%E3%83%BC%E3%83%8E&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Hario+V60+Drip+Kettle+Buono&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Hario+V60+Drip+Kettle+Buono&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qn2hm.vntj2fcb.g00qn2hm.vntj3e13/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-ulmax%2Fsp-4977642730564_12%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-ulmax%2Fi%2F11696819%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "bonavita-variable-temp",
+    "name": "Bonavita Variable Temperature Kettle",
+    "nameJa": "ボナヴィータ バリアブルテンプ ケトル",
+    "brand": "bonavita",
+    "category": "kettle",
+    "brewMethod": "pour-over",
+    "price": 14800,
+    "priceRange": "mid",
+    "description": "A variable temperature gooseneck kettle with a comfortable handle and count-up timer. Simple, reliable, and an industry staple for pour-over enthusiasts.",
+    "descriptionJa": "温度調整機能とカウントアップタイマーを備えたグースネックケトル。シンプルで信頼性が高く、ポアオーバー愛好家の定番。",
+    "material": "Stainless Steel",
+    "origin": "USA",
+    "image": "/images/gear/bonavita-variable-temp.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%9C%E3%83%8A%E3%83%B4%E3%82%A3%E3%83%BC%E3%82%BF+%E3%83%90%E3%83%AA%E3%82%A2%E3%83%96%E3%83%AB%E3%83%86%E3%83%B3%E3%83%97+%E3%82%B1%E3%83%88%E3%83%AB&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Bonavita+Variable+Temperature+Kettle&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Bonavita+Variable+Temperature+Kettle&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00synlm.vntj20e2.g00synlm.vntj3a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F3015298%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10022818%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "timemore-fish-smart",
+    "name": "Timemore Fish Smart",
+    "nameJa": "タイムモア フィッシュスマート",
+    "brand": "timemore",
+    "category": "kettle",
+    "brewMethod": "pour-over",
+    "price": 12800,
+    "priceRange": "mid",
+    "description": "A sleek electric gooseneck kettle with temperature control and a built-in timer. Its fish-tail spout design provides smooth, stable water flow.",
+    "descriptionJa": "温度制御とタイマーを内蔵した電気グースネックケトル。魚の尾をモチーフにした注ぎ口で滑らかで安定した湯の流れを実現。",
+    "material": "Stainless Steel",
+    "origin": "China",
+    "image": "/images/gear/timemore-fish-smart.webp",
+    "affiliateUrls": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/g00qoxgm.vntj25d0.g00qoxgm.vntj39bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbranding-coffee%2Fptb030bk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbranding-coffee%2Fi%2F10004999%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A2%E3%82%A2+%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Timemore+Fish+Smart&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Timemore+Fish+Smart&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qoxgm.vntj25d0.g00qoxgm.vntj39bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbranding-coffee%2Fptb020wh%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbranding-coffee%2Fi%2F10005052%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "fellow-stagg-ekg-pro",
+    "name": "Fellow Stagg EKG Pro",
+    "nameJa": "フェロー スタッグ EKG プロ",
+    "brand": "fellow",
+    "category": "kettle",
+    "brewMethod": "pour-over",
+    "price": 29800,
+    "priceRange": "mid",
+    "description": "The studio edition of the Stagg EKG with Bluetooth connectivity, brew stopwatch, and variable flow restrictor. All-black matte finish with LCD display.",
+    "descriptionJa": "Bluetooth接続、抽出ストップウォッチ、可変フローリストリクター搭載のEKGスタジオエディション。オールブラックマット仕上げにLCDディスプレイ。",
+    "material": "Stainless Steel",
+    "origin": "USA",
+    "image": "/images/gear/fellow-stagg-ekg-pro.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC+%E3%82%B9%E3%82%BF%E3%83%83%E3%82%B0+EKG+%E3%83%97%E3%83%AD&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Fellow+Stagg+EKG+Pro&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Fellow+Stagg+EKG+Pro&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tghbm.vntj29dc.g00tghbm.vntj3832/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffounder%2Fma077222304%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffounder%2Fi%2F10028135%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "kinto-scs-coffee-server",
+    "name": "Kinto SCS Coffee Server",
+    "nameJa": "キントー SCS コーヒーサーバー",
+    "brand": "kinto",
+    "category": "server",
+    "brewMethod": "pour-over",
+    "price": 2750,
+    "priceRange": "budget",
+    "description": "A beautifully minimal heat-resistant glass server with a cork lid. Part of Kinto's Slow Coffee Style series, designed for beauty and functionality.",
+    "descriptionJa": "コルク蓋付きの美しくミニマルな耐熱ガラスサーバー。キントーのスローコーヒースタイルシリーズで、美しさと機能性を両立。",
+    "material": "Borosilicate Glass + Cork",
+    "origin": "Japan",
+    "image": "/images/gear/kinto-scs-coffee-server.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%B3%E3%83%88%E3%83%BC+SCS+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Kinto+SCS+Coffee+Server&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Kinto+SCS+Coffee+Server&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q8qtm.vntj2659.g00q8qtm.vntj3903/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkaedesou%2F40903%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkaedesou%2Fi%2F10013563%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "fellow-mighty-small-carafe",
+    "name": "Fellow Mighty Small Glass Carafe",
+    "nameJa": "フェロー マイティスモール グラスカラフェ",
+    "brand": "fellow",
+    "category": "server",
+    "brewMethod": "pour-over",
+    "price": 4950,
+    "priceRange": "budget",
+    "description": "A double-wall insulated glass carafe designed for single servings. The vacuum insulation keeps coffee hot without a heating element.",
+    "descriptionJa": "シングルサーブ用の二重壁断熱グラスカラフェ。真空断熱で加熱なしでもコーヒーの温度をキープ。",
+    "material": "Borosilicate Glass",
+    "origin": "USA",
+    "image": "/images/gear/fellow-mighty-small-carafe.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC+%E3%83%9E%E3%82%A4%E3%83%86%E3%82%A3%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB+%E3%82%B0%E3%83%A9%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%95%E3%82%A7&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Fellow+Mighty+Small+Glass+Carafe&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Fellow+Mighty+Small+Glass+Carafe&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00upw5m.vntj2815.g00upw5m.vntj34c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famericagoodvibes%2Fay8hs6rkbv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famericagoodvibes%2Fi%2F10004456%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "chemex-three-cup",
+    "name": "Chemex Three Cup",
+    "nameJa": "ケメックス スリーカップ",
+    "brand": "chemex",
+    "category": "server",
+    "brewMethod": "pour-over",
+    "price": 6600,
+    "priceRange": "mid",
+    "description": "The compact version of the iconic Chemex, perfect for single-serve brewing. Same thick filters and clean taste in a smaller, more personal format.",
+    "descriptionJa": "アイコニックなケメックスのコンパクト版。1杯分に最適なサイズで、厚手フィルターによるクリーンな味わいはそのまま。",
+    "material": "Borosilicate Glass + Wood",
+    "origin": "USA",
+    "image": "/images/gear/chemex-three-cup.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%B1%E3%83%A1%E3%83%83%E3%82%AF%E3%82%B9+%E3%82%B9%E3%83%AA%E3%83%BC%E3%82%AB%E3%83%83%E3%83%97&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Chemex+Three+Cup&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Chemex+Three+Cup&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tywqm.vntj2cad.g00tywqm.vntj3312/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajimura4861%2Fsb003dmy6lq%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fajimura4861%2Fi%2F12825174%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "torch-pitchii",
+    "name": "Torch Pitchii Coffee Server",
+    "nameJa": "トーチ ピッチー コーヒーサーバー",
+    "brand": "torch",
+    "category": "server",
+    "brewMethod": "pour-over",
+    "price": 3850,
+    "priceRange": "budget",
+    "description": "A handcrafted Japanese coffee server with a unique pitcher-like shape. Its wooden handle and organic curves make it a standout serving piece.",
+    "descriptionJa": "ピッチャーのような独特の形状を持つ日本製ハンドクラフトコーヒーサーバー。木製ハンドルと有機的な曲線が特徴。",
+    "material": "Heat-resistant Glass + Wood",
+    "origin": "Japan",
+    "image": "/images/gear/torch-pitchii.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%88%E3%83%BC%E3%83%81+%E3%83%94%E3%83%83%E3%83%81%E3%83%BC+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Torch+Pitchii+Coffee+Server&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Torch+Pitchii+Coffee+Server&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00trggm.vntj2020.g00trggm.vntj34d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fibuki-shop%2F20260314233435_111%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fibuki-shop%2Fi%2F10025280%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "fellow-clara",
+    "name": "Fellow Clara French Press",
+    "nameJa": "フェロー クララ フレンチプレス",
+    "brand": "fellow",
+    "category": "french-press",
+    "brewMethod": "french-press",
+    "price": 14800,
+    "priceRange": "mid",
+    "description": "A modern French press with an enhanced filtration system and insulated double-wall stainless steel body. The inner/outer mesh filter reduces sediment by 80%.",
+    "descriptionJa": "強化フィルターシステムと二重壁ステンレスボディのモダンフレンチプレス。内外メッシュフィルターで微粉を80%カットし、クリーンな味わいに。",
+    "material": "Stainless Steel",
+    "origin": "USA",
+    "image": "/images/gear/fellow-clara.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC+%E3%82%AF%E3%83%A9%E3%83%A9+%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Fellow+Clara+French+Press&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Fellow+Clara+French+Press&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qoxgm.vntj25d0.g00qoxgm.vntj39bd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbranding-coffee%2Ffpk700wn%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbranding-coffee%2Fi%2F10005501%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "aeropress-clear",
+    "name": "AeroPress Clear",
+    "nameJa": "エアロプレス クリア",
+    "brand": "aeropress",
+    "category": "french-press",
+    "brewMethod": "aeropress",
+    "price": 6480,
+    "priceRange": "mid",
+    "description": "The latest AeroPress in transparent Tritan copolyester. Same versatile brewing capability in a see-through body that lets you watch the extraction.",
+    "descriptionJa": "透明なトライタンコポリエステル製の最新エアロプレス。抽出工程が見える透明ボディで、従来と同じ多彩な抽出が可能。",
+    "material": "Tritan Copolyester",
+    "origin": "USA",
+    "image": "/images/gear/aeropress-clear.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%97%E3%83%AC%E3%82%B9+%E3%82%AF%E3%83%AA%E3%82%A2&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=AeroPress+Clear&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=AeroPress+Clear&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uklgm.vntj2667.g00uklgm.vntj3b2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpalmsamerica%2Fayz5qsrk1w%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpalmsamerica%2Fi%2F10036786%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "delter-coffee-press",
+    "name": "Delter Coffee Press",
+    "nameJa": "デルター コーヒープレス",
+    "brand": "delter",
+    "category": "french-press",
+    "brewMethod": "pour-over",
+    "price": 7480,
+    "priceRange": "mid",
+    "description": "A unique injection-style brewer that pushes clean water through the coffee bed, unlike immersion methods. Produces clean, filter-like cups with full body.",
+    "descriptionJa": "浸漬式とは異なり、クリーンな水をコーヒー層に押し通すインジェクション方式のブリューワー。フィルターライクなクリーンさとフルボディを両立。",
+    "material": "BPA-free Plastic",
+    "origin": "Australia",
+    "image": "/images/gear/delter-coffee-press.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%87%E3%83%AB%E3%82%BF%E3%83%BC+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%97%E3%83%AC%E3%82%B9&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Delter+Coffee+Press&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Delter+Coffee+Press&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tk7am.vntj2a96.g00tk7am.vntj33be/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmujica-felice%2Fb07myv1rdg%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmujica-felice%2Fi%2F10153324%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "hario-cafe-press",
+    "name": "Hario Cafe Press Slim S",
+    "nameJa": "ハリオ カフェプレス スリム S",
+    "brand": "hario",
+    "category": "french-press",
+    "brewMethod": "french-press",
+    "price": 2200,
+    "priceRange": "budget",
+    "description": "A compact glass French press with Hario's quality heat-resistant glass. Perfect for single servings with a simple, no-fuss design.",
+    "descriptionJa": "ハリオの高品質耐熱ガラスを使用したコンパクトなフレンチプレス。シンプルなデザインで1杯分に最適。",
+    "material": "Heat-resistant Glass + Stainless Steel",
+    "origin": "Japan",
+    "image": "/images/gear/hario-cafe-press.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%AA%E3%82%AA+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9+%E3%82%B9%E3%83%AA%E3%83%A0+S&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Hario+Cafe+Press+Slim+S&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Hario+Cafe+Press+Slim+S&tag=assetly-21"
+  },
+  {
+    "id": "rivers-coffee-press-hoop",
+    "name": "Rivers Coffee Press Hoop",
+    "nameJa": "リバーズ コーヒープレス フープ",
+    "brand": "rivers",
+    "category": "french-press",
+    "brewMethod": "french-press",
+    "price": 3080,
+    "priceRange": "budget",
+    "description": "A travel-friendly one-cup French press that doubles as a drinking mug. The integrated stainless steel mesh filter makes it ideal for on-the-go brewing.",
+    "descriptionJa": "マグカップとしても使えるトラベル向け一杯用フレンチプレス。ステンレスメッシュフィルター一体型で外出先でも手軽に抽出可能。",
+    "material": "BPA-free Plastic + Stainless Steel",
+    "origin": "Japan",
+    "image": "/images/gear/rivers-coffee-press-hoop.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%AA%E3%83%90%E3%83%BC%E3%82%BA+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%97%E3%83%AC%E3%82%B9+%E3%83%95%E3%83%BC%E3%83%97&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Rivers+Coffee+Press+Hoop&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Rivers+Coffee+Press+Hoop&tag=assetly-21"
+  },
+  {
+    "id": "hario-technica-syphon",
+    "name": "Hario Technica Syphon TCA-3",
+    "nameJa": "ハリオ テクニカ サイフォン TCA-3",
+    "brand": "hario",
+    "category": "siphon",
+    "brewMethod": "siphon",
+    "price": 8800,
+    "priceRange": "mid",
+    "description": "The standard-bearer for home syphon brewing with heat-resistant glass and an alcohol burner. Produces a delicate, tea-like cup with stunning visual theater.",
+    "descriptionJa": "耐熱ガラスとアルコールランプのサイフォン式コーヒーメーカーの定番。繊細でティーライクなカップと美しい抽出パフォーマンスを楽しめる。",
+    "material": "Borosilicate Glass",
+    "origin": "Japan",
+    "image": "/images/gear/hario-technica-syphon.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%AA%E3%82%AA+%E3%83%86%E3%82%AF%E3%83%8B%E3%82%AB+%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3+TCA-3&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Hario+Technica+Syphon+TCA-3&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Hario+Technica+Syphon+TCA-3&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qg4lm.vntj2aa4.g00qg4lm.vntj35f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-uemachicoffee%2Fhario-tca3-beam%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-uemachicoffee%2Fi%2F10001031%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "yama-cold-brew-tower",
+    "name": "Yama Glass Cold Brew Tower",
+    "nameJa": "ヤマ グラス コールドブリュータワー",
+    "brand": "yama",
+    "category": "siphon",
+    "brewMethod": "cold-brew",
+    "price": 42000,
+    "priceRange": "premium",
+    "description": "A striking Kyoto-style slow drip cold brew tower. Water drips through the coffee bed over 6-12 hours, producing an incredibly smooth, complex cold brew.",
+    "descriptionJa": "京都式スロードリップのコールドブリュータワー。6〜12時間かけて水がコーヒー層を通過し、驚くほど滑らかで複雑なコールドブリューを抽出。",
+    "material": "Borosilicate Glass + Wood",
+    "origin": "USA",
+    "image": "/images/gear/yama-cold-brew-tower.webp",
+    "affiliateUrls": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/g00urejm.vntj2235.g00urejm.vntj3932/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fselectshop-honeybees%2Fb0fslblndx%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fselectshop-honeybees%2Fi%2F10000971%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%A4%E3%83%9E+%E3%82%B0%E3%83%A9%E3%82%B9+%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%AF%E3%83%BC&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Yama+Glass+Cold+Brew+Tower&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Yama+Glass+Cold+Brew+Tower&tag=assetly-21"
+  },
+  {
+    "id": "nanopresso",
+    "name": "Wacaco Nanopresso",
+    "nameJa": "ワカコ ナノプレッソ",
+    "brand": "wacaco",
+    "category": "siphon",
+    "brewMethod": "espresso",
+    "price": 9800,
+    "priceRange": "mid",
+    "description": "A palm-sized portable espresso maker generating up to 18 bars of pressure. No batteries or electricity needed, just hand power for espresso anywhere.",
+    "descriptionJa": "手のひらサイズのポータブルエスプレッソメーカー。最大18気圧を発生し、電気不要でどこでもエスプレッソを楽しめる。",
+    "material": "BPA-free Plastic",
+    "origin": "Hong Kong",
+    "image": "/images/gear/nanopresso.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%AF%E3%82%AB%E3%82%B3+%E3%83%8A%E3%83%8E%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Wacaco+Nanopresso&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Wacaco+Nanopresso&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rsktm.vntj2976.g00rsktm.vntj39c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoppin%2Fwacaco-wacaco1030%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftoppin%2Fi%2F10194164%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "hario-cold-brew-bottle",
+    "name": "Hario Filter-in Coffee Bottle",
+    "nameJa": "ハリオ フィルターインコーヒーボトル",
+    "brand": "hario",
+    "category": "siphon",
+    "brewMethod": "cold-brew",
+    "price": 1980,
+    "priceRange": "budget",
+    "description": "A wine-bottle-shaped cold brew maker with a built-in mesh filter. Add coffee and water, refrigerate for 8 hours, and enjoy smooth cold brew straight from the bottle.",
+    "descriptionJa": "ワインボトル型のコールドブリューメーカー。メッシュフィルター内蔵で、コーヒーと水を入れて8時間冷蔵庫で待つだけ。",
+    "material": "Heat-resistant Glass + Silicone",
+    "origin": "Japan",
+    "image": "/images/gear/hario-cold-brew-bottle.webp",
+    "affiliateUrls": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/g00slbfm.vntj21f0.g00slbfm.vntj32b0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthinkrich%2Fq04063%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthinkrich%2Fi%2F10164957%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%8F%E3%83%AA%E3%82%AA+%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9C%E3%83%88%E3%83%AB&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Hario+Filter-in+Coffee+Bottle&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Hario+Filter-in+Coffee+Bottle&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00s4o6m.vntj2538.g00s4o6m.vntj349d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fulmaxjapan2%2F4977642038417_10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fulmaxjapan2%2Fi%2F10738586%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "bruer-cold-brew",
+    "name": "Bruer Cold Brew Slow Drip",
+    "nameJa": "ブリューアー コールドブリュー スロードリップ",
+    "brand": "bruer",
+    "category": "siphon",
+    "brewMethod": "cold-brew",
+    "price": 8800,
+    "priceRange": "mid",
+    "description": "A compact Kyoto-style slow drip cold brewer with an adjustable valve. The countertop design produces smooth, nuanced cold brew in 3-12 hours.",
+    "descriptionJa": "調整バルブ付きのコンパクトな京都式スロードリップコールドブリューワー。カウンタートップサイズで3〜12時間で滑らかなコールドブリューを抽出。",
+    "material": "Borosilicate Glass + Silicone",
+    "origin": "USA",
+    "image": "/images/gear/bruer-cold-brew.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%BC+%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC+%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%89%E3%83%AA%E3%83%83%E3%83%97&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Bruer+Cold+Brew+Slow+Drip&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Bruer+Cold+Brew+Slow+Drip&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00psqcm.vntj25fd.g00psqcm.vntj395e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fre-vision%2Fbrro005%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fre-vision%2Fi%2F10006577%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "acaia-pearl-s",
+    "name": "Acaia Pearl S",
+    "nameJa": "アカイア パール S",
+    "brand": "acaia",
+    "category": "scale",
+    "brewMethod": "all",
+    "price": 22000,
+    "priceRange": "mid",
+    "description": "The compact version of the Acaia Pearl with the same 0.1g precision and Bluetooth connectivity. Waterproof design fits perfectly on espresso drip trays.",
+    "descriptionJa": "Acaia Pearlのコンパクト版。0.1g精度とBluetooth接続はそのままに、防水設計でエスプレッソのドリップトレイにぴったりフィット。",
+    "material": "Aluminum + Glass",
+    "origin": "Taiwan",
+    "image": "/images/gear/acaia-pearl-s.webp",
+    "affiliateUrls": {
+      "rakuten": "https://hb.afl.rakuten.co.jp/hgc/g00sjd2m.vntj2890.g00sjd2m.vntj3e8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foc-shop%2F3204%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foc-shop%2Fi%2F10001902%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%A2%E3%82%AB%E3%82%A4%E3%82%A2+%E3%83%91%E3%83%BC%E3%83%AB+S&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Acaia+Pearl+S&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Acaia+Pearl+S&tag=assetly-21"
+  },
+  {
+    "id": "timemore-black-mirror-plus",
+    "name": "Timemore Black Mirror Basic Plus",
+    "nameJa": "タイムモア ブラックミラー ベーシックプラス",
+    "brand": "timemore",
+    "category": "scale",
+    "brewMethod": "all",
+    "price": 7980,
+    "priceRange": "mid",
+    "description": "An upgraded coffee scale with 0.1g precision, built-in timer, and auto-start flow rate detection. Excellent value with USB-C charging and responsive display.",
+    "descriptionJa": "0.1g精度、タイマー内蔵、自動スタート流速検知を搭載したコーヒースケール。USB-C充電対応で優れたコストパフォーマンス。",
+    "material": "Tempered Glass + ABS",
+    "origin": "China",
+    "image": "/images/gear/timemore-black-mirror-plus.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A2%E3%82%A2+%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9F%E3%83%A9%E3%83%BC+%E3%83%99%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF%E3%83%97%E3%83%A9%E3%82%B9&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Timemore+Black+Mirror+Basic+Plus&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Timemore+Black+Mirror+Basic+Plus&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ulv1m.vntj29bd.g00ulv1m.vntj39c3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhellodear%2Fb0d8yvdwlm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhellodear%2Fi%2F10601933%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "felicita-arc",
+    "name": "Felicita Arc",
+    "nameJa": "フェリシタ アーク",
+    "brand": "felicita",
+    "category": "scale",
+    "brewMethod": "all",
+    "price": 14800,
+    "priceRange": "mid",
+    "description": "A premium coffee scale with Bluetooth, flow rate indicator, and 0.1g resolution. Its sleek design and fast response time rival the Acaia at a lower price.",
+    "descriptionJa": "Bluetooth、流速インジケーター、0.1g分解能のプレミアムコーヒースケール。スリムなデザインと高速応答性でAcaiaに匹敵する性能をより手頃な価格で。",
+    "material": "Tempered Glass + Aluminum",
+    "origin": "China",
+    "image": "/images/gear/felicita-arc.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%95%E3%82%A7%E3%83%AA%E3%82%B7%E3%82%BF+%E3%82%A2%E3%83%BC%E3%82%AF&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Felicita+Arc&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Felicita+Arc&tag=assetly-21"
+  },
+  {
+    "id": "brewista-smart-scale-2",
+    "name": "Brewista Smart Scale II",
+    "nameJa": "ブリューイスタ スマートスケール II",
+    "brand": "brewista",
+    "category": "scale",
+    "brewMethod": "all",
+    "price": 9800,
+    "priceRange": "mid",
+    "description": "A water-resistant coffee scale with 0.1g precision, built-in timer, and six brewing modes including espresso and pour-over auto modes.",
+    "descriptionJa": "0.1g精度、タイマー内蔵、エスプレッソ・ポアオーバー自動モード含む6つのモードを搭載した防水コーヒースケール。",
+    "material": "Silicone + ABS",
+    "origin": "Taiwan",
+    "image": "/images/gear/brewista-smart-scale-2.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%A4%E3%82%B9%E3%82%BF+%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB+II&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Brewista+Smart+Scale+II&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Brewista+Smart+Scale+II&tag=assetly-21"
+  },
+  {
+    "id": "acaia-lunar",
+    "name": "Acaia Lunar",
+    "nameJa": "アカイア ルナー",
+    "brand": "acaia",
+    "category": "scale",
+    "brewMethod": "espresso",
+    "price": 35200,
+    "priceRange": "premium",
+    "description": "The ultimate espresso scale with 0.01g resolution, real-time flow rate, and a thin profile that fits under any espresso machine drip tray. Fully waterproof.",
+    "descriptionJa": "0.01g分解能、リアルタイム流速表示、薄型プロファイルのエスプレッソ用最高峰スケール。完全防水でどのエスプレッソマシンのトレイにもフィット。",
+    "material": "Aluminum + Glass",
+    "origin": "Taiwan",
+    "image": "/images/gear/acaia-lunar.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%A2%E3%82%AB%E3%82%A4%E3%82%A2+%E3%83%AB%E3%83%8A%E3%83%BC&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Acaia+Lunar&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Acaia+Lunar&tag=assetly-21"
+  },
+  {
+    "id": "wdt-tool",
+    "name": "WDT Tool (Weiss Distribution Technique)",
+    "nameJa": "WDTツール（ワイス・ディストリビューション・テクニック）",
+    "brand": "various",
+    "category": "accessory",
+    "brewMethod": "espresso",
+    "price": 2980,
+    "priceRange": "budget",
+    "description": "A fine-needle stirring tool used to break up clumps in espresso grounds before tamping. Dramatically improves shot consistency and reduces channeling.",
+    "descriptionJa": "タンピング前にエスプレッソの粉のダマを崩す細針スティアリングツール。ショットの安定性を劇的に向上させ、チャネリングを抑制。",
+    "material": "Stainless Steel + Aluminum",
+    "origin": "Various",
+    "image": "/images/gear/wdt-tool.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=WDT%E3%83%84%E3%83%BC%E3%83%AB%EF%BC%88%E3%83%AF%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%EF%BC%89&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=WDT+Tool+%28Weiss+Distribution+Technique%29&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=WDT+Tool+%28Weiss+Distribution+Technique%29&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sqpmm.vntj2066.g00sqpmm.vntj34f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fseikatu-souko%2Fitem-016431-279%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fseikatu-souko%2Fi%2F17063539%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "normcore-tamper-v4",
+    "name": "Normcore Spring-Loaded Tamper V4",
+    "nameJa": "ノームコア スプリングローデッド タンパー V4",
+    "brand": "normcore",
+    "category": "accessory",
+    "brewMethod": "espresso",
+    "price": 6980,
+    "priceRange": "mid",
+    "description": "A self-leveling spring-loaded tamper that ensures consistent 15lb pressure every time. Eliminates user variance for perfectly even tamps regardless of skill.",
+    "descriptionJa": "毎回一定の15ポンドの圧力を保証するセルフレベリングスプリング式タンパー。スキルに関係なく完全に均一なタンピングを実現。",
+    "material": "Stainless Steel",
+    "origin": "Taiwan",
+    "image": "/images/gear/normcore-tamper-v4.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%8E%E3%83%BC%E3%83%A0%E3%82%B3%E3%82%A2+%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%87%E3%83%83%E3%83%89+%E3%82%BF%E3%83%B3%E3%83%91%E3%83%BC+V4&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Normcore+Spring-Loaded+Tamper+V4&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Normcore+Spring-Loaded+Tamper+V4&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00synlm.vntj20e2.g00synlm.vntj3a79/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F3008129%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10017259%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "puck-screen-53mm",
+    "name": "Puck Screen 53.5mm",
+    "nameJa": "パックスクリーン 53.5mm",
+    "brand": "various",
+    "category": "accessory",
+    "brewMethod": "espresso",
+    "price": 1980,
+    "priceRange": "budget",
+    "description": "A fine mesh metal screen placed on top of the coffee puck to ensure even water distribution from the shower screen. Keeps the group head cleaner between shots.",
+    "descriptionJa": "コーヒーパックの上に置く細メッシュのスクリーン。シャワースクリーンからの湯を均一に分散させ、グループヘッドを清潔に保つ。",
+    "material": "Stainless Steel (316L)",
+    "origin": "Various",
+    "image": "/images/gear/puck-screen.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%91%E3%83%83%E3%82%AF%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3+53.5mm&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Puck+Screen+53.5mm&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Puck+Screen+53.5mm&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00utxxm.vntj238f.g00utxxm.vntj3201/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnextstore0507%2Fgr-e9zxsu0c8x%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnextstore0507%2Fi%2F10065960%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "dosing-funnel-58mm",
+    "name": "Dosing Funnel 58mm",
+    "nameJa": "ドーシングファンネル 58mm",
+    "brand": "various",
+    "category": "accessory",
+    "brewMethod": "espresso",
+    "price": 1480,
+    "priceRange": "budget",
+    "description": "A magnetic dosing funnel that sits atop the portafilter basket, preventing grounds from spilling during dosing and WDT distribution.",
+    "descriptionJa": "ポルタフィルターバスケット上にセットするマグネット式ドーシングファンネル。ドーシングやWDT時の粉の飛び散りを防止。",
+    "material": "Aluminum",
+    "origin": "Various",
+    "image": "/images/gear/dosing-funnel.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%89%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A1%E3%83%B3%E3%83%8D%E3%83%AB+58mm&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Dosing+Funnel+58mm&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Dosing+Funnel+58mm&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00utxxm.vntj238f.g00utxxm.vntj3201/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnextstore0507%2Fgr-e9reoww8nu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnextstore0507%2Fi%2F10064122%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "knock-box-motta",
+    "name": "Motta Knock Box",
+    "nameJa": "モッタ ノックボックス",
+    "brand": "motta",
+    "category": "accessory",
+    "brewMethod": "espresso",
+    "price": 5980,
+    "priceRange": "mid",
+    "description": "A professional-grade stainless steel knock box for disposing of used espresso pucks. Rubber-coated bar protects portafilters; heavy base prevents tipping.",
+    "descriptionJa": "使用済みエスプレッソパックを捨てるプロ仕様ステンレス製ノックボックス。ラバーコートバーがポルタフィルターを保護し、重い底面で転倒防止。",
+    "material": "Stainless Steel + Rubber",
+    "origin": "Italy",
+    "image": "/images/gear/knock-box-motta.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%83%A2%E3%83%83%E3%82%BF+%E3%83%8E%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Motta+Knock+Box&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Motta+Knock+Box&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rsgym.vntj2e68.g00rsgym.vntj3a24/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Famericana%2F23006163%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Famericana%2Fi%2F10025743%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
+  },
+  {
+    "id": "gaggia-classic-pro",
+    "name": "Gaggia Classic Pro",
+    "nameJa": "ガジア クラシック プロ",
+    "brand": "gaggia",
+    "category": "espresso-machine",
+    "brewMethod": "espresso",
+    "price": 68000,
+    "priceRange": "premium",
+    "description": "The iconic Italian espresso machine updated with a commercial 3-way solenoid valve and 58mm portafilter. A proven platform beloved by the home barista community.",
+    "descriptionJa": "業務用3ウェイソレノイドバルブと58mmポルタフィルターを搭載したイタリアの名機。ホームバリスタコミュニティで長年愛される定番プラットフォーム。",
+    "material": "Stainless Steel",
+    "origin": "Italy",
+    "image": "/images/gear/gaggia-classic-pro.webp",
+    "affiliateUrls": {
+      "rakuten": "",
+      "amazon": ""
+    },
+    "amazonJPUrl": "https://www.amazon.co.jp/s?k=%E3%82%AC%E3%82%B8%E3%82%A2+%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF+%E3%83%97%E3%83%AD&tag=assetly-22",
+    "amazonUrl": "https://www.amazon.com/s?k=Gaggia+Classic+Pro&tag=assetly-20",
+    "amazonUKUrl": "https://www.amazon.co.uk/s?k=Gaggia+Classic+Pro&tag=assetly-21",
+    "rakutenUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tywqm.vntj2cad.g00tywqm.vntj3312/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajimura4861%2Fsb0cjdwdhc8%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fajimura4861%2Fi%2F12824712%2F&rafcid=wsc_i_is_33f9e64b-57b8-4ebb-9c2c-00fb0126a84b"
   }
 ]
