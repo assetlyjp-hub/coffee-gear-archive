@@ -142,15 +142,18 @@ const productJsonLd = {
     </div>
 
     <!-- 購入リンク（URLがある場合のみ表示） -->
-    {(gear.amazonUrl || gear.rakutenUrl) && (
+    {(gear.amazonUrl || gear.amazonUKUrl || gear.rakutenUrl) && (
       <div style="padding: var(--space-md) 0 var(--space-lg);">
         <h2 style="margin-bottom: var(--space-md);">Where to Buy</h2>
         <div class="buy-links">
           {gear.amazonUrl && (
             <a href={gear.amazonUrl} class="btn btn--filled" target="_blank" rel="noopener noreferrer">Amazon</a>
           )}
+          {gear.amazonUKUrl && (
+            <a href={gear.amazonUKUrl} class="btn btn--filled" target="_blank" rel="noopener noreferrer">Amazon UK</a>
+          )}
           {gear.rakutenUrl && (
-            <a href={gear.rakutenUrl} class="btn" target="_blank" rel="noopener noreferrer">Rakuten</a>
+            <a href={gear.rakutenUrl} class="btn" target="_blank" rel="noopener noreferrer">🛒 楽天市場</a>
           )}
         </div>
       </div>
