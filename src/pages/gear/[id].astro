@@ -37,36 +37,29 @@ const categoryLabel = gear.category.split('-').map((w: string) => w.charAt(0).to
 // 抽出方法の表示名を整形
 const methodLabel = gear.brewMethod.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 
-// JSON-LD構造化データ（Product schema）
-const productJsonLd = {
+// JSON-LD構造化データ（Article schema）
+const articleJsonLd = {
   "@context": "https://schema.org",
-  "@type": "Product",
-  "name": gear.name,
+  "@type": "Article",
+  "headline": gear.name,
   "description": gear.description,
   "image": new URL(gear.image, Astro.site).href,
-  "brand": {
-    "@type": "Brand",
-    "name": brand?.name || gear.brand,
+  "author": {
+    "@type": "Organization",
+    "name": "Coffee Gear Archive",
   },
-  "offers": {
-    "@type": "Offer",
-    "price": gear.price,
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Coffee Gear Archive",
   },
-  "additionalProperty": [
-    { "@type": "PropertyValue", "name": "Category", "value": categoryLabel },
-    { "@type": "PropertyValue", "name": "Material", "value": gear.material },
-    { "@type": "PropertyValue", "name": "Brew Method", "value": methodLabel },
-    { "@type": "PropertyValue", "name": "Capacity", "value": gear.capacity },
-  ],
+  "datePublished": new Date().toISOString().split('T')[0],
 };
 ---
 
 <Base
   title={gear.name}
   description={gear.description.slice(0, 160)}
-  jsonLd={productJsonLd}
+  jsonLd={articleJsonLd}
 >
   <!-- 一覧への戻りリンク -->
   <div class="container" style="padding-top: calc(var(--space-md) + 60px);">
