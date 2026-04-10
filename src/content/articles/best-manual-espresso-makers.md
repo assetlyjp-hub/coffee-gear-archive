@@ -4,6 +4,8 @@ description: "Skip the $2,000 machine. These manual lever espresso makers pull c
 category: "comparison"
 tags: ["espresso", "manual", "lever", "Flair", "Cafelat Robot", "ROK", "budget"]
 publishedAt: "2026-04-09"
+updatedAt: "2026-04-10"
+relatedGear: ["flair-58", "cafelat-robot", "rok-espresso-gc", "flair-espresso-pro-2"]
 articleType: "comparison"
 ---
 

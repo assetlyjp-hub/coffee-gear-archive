@@ -4,6 +4,7 @@ description: "A complete beginner's guide to pulling espresso at home. Learn how
 category: "guide"
 tags: ["espresso", "beginner", "brewing guide", "equipment", "technique"]
 publishedAt: "2026-04-07"
+updatedAt: "2026-04-10"
 relatedGear: ["flair-espresso-pro-2", "breville-bambino-plus", "rancilio-silvia"]
 articleType: "guide"
 ---

@@ -4,6 +4,8 @@ description: "Learn which grind size works best for pour over, French press, esp
 category: "guide"
 tags: ["grind size", "grinding", "brew method", "beginner", "technique"]
 publishedAt: "2026-04-06"
+updatedAt: "2026-04-10"
+relatedGear: ["comandante-c40", "timemore-c2", "baratza-encore"]
 articleType: "guide"
 ---
 

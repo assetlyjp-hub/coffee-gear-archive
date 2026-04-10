@@ -4,6 +4,8 @@ description: "Discover the ideal water temperature for every coffee brew method.
 category: "guide"
 tags: ["water temperature", "brewing", "extraction", "technique", "science"]
 publishedAt: "2026-04-06"
+updatedAt: "2026-04-10"
+relatedGear: ["fellow-stagg-ekg", "hario-v60-02", "aeropress-original"]
 articleType: "guide"
 ---
 
