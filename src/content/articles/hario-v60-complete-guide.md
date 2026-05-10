@@ -3,8 +3,8 @@ title: "Hario V60 Complete Guide: Brew Like a Champion in 2026"
 description: "The complete Hario V60 guide — every model, optimal recipes, grind size, water temperature, and the techniques used by World Brewers Cup champions."
 category: "guide"
 tags: [hario, v60, pour-over, brewing, technique]
-publishedAt: "2026-05-07"
-updatedAt: "2026-05-07"
+publishedAt: "2026-05-10"
+updatedAt: "2026-05-10"
 relatedGear: ["hario-v60-01", "hario-v60-02", "hario-v60-copper", "hario-server", "hario-scale"]
 articleType: "guide"
 ---

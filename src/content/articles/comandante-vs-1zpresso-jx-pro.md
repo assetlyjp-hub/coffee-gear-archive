@@ -3,8 +3,8 @@ title: "Comandante C40 vs 1Zpresso JX-Pro: Premium Hand Grinder Showdown"
 description: "Comandante C40 vs 1Zpresso JX-Pro compared on burr quality, grind consistency, build, ergonomics, and value. Which premium hand grinder wins?"
 category: "comparison"
 tags: [comandante, 1zpresso, hand-grinder, comparison, premium]
-publishedAt: "2026-05-07"
-updatedAt: "2026-05-07"
+publishedAt: "2026-05-10"
+updatedAt: "2026-05-10"
 relatedGear: ["comandante-c40", "1zpresso-jx-pro"]
 articleType: "comparison"
 ---
