@@ -13,7 +13,7 @@ I once spent a long weekend brewing the same coffee — a single bag of washed E
 
 The cups tasted different enough that a friend who stopped by mid-experiment thought I'd opened five different bags. Brighter, heavier, sweeter, muddier, cleaner — same coffee, transformed by what stood between the grounds and the cup.
 
-The filter is the most underrated piece of equipment in coffee. People obsess over [grinders](/articles/best-coffee-grinders-under-100), [kettles](/articles/best-gooseneck-kettles), and dripper geometry. They debate Hario versus Kalita for hours. Then they buy whatever filter is cheapest at the supermarket and wonder why their coffee never tastes like the cafe's.
+The filter is the most underrated piece of equipment in coffee. People obsess over [grinders](/magazine/best-coffee-grinders-under-100), [kettles](/magazine/best-gooseneck-kettles), and dripper geometry. They debate Hario versus Kalita for hours. Then they buy whatever filter is cheapest at the supermarket and wonder why their coffee never tastes like the cafe's.
 
 Here's everything I've learned about coffee filters — what each type actually does to your coffee, which brands matter, and how to pick the right one.
 
@@ -61,7 +61,7 @@ Sustainability-wise, the difference is smaller than people assume. Modern bleach
 
 **Chemex bonded filters ($10-15 for 100).** The thickest paper filter in common use — roughly 20-30% heavier than V60 papers. They produce the cleanest, brightest cup of any filter on this list. Available in pre-folded squares and circles. The thickness slows extraction significantly, which is part of why Chemex coffee tastes so distinct.
 
-For more on choosing the right dripper, see our [pour-over drippers comparison](/articles/best-pour-over-drippers) and the [V60 vs Kalita Wave breakdown](/articles/hario-v60-vs-kalita-wave).
+For more on choosing the right dripper, see our [pour-over drippers comparison](/magazine/best-pour-over-drippers) and the [V60 vs Kalita Wave breakdown](/magazine/hario-v60-vs-kalita-wave).
 
 ### Honest downsides of paper
 
@@ -85,7 +85,7 @@ There will also be a small amount of sediment in the cup — finer than French p
 
 **Able Kone Mini ($55-70).** The most respected pour-over metal filter on the market. Designed for the Chemex (full-size Kone) or for V60-shaped drippers (Mini). It's a precision-etched stainless steel cone with thousands of tiny laser-cut holes. The flow rate is calibrated to match paper-style brewing while letting oils through. Expensive, but it's the only metal filter I've used that produces a cup that approaches paper clarity while keeping the body.
 
-**Coava Disk filter ($30-40).** Designed for AeroPress and originally launched as a Kickstarter project years ago. A thin, flat, etched stainless steel disk that replaces the AeroPress's paper filter. It's the metal filter that converts the most paper users — the AeroPress's short brew time minimizes the muddier, heavier characteristics that metal can introduce, and the cup comes out balanced. See our [AeroPress guide](/articles/aeropress-complete-guide) for technique.
+**Coava Disk filter ($30-40).** Designed for AeroPress and originally launched as a Kickstarter project years ago. A thin, flat, etched stainless steel disk that replaces the AeroPress's paper filter. It's the metal filter that converts the most paper users — the AeroPress's short brew time minimizes the muddier, heavier characteristics that metal can introduce, and the cup comes out balanced. See our [AeroPress guide](/magazine/aeropress-complete-guide) for technique.
 
 **Hario Cafeor filters ($20-30).** Hario's own metal filter for V60s. Cheaper than the Kone, but the mesh is less precise — more sediment, more variable extraction. Functional but not exceptional.
 
@@ -143,7 +143,7 @@ Here's roughly what to expect when you brew the same beans through each:
 
 For light roasts and bright single-origins where you want to taste the bean's character, choose paper. For darker roasts, blends, or coffee you want to taste with milk, choose metal. For everything, if you're willing to do the work, choose cloth.
 
-See also: [single-origin vs blend coffee](/articles/single-origin-vs-blend-coffee) for how filter choice interacts with coffee selection.
+See also: [single-origin vs blend coffee](/magazine/single-origin-vs-blend-coffee) for how filter choice interacts with coffee selection.
 
 ## Sustainability Comparison
 
@@ -165,7 +165,7 @@ If you brew daily and want to reduce waste while keeping good cups, **try a meta
 
 If you're a coffee obsessive who has dialed in your technique and wants to taste something genuinely different, **commit to cloth**. The Hario Woodneck is the classic setup. Just budget the maintenance time.
 
-For setup help, see [pour-over setup for beginners](/articles/pour-over-setup-for-beginners) and [how to brew the perfect pour-over](/articles/how-to-brew-perfect-pour-over).
+For setup help, see [pour-over setup for beginners](/magazine/pour-over-setup-for-beginners) and [how to brew the perfect pour-over](/magazine/how-to-brew-perfect-pour-over).
 
 ## FAQ
 
@@ -203,4 +203,4 @@ If you're trying to taste something new, get a metal filter for a dripper you al
 
 If you're a true coffee head with patience, cloth filters produce cups that paper and metal simply can't reach. Just be ready to maintain them like a houseplant.
 
-The cheapest piece of gear in your coffee setup might be the most consequential one. Choose deliberately. For more on building a complete pour-over kit, see our [water recipe guide](/articles/water-recipe-guide).
+The cheapest piece of gear in your coffee setup might be the most consequential one. Choose deliberately. For more on building a complete pour-over kit, see our [water recipe guide](/magazine/water-recipe-guide).

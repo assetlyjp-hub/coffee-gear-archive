@@ -51,7 +51,7 @@ Before we talk containers, the freshness window matters. The clock starts at the
 - **Days 35-60 (clearly past prime).** Flat, papery notes appear. Sweetness drops. Espresso loses crema fast.
 - **Day 60+ (stale).** Compost it or use it for cold brew where dilution and time hide the flatness.
 
-For more on how roast level affects this curve, see the [coffee roast levels guide](/articles/coffee-roast-levels-guide). Darker roasts have shorter peak windows because the oils are more exposed. Lighter roasts hold longer but take more days to open up.
+For more on how roast level affects this curve, see the [coffee roast levels guide](/magazine/coffee-roast-levels-guide). Darker roasts have shorter peak windows because the oils are more exposed. Lighter roasts hold longer but take more days to open up.
 
 The point of good storage is to keep beans in the day 5-21 window for as long as possible — ideally pushing peak quality out to day 30 instead of compressing it to day 18.
 
@@ -155,11 +155,11 @@ Here's the system I've settled into after a lot of failed approaches:
 1. **Buy 12oz bags, not 2lb sacks.** Smaller bags finish faster, stay fresher, and let you rotate variety.
 2. **Keep one bag "active" at a time.** Active bag goes into an AirScape on the counter, away from sun and heat.
 3. **Freeze the second bag if you can't finish the first within 3 weeks.** Portion before freezing.
-4. **Grind to order.** Always. Whole beans are non-negotiable for fresh coffee. The [best coffee grinders under $100](/articles/best-coffee-grinders-under-100) guide covers entry-level options.
+4. **Grind to order.** Always. Whole beans are non-negotiable for fresh coffee. The [best coffee grinders under $100](/magazine/best-coffee-grinders-under-100) guide covers entry-level options.
 5. **Date the bag.** Write the roast date on the canister or bag with a sharpie. You won't remember otherwise.
 6. **Smell test before brewing.** A great bag smells aromatic — chocolate, fruit, florals, depending on origin. A stale bag smells dull, papery, or like nothing. If your beans don't smell, your brew won't taste.
 
-This system works for both pour-over (see [how to brew perfect pour-over](/articles/how-to-brew-perfect-pour-over)) and brewing methods like [cold brew vs iced coffee](/articles/cold-brew-vs-iced-coffee), where stale beans are particularly punishing because the long extraction concentrates flatness.
+This system works for both pour-over (see [how to brew perfect pour-over](/magazine/how-to-brew-perfect-pour-over)) and brewing methods like [cold brew vs iced coffee](/magazine/cold-brew-vs-iced-coffee), where stale beans are particularly punishing because the long extraction concentrates flatness.
 
 ## Ground Coffee Has a Much Shorter Shelf Life
 
@@ -173,7 +173,7 @@ Grinding exposes 100x more surface area to oxygen than whole beans. Volatile aro
 
 If you only buy pre-ground, buy the smallest amount your store sells, and use it inside two weeks. Better yet, buy a grinder. Even a $40 hand grinder beats pre-ground coffee for any brewing method.
 
-The same logic applies to brewed coffee water — see the [water recipe guide](/articles/water-recipe-guide) for why water itself ages and why fresh-grind matters more than fresh-brew.
+The same logic applies to brewed coffee water — see the [water recipe guide](/magazine/water-recipe-guide) for why water itself ages and why fresh-grind matters more than fresh-brew.
 
 ## Signs Your Beans Are Stale
 

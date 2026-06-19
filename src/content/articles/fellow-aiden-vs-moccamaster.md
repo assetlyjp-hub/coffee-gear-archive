@@ -37,7 +37,7 @@ The Aiden's signature feature is **Brew Profiles** — recipes that control wate
 
 In practice, this means you can optimize for different beans. A light-roasted Ethiopian? Bump the temperature to 208°F and extend the bloom. A dark-roasted Colombian? Drop to 195°F and shorten the brew time. The difference is audible in the cup — brighter acidity, more distinct origin characteristics, and fewer muddled flavors.
 
-The Aiden also offers a **pour-over mode** that brews a single cup through a cone dripper, mimicking the [manual pour-over process](/articles/how-to-brew-perfect-pour-over) with automated precision. This is a genuine game-changer for mornings when you want specialty-grade coffee without the ritual.
+The Aiden also offers a **pour-over mode** that brews a single cup through a cone dripper, mimicking the [manual pour-over process](/magazine/how-to-brew-perfect-pour-over) with automated precision. This is a genuine game-changer for mornings when you want specialty-grade coffee without the ritual.
 
 ### Moccamaster
 
@@ -92,7 +92,7 @@ Here's what actually matters — what does the morning routine look like?
 
 ### Fellow Aiden
 
-- Descale every 2–3 months (guided by the machine's sensor — [water quality matters](/articles/water-recipe-guide))
+- Descale every 2–3 months (guided by the machine's sensor — [water quality matters](/magazine/water-recipe-guide))
 - Replace the carafe lid seal occasionally
 - Software updates via WiFi
 - 2-year warranty

@@ -17,7 +17,7 @@ Here's the one-sentence version: iced coffee uses heat to extract flavor quickly
 
 ### Iced Coffee: Hot Brew, Served Cold
 
-Iced coffee is regular brewed coffee poured over ice or chilled after brewing. You're still extracting with hot water — the same [temperature principles](/articles/water-temperature-guide) that govern your morning pour over apply here. The heat pulls acids, sugars, and bitter compounds from the grounds in 3-5 minutes, just like any hot brew. You then cool the result.
+Iced coffee is regular brewed coffee poured over ice or chilled after brewing. You're still extracting with hot water — the same [temperature principles](/magazine/water-temperature-guide) that govern your morning pour over apply here. The heat pulls acids, sugars, and bitter compounds from the grounds in 3-5 minutes, just like any hot brew. You then cool the result.
 
 The most effective version is the Japanese iced method: brew hot coffee at double strength directly onto a full cup of ice. The ice melts on contact, instantly chilling and diluting the coffee to proper concentration. No waiting, no planning ahead, no overnight steeping.
 
@@ -25,7 +25,7 @@ The most effective version is the Japanese iced method: brew hot coffee at doubl
 
 Cold brew steeps coarse-ground coffee in cold or room-temperature water for 12-24 hours. Without heat to accelerate extraction, time does the heavy lifting. The result is a concentrate that you dilute with water, milk, or ice before drinking.
 
-The long extraction window means cold brew is less about technique and more about ratios and patience. Get the grind size and coffee-to-water ratio right, walk away, and come back tomorrow. The [grind size](/articles/coffee-grind-size-guide) matters enormously here — too fine and you'll over-extract into bitterness; too coarse and you'll get thin, underwhelming liquid.
+The long extraction window means cold brew is less about technique and more about ratios and patience. Get the grind size and coffee-to-water ratio right, walk away, and come back tomorrow. The [grind size](/magazine/coffee-grind-size-guide) matters enormously here — too fine and you'll over-extract into bitterness; too coarse and you'll get thin, underwhelming liquid.
 
 ## Flavor Profiles: What Actually Ends Up in Your Cup
 
@@ -65,7 +65,7 @@ The beauty of cold brew is that you technically need nothing specialized:
 
 - A large jar or pitcher (Mason jar, French press, any container with a lid)
 - A strainer or cheesecloth (or a French press plunger)
-- A coffee grinder set to extra coarse — [a decent burr grinder](/articles/best-coffee-grinders-under-100) makes a real difference here
+- A coffee grinder set to extra coarse — [a decent burr grinder](/magazine/best-coffee-grinders-under-100) makes a real difference here
 - **Total entry cost**: $0-50 (you probably already own everything)
 
 Dedicated cold brew makers like the Toddy or Hario Cold Brew Bottle add convenience but aren't necessary. A Mason jar and a fine-mesh strainer work just as well. A French press actually doubles as an excellent cold brew maker — steep the grounds, press the plunger, pour.
@@ -74,14 +74,14 @@ Dedicated cold brew makers like the Toddy or Hario Cold Brew Bottle add convenie
 
 This is where iced coffee asks more of you:
 
-- A pour over dripper ([several good options](/articles/best-pour-over-drippers) exist)
+- A pour over dripper ([several good options](/magazine/best-pour-over-drippers) exist)
 - Paper filters
 - A gooseneck kettle for controlled pouring
 - A scale with timer
 - Ice
 - **Total entry cost**: $80-200
 
-If you already have a [pour over setup](/articles/how-to-brew-perfect-pour-over), your iced coffee equipment cost is exactly $0 plus ice. This is the real advantage — any hot brewing method can become iced coffee. Your [AeroPress](/articles/aeropress-complete-guide) can make iced coffee too, brewed at concentrate strength over ice.
+If you already have a [pour over setup](/magazine/how-to-brew-perfect-pour-over), your iced coffee equipment cost is exactly $0 plus ice. This is the real advantage — any hot brewing method can become iced coffee. Your [AeroPress](/magazine/aeropress-complete-guide) can make iced coffee too, brewed at concentrate strength over ice.
 
 ## Cost Comparison: Bean Usage and Ongoing Expenses
 
@@ -118,7 +118,7 @@ Treat it like hot coffee, because it practically is:
 - **Single origins** you'd normally enjoy hot — iced pour over is just another way to appreciate them
 - **Skip**: very dark roasts, which can taste ashy and harsh when combined with the acidity that iced coffee preserves
 
-Getting the extraction right depends heavily on [water quality](/articles/water-recipe-guide) for both methods. Under-mineralized water produces flat cold brew; over-mineralized water muddies iced coffee's clarity.
+Getting the extraction right depends heavily on [water quality](/magazine/water-recipe-guide) for both methods. Under-mineralized water produces flat cold brew; over-mineralized water muddies iced coffee's clarity.
 
 ## Recipes: How to Actually Make Each One
 
@@ -141,7 +141,7 @@ Getting the extraction right depends heavily on [water quality](/articles/water-
 **Ratio**: 15g coffee per 250g total liquid (150g hot water + 100g ice).
 
 1. Place 100g of ice in your server or carafe
-2. Set your [dripper](/articles/best-pour-over-drippers) on top with a rinsed paper filter
+2. Set your [dripper](/magazine/best-pour-over-drippers) on top with a rinsed paper filter
 3. Add 15g of medium-fine ground coffee (slightly finer than your normal pour over grind)
 4. Bloom with 30g of water at 95-96C for 30 seconds
 5. Pour the remaining 120g of hot water in slow, concentric circles over 2-3 minutes
@@ -155,7 +155,7 @@ Getting the extraction right depends heavily on [water quality](/articles/water-
 For mornings when you want iced coffee in under 3 minutes:
 
 1. Fill a glass with 120g of ice
-2. Use the inverted [AeroPress method](/articles/aeropress-complete-guide) with 18g of fine-ground coffee
+2. Use the inverted [AeroPress method](/magazine/aeropress-complete-guide) with 18g of fine-ground coffee
 3. Add 100g of water at 90-92C
 4. Steep 1:30, then press directly over the ice
 5. Stir and serve

@@ -88,17 +88,17 @@ Hedrick's signature recipe uses a much higher ratio (1:18 or 1:20), one continuo
 
 Both approaches work. Pulse pouring is more forgiving for inconsistent kettles. Continuous pouring is more forgiving for thinking — once you start, you do not have to count anymore.
 
-For more on pour technique fundamentals, see [How to Brew the Perfect Pour Over](/articles/how-to-brew-perfect-pour-over).
+For more on pour technique fundamentals, see [How to Brew the Perfect Pour Over](/magazine/how-to-brew-perfect-pour-over).
 
 ## Grind size: medium-fine, around 600 microns
 
 For V60, aim for a medium-fine grind — finer than drip machine grind, coarser than espresso. In micron terms, around 600µm at the median particle size. In Comandante click terms, 18-22 clicks. In 1Zpresso JX-Pro terms, 1.8-2.4 turns.
 
-If your brew finishes too fast (under 2:30), grind finer. If it stalls (over 4:30), grind coarser. If it tastes sour and weak, grind finer. If it tastes bitter and astringent, grind coarser. The grind is the largest single variable you control after the coffee itself. A complete breakdown lives in [Coffee Grind Size: The Complete Guide](/articles/coffee-grind-size-guide).
+If your brew finishes too fast (under 2:30), grind finer. If it stalls (over 4:30), grind coarser. If it tastes sour and weak, grind finer. If it tastes bitter and astringent, grind coarser. The grind is the largest single variable you control after the coffee itself. A complete breakdown lives in [Coffee Grind Size: The Complete Guide](/magazine/coffee-grind-size-guide).
 
 ## Water temperature: 90 to 94°C
 
-V60 likes hot water. For light roasts, push to 93-94°C to extract enough sweetness. For medium roasts, 91-92°C is comfortable. For dark roasts, drop to 88-90°C to avoid pulling out bitterness. The exact reasoning is in [Water Temperature for Coffee Brewing: The Definitive Guide](/articles/water-temperature-guide).
+V60 likes hot water. For light roasts, push to 93-94°C to extract enough sweetness. For medium roasts, 91-92°C is comfortable. For dark roasts, drop to 88-90°C to avoid pulling out bitterness. The exact reasoning is in [Water Temperature for Coffee Brewing: The Definitive Guide](/magazine/water-temperature-guide).
 
 A common mistake: people pour boiling water directly without checking. By the time it hits the bed of a cold ceramic dripper, you might be brewing at 84°C. Preheat the dripper, the server, and the cup with hot water before you start. This single change improved my brews more than any new piece of equipment ever did.
 
@@ -114,7 +114,7 @@ The Hario V60 Range Server (the glass carafe with measurement marks) is purpose-
 
 ## Scale recommendation
 
-A scale is non-negotiable for V60. Pour rate, total weight, and timing are all things you cannot eyeball within useful tolerance. The Hario V60 Drip Scale has a built-in timer and updates fast enough to follow a pour, and it is the only scale in my kitchen that has not died. The Acaia Pearl is the high-end option if you want app integration. For more options see [The Best Coffee Scales](/articles/best-coffee-scales).
+A scale is non-negotiable for V60. Pour rate, total weight, and timing are all things you cannot eyeball within useful tolerance. The Hario V60 Drip Scale has a built-in timer and updates fast enough to follow a pour, and it is the only scale in my kitchen that has not died. The Acaia Pearl is the high-end option if you want app integration. For more options see [The Best Coffee Scales](/magazine/best-coffee-scales).
 
 ## The three most common mistakes
 
@@ -122,7 +122,7 @@ A scale is non-negotiable for V60. Pour rate, total weight, and timing are all t
 
 **2. Skipping the bloom.** The bloom (first 30-45 seconds with just enough water to wet the grounds) lets CO2 escape so the rest of the brew can extract evenly. Skipping it on fresh coffee guarantees an uneven cup.
 
-**3. Wrong water.** Distilled water tastes flat. Tap water with high mineral content tastes muddled. Use filtered water with around 50-150 ppm total hardness. The full breakdown is in [The Water Recipe Guide for Coffee](/articles/water-recipe-guide).
+**3. Wrong water.** Distilled water tastes flat. Tap water with high mineral content tastes muddled. Use filtered water with around 50-150 ppm total hardness. The full breakdown is in [The Water Recipe Guide for Coffee](/magazine/water-recipe-guide).
 
 ## FAQ
 
@@ -130,7 +130,7 @@ A scale is non-negotiable for V60. Pour rate, total weight, and timing are all t
 No. The 60-degree cone with spiral ribs requires V60-specific filters. Misfit filters either collapse against the wall (no flow) or leave gaps (channeling).
 
 **2. Is the V60 better than the Kalita Wave?**
-Different, not better. V60 is more flexible in both directions — clearer at its best and worse at its worst. Kalita Wave is more forgiving and consistent. See [Hario V60 vs Kalita Wave](/articles/hario-v60-vs-kalita-wave).
+Different, not better. V60 is more flexible in both directions — clearer at its best and worse at its worst. Kalita Wave is more forgiving and consistent. See [Hario V60 vs Kalita Wave](/magazine/hario-v60-vs-kalita-wave).
 
 **3. How long should the brew take?**
 For a 1:15 ratio with 15-20g of coffee, total brew time should be 3:00-4:00 from first pour to drawdown. Outside this range, adjust grind.
@@ -156,6 +156,6 @@ The V60 is technique-sensitive. A bad pour will produce a bad cup, full stop. Th
 
 If you want a dripper that absorbs your mistakes, look at the Kalita Wave or Origami. If you want a dripper that lets you express yourself — and that occasionally produces a cup so good you will think about it for the rest of the day — the V60 is the one.
 
-For a complete entry path see [Pour Over Setup for Beginners](/articles/pour-over-setup-for-beginners), and if you are still building your gear list, [The Best Coffee Grinders Under $100](/articles/best-coffee-grinders-under-100) covers what to put in front of your V60.
+For a complete entry path see [Pour Over Setup for Beginners](/magazine/pour-over-setup-for-beginners), and if you are still building your gear list, [The Best Coffee Grinders Under $100](/magazine/best-coffee-grinders-under-100) covers what to put in front of your V60.
 
 Brew well, take notes, and adjust one variable at a time. The V60 will reward you.

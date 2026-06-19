@@ -31,7 +31,7 @@ I'm putting this near the top because if you skip it, you'll waste hundreds. Esp
 
 The minimum-viable espresso grinder in 2026 is something like a DF54 or a 1Zpresso J-Max manual at around $200-$300. Below that, you're getting too many fines and boulders for proper extraction, and you'll blame your machine when the real culprit is sitting next to it.
 
-If you're new to all of this, my [coffee grind size guide](/articles/coffee-grind-size-guide) explains *why* particle distribution matters for espresso specifically. And if budget is tight, [the best coffee grinders under $100](/articles/best-coffee-grinders-under-100) covers the entry-level options that can technically pull espresso even though I wouldn't recommend most of them.
+If you're new to all of this, my [coffee grind size guide](/magazine/coffee-grind-size-guide) explains *why* particle distribution matters for espresso specifically. And if budget is tight, [the best coffee grinders under $100](/magazine/best-coffee-grinders-under-100) covers the entry-level options that can technically pull espresso even though I wouldn't recommend most of them.
 
 Rule of thumb: **spend at least 50% as much on your grinder as your machine.** Buying a $1,500 dual boiler? Pair it with a $700+ grinder. I learned this the expensive way.
 
@@ -45,7 +45,7 @@ Why I keep recommending these: the temperature control is surprisingly good (esp
 
 The downsides are real, though. You need to preheat the brew chamber for several minutes. You have to control pressure with your arms, which is a learnable skill but still a skill. There's no steam wand, so milk drinks require a separate Bellman steamer or a stovetop frother. And if you're making four cappuccinos for guests, you'll be sweating.
 
-I cover the broader manual category in [best manual espresso makers](/articles/best-manual-espresso-makers) if you want a deeper comparison. For most people just starting out, a Flair Pro 2 plus a [1Zpresso J-Max grinder](/articles/best-coffee-grinders-under-100) is a complete espresso setup for under $600 that will embarrass a lot of $2,000 builds.
+I cover the broader manual category in [best manual espresso makers](/magazine/best-manual-espresso-makers) if you want a deeper comparison. For most people just starting out, a Flair Pro 2 plus a [1Zpresso J-Max grinder](/magazine/best-coffee-grinders-under-100) is a complete espresso setup for under $600 that will embarrass a lot of $2,000 builds.
 
 ## Tier 2: $700 — The Entry Electric Tier
 
@@ -91,9 +91,9 @@ If you want espresso *quality* without the workflow effort, get a Bambino Plus a
 
 Once you have a machine and grinder, the two biggest quality leaps are free or close to free.
 
-**Beans:** espresso is brutal on coffee. Stale beans (more than 4-5 weeks past roast date) won't crema properly and will taste flat regardless of your machine. I cover what to look for in [best coffee beans for espresso](/articles/best-coffee-beans-for-espresso). Buy from a roaster with a roast date on the bag, not a "best by" date.
+**Beans:** espresso is brutal on coffee. Stale beans (more than 4-5 weeks past roast date) won't crema properly and will taste flat regardless of your machine. I cover what to look for in [best coffee beans for espresso](/magazine/best-coffee-beans-for-espresso). Buy from a roaster with a roast date on the bag, not a "best by" date.
 
-**Water:** if your tap water is hard, it'll scale your boiler within months. If it's too soft, your shots will taste muted. The right water chemistry can make a $700 machine taste like a $2,000 one. My [water recipe guide](/articles/water-recipe-guide) walks through how to mix proper espresso water from distilled.
+**Water:** if your tap water is hard, it'll scale your boiler within months. If it's too soft, your shots will taste muted. The right water chemistry can make a $700 machine taste like a $2,000 one. My [water recipe guide](/magazine/water-recipe-guide) walks through how to mix proper espresso water from distilled.
 
 I'd estimate that fixing my water setup gave me a bigger flavor upgrade than my last two machine upgrades combined.
 
@@ -107,7 +107,7 @@ I'd estimate that fixing my water setup gave me a bigger flavor upgrade than my 
 
 **You're a hobbyist who wants the machine to be the centerpiece of your kitchen:** Profitec Pro 600 + Niche Zero or DF83. Plan to keep it 15+ years.
 
-If you're still figuring out whether to invest at all, my [espresso at home guide](/articles/espresso-at-home-guide) walks through the entire workflow from bean to cup so you can decide whether you want this hobby before spending any money on it.
+If you're still figuring out whether to invest at all, my [espresso at home guide](/magazine/espresso-at-home-guide) walks through the entire workflow from bean to cup so you can decide whether you want this hobby before spending any money on it.
 
 ## FAQ
 
@@ -139,6 +139,6 @@ If you're making 4+ shots a day or care about water consistency, yes. For 1-2 sh
 
 Home espresso is the most rewarding and most rage-inducing coffee hobby. The machine you buy matters less than the grinder, beans, water, and technique you pair it with. Don't believe anyone who tells you otherwise.
 
-If you're starting from zero, I'd point you to the [beginner home coffee setup](/articles/beginner-home-coffee-setup) for the broader landscape first. Espresso is a deep rabbit hole — make sure you actually want to fall in before buying the gear.
+If you're starting from zero, I'd point you to the [beginner home coffee setup](/magazine/beginner-home-coffee-setup) for the broader landscape first. Espresso is a deep rabbit hole — make sure you actually want to fall in before buying the gear.
 
 And remember: a great Bambino Plus and a great grinder will produce better espresso than a neglected Linea Mini. The machine doesn't make the coffee. You do.

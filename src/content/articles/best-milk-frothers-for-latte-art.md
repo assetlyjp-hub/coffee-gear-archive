@@ -59,7 +59,7 @@ The catch: technique matters enormously. A steam wand in the wrong hands makes w
 
 ### Breville Bambino Plus — Auto-Froth Done Right
 
-For more on this machine in its full context, see our [best home espresso machines guide](/articles/best-home-espresso-machines).
+For more on this machine in its full context, see our [best home espresso machines guide](/magazine/best-home-espresso-machines).
 
 The Bambino Plus has an automatic milk wand. You set the temperature and foam level on a dial, attach the steam tip's temperature probe to the pitcher, press a button, and walk away. The machine froths to your spec and stops automatically.
 
@@ -129,7 +129,7 @@ Regular oat milk (the non-barista versions) doesn't foam properly. The protein s
 
 **Almond, soy, coconut.** Generally harder to foam. Soy is the most foamable of the three. Barista-formulated soy works okay; almond and coconut are better suited to iced drinks where foam isn't the point.
 
-If you want to dial in the espresso side of the equation too, see [best coffee beans for espresso](/articles/best-coffee-beans-for-espresso) for bean recommendations that pair well with milk.
+If you want to dial in the espresso side of the equation too, see [best coffee beans for espresso](/magazine/best-coffee-beans-for-espresso) for bean recommendations that pair well with milk.
 
 ## Pitcher Recommendations
 
@@ -149,7 +149,7 @@ For full transparency: I use a Profitec Pro 600 with a stainless 12oz pitcher an
 
 For travel and office use, I keep a Subminimal NanoFoamer in my bag. It's the only standalone frother that's gotten me close to true microfoam.
 
-If I had to start over with one piece of equipment, it would be a Breville Bambino Plus. The auto-froth is genuinely good, the price is reasonable, and you can move to manual steaming as your skills grow. See [best home espresso machines](/articles/best-home-espresso-machines) for context on where it fits in the broader market.
+If I had to start over with one piece of equipment, it would be a Breville Bambino Plus. The auto-froth is genuinely good, the price is reasonable, and you can move to manual steaming as your skills grow. See [best home espresso machines](/magazine/best-home-espresso-machines) for context on where it fits in the broader market.
 
 ## Honest Downsides
 
@@ -191,6 +191,6 @@ You can't make microfoam without aeration. Some YouTube tricks involve shaking w
 
 ## Where Milk Fits in the Bigger Picture
 
-Latte art lives at the intersection of three crafts: espresso pulling, milk steaming, and pouring. If your espresso is bad, no amount of microfoam saves the drink. See [espresso at home guide](/articles/espresso-at-home-guide) for the espresso side. If your grind is off, the espresso will be bad — see [coffee grind size guide](/articles/coffee-grind-size-guide). And if you're not committed to a full machine setup, [best manual espresso makers](/articles/best-manual-espresso-makers) and [best stovetop espresso makers](/articles/best-stovetop-espresso-makers) cover the alternatives.
+Latte art lives at the intersection of three crafts: espresso pulling, milk steaming, and pouring. If your espresso is bad, no amount of microfoam saves the drink. See [espresso at home guide](/magazine/espresso-at-home-guide) for the espresso side. If your grind is off, the espresso will be bad — see [coffee grind size guide](/magazine/coffee-grind-size-guide). And if you're not committed to a full machine setup, [best manual espresso makers](/magazine/best-manual-espresso-makers) and [best stovetop espresso makers](/magazine/best-stovetop-espresso-makers) cover the alternatives.
 
 Milk is the easiest of the three crafts to get right with the right tool. Pick the frother that matches your level — manual for casual, steam wand for serious, NanoFoamer for the in-between — and put in the reps. Latte art rewards practice more than any other coffee skill I know.

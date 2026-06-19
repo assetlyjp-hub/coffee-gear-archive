@@ -49,7 +49,7 @@ Single origin coffee is about identity. A washed Ethiopian Yirgacheffe will tast
 
 Blends are about balance. A well-built blend smooths the extremes — a touch of bright African coffee for top notes, a base of Central American for structure, maybe a bit of Indonesian for body. Nothing dominates. The goal is a cup that works every morning, not one that makes you stop and think.
 
-Here's the uncomfortable truth: most drinkers can identify the difference between a blend and a single origin, but struggle to tell two single origins apart if they're from the same region. Your palate has to be trained — and your brewing has to be dialed in — before the subtleties you're paying for actually show up. If you're still figuring out [grind size](/articles/coffee-grind-size-guide) and [water chemistry](/articles/water-recipe-guide), a $25 micro-lot won't taste meaningfully different from a $16 regional single origin.
+Here's the uncomfortable truth: most drinkers can identify the difference between a blend and a single origin, but struggle to tell two single origins apart if they're from the same region. Your palate has to be trained — and your brewing has to be dialed in — before the subtleties you're paying for actually show up. If you're still figuring out [grind size](/magazine/coffee-grind-size-guide) and [water chemistry](/magazine/water-recipe-guide), a $25 micro-lot won't taste meaningfully different from a $16 regional single origin.
 
 ## The Real Cost Differential
 
@@ -87,15 +87,15 @@ Rule of thumb: light roast = prefer single origin. Dark roast = prefer blend. Me
 
 This is where "single origin vs blend" actually becomes practical.
 
-**Pour over**: Single origin wins. Pour over is the most transparent brewing method — it reveals everything the bean is doing, good and bad. That clarity is exactly what you're paying single origin prices for. If you're deep into [pour over technique](/articles/how-to-brew-perfect-pour-over), buying blends is leaving flavor on the table.
+**Pour over**: Single origin wins. Pour over is the most transparent brewing method — it reveals everything the bean is doing, good and bad. That clarity is exactly what you're paying single origin prices for. If you're deep into [pour over technique](/magazine/how-to-brew-perfect-pour-over), buying blends is leaving flavor on the table.
 
 **Espresso**: Blends usually win, especially for milk drinks. Espresso needs body, sweetness, and a flavor profile that survives milk. Single origin espresso can be spectacular as a straight shot — a natural Ethiopian pulled as espresso is a religious experience — but it often disappears in a latte. A classic espresso blend is engineered to cut through 8oz of steamed milk.
 
-**French press**: Either works, but blends are more forgiving. The full-immersion, coarse-grind extraction of a [French press](/articles/french-press-vs-pour-over) emphasizes body and low notes, which blends are often designed for. Bright single origins can feel muted here.
+**French press**: Either works, but blends are more forgiving. The full-immersion, coarse-grind extraction of a [French press](/magazine/french-press-vs-pour-over) emphasizes body and low notes, which blends are often designed for. Bright single origins can feel muted here.
 
-**AeroPress**: Single origin if you want clarity, blend if you want consistency. The [AeroPress](/articles/aeropress-complete-guide) is versatile enough to handle either well, and it's a great method for exploring single origins without the fussiness of pour over.
+**AeroPress**: Single origin if you want clarity, blend if you want consistency. The [AeroPress](/magazine/aeropress-complete-guide) is versatile enough to handle either well, and it's a great method for exploring single origins without the fussiness of pour over.
 
-**Cold brew**: Blends win on cost. Cold brew uses a lot of coffee (1:5 to 1:8 ratios are common), and the long steep flattens a lot of origin nuance. Paying micro-lot prices for [cold brew](/articles/cold-brew-vs-iced-coffee) is like using aged bourbon in a cocktail that needs three pumps of simple syrup — you're drowning the reason you bought it.
+**Cold brew**: Blends win on cost. Cold brew uses a lot of coffee (1:5 to 1:8 ratios are common), and the long steep flattens a lot of origin nuance. Paying micro-lot prices for [cold brew](/magazine/cold-brew-vs-iced-coffee) is like using aged bourbon in a cocktail that needs three pumps of simple syrup — you're drowning the reason you bought it.
 
 **Automatic drip**: Blends are almost always the right choice. The extraction is inconsistent enough that origin character gets blurred anyway.
 
@@ -103,7 +103,7 @@ This is where "single origin vs blend" actually becomes practical.
 
 Outside of brewing method fit, there are three real cases for blends:
 
-**Consistency matters more than peak flavor.** If you want the same cup every morning for six months, blends are designed for exactly that. Single origins rotate — today's Kenya will be gone in eight weeks, replaced with something that tastes different. If you resent having to re-dial your [grinder](/articles/best-coffee-grinders-under-100) every time, blends reduce that friction.
+**Consistency matters more than peak flavor.** If you want the same cup every morning for six months, blends are designed for exactly that. Single origins rotate — today's Kenya will be gone in eight weeks, replaced with something that tastes different. If you resent having to re-dial your [grinder](/magazine/best-coffee-grinders-under-100) every time, blends reduce that friction.
 
 **You drink coffee with milk or sugar.** Once dairy or sweetener enters the cup, subtle origin notes get steamrolled. A $28 micro-lot in a latte tastes roughly the same as an $18 blend in a latte. Save your single origin money for black coffee.
 

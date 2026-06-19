@@ -69,7 +69,7 @@ Atlas ships single-origin coffee from a different country every month. April mig
 
 **What Atlas does well:** Cheap entry point ($14/bag), unmatched geographic variety, beginner-friendly storytelling, decent freshness for the price tier.
 
-**What Atlas does badly:** You don't get to choose the country, the roast level customization is limited, and the coffee quality is solidly good-not-great. These aren't $25 micro-lots — they're well-sourced country-level [single origins](/articles/single-origin-vs-blend-coffee) that work well for daily drinking but won't blow a trained palate's mind.
+**What Atlas does badly:** You don't get to choose the country, the roast level customization is limited, and the coffee quality is solidly good-not-great. These aren't $25 micro-lots — they're well-sourced country-level [single origins](/magazine/single-origin-vs-blend-coffee) that work well for daily drinking but won't blow a trained palate's mind.
 
 **Real cost:** $14 per 12oz bag plus shipping. About $0.50 per cup. Probably the best beginner subscription on price-to-quality ratio.
 
@@ -129,7 +129,7 @@ Patterns I've watched repeatedly:
 
 If you're buying coffee subscriptions for the freshness story, check the actual roast date stamped on every bag. Three weeks off-roast is grocery-store performance — and grocery store coffee is half the price.
 
-For more on storage and how to extend the freshness window once the bag arrives, see [how to store coffee beans](/articles/how-to-store-coffee-beans).
+For more on storage and how to extend the freshness window once the bag arrives, see [how to store coffee beans](/magazine/how-to-store-coffee-beans).
 
 ## Customization vs Algorithmic Curation
 
@@ -145,7 +145,7 @@ The honest test: rate three bags low and see what happens. A human-curated servi
 
 Subscription pricing pages obsess over per-bag cost and ignore per-cup cost, which is where the real comparison happens.
 
-At an 18g dose (a reasonable [pour over](/articles/how-to-brew-perfect-pour-over) or AeroPress shot), a 340g (12oz) bag yields about 19 cups. Here's how that translates across the field:
+At an 18g dose (a reasonable [pour over](/magazine/how-to-brew-perfect-pour-over) or AeroPress shot), a 340g (12oz) bag yields about 19 cups. Here's how that translates across the field:
 
 - **Grocery commodity coffee** ($10/bag): $0.30/cup
 - **Atlas Coffee Club** ($14/bag): $0.50/cup
@@ -181,9 +181,9 @@ A few benefits that don't show up on marketing pages but I've come to value:
 
 **Forced freshness rotation.** Knowing a new bag arrives in two weeks stops me from hoarding old beans. The subscription rhythm enforces drinking what you have, which keeps the whole pipeline fresh.
 
-**Tasting note vocabulary.** Reading a tasting card every two weeks, then trying to taste what it claims, slowly trains your palate. After a year of subscriptions, you'll actually understand what "stone fruit" or "molasses" mean in a coffee context. For a deeper dive, see [how to read coffee tasting notes](/articles/how-to-read-coffee-tasting-notes).
+**Tasting note vocabulary.** Reading a tasting card every two weeks, then trying to taste what it claims, slowly trains your palate. After a year of subscriptions, you'll actually understand what "stone fruit" or "molasses" mean in a coffee context. For a deeper dive, see [how to read coffee tasting notes](/magazine/how-to-read-coffee-tasting-notes).
 
-**Roast-level calibration.** Subscriptions usually let you specify a roast preference (light, medium, dark). Drinking 6+ bags at the same roast level helps you identify whether you actually prefer that roast or just thought you did. For context, see the [coffee roast levels guide](/articles/coffee-roast-levels-guide).
+**Roast-level calibration.** Subscriptions usually let you specify a roast preference (light, medium, dark). Drinking 6+ bags at the same roast level helps you identify whether you actually prefer that roast or just thought you did. For context, see the [coffee roast levels guide](/magazine/coffee-roast-levels-guide).
 
 **Discovery of small roasters.** I've found three roasters through subscriptions that I now buy from directly. The subscription paid for itself just on that.
 
@@ -198,7 +198,7 @@ If you have a specialty roaster in your city (most US cities of 200k+ do), the m
 - **Selection:** Limited to that roaster's catalog, but if you trust them, that's a feature.
 - **Relationship:** You can ask the barista questions, get sample pulls, learn what's coming next.
 
-The subscription wins when you don't have local options, when variety is more valuable to you than depth, or when you want to discover roasters from other cities you can't visit. Otherwise, direct buying is almost always the better choice — especially if you're also buying coffee for [espresso](/articles/best-coffee-beans-for-espresso) or any application where fine-tuning matters.
+The subscription wins when you don't have local options, when variety is more valuable to you than depth, or when you want to discover roasters from other cities you can't visit. Otherwise, direct buying is almost always the better choice — especially if you're also buying coffee for [espresso](/magazine/best-coffee-beans-for-espresso) or any application where fine-tuning matters.
 
 ## How to Test a Coffee Subscription Without Committing
 
@@ -244,4 +244,4 @@ The best coffee subscription in 2026 is the one that matches how you actually dr
 
 But the broader truth is that subscriptions are a convenience product, not a quality product. They're fresher than grocery store coffee, more varied than a single roaster, and pricier than buying direct. Whether that tradeoff is worth it comes down to your local options and how much you value the discovery layer.
 
-If you're new to specialty coffee and don't know where to start, subscribe. If you've already found roasters you trust, buy direct and skip the middleman. The coffee in the bag matters more than the platform that delivered it — and once you can dial in [grind size](/articles/coffee-grind-size-guide) and brewing fundamentals, even mid-tier subscription beans will produce cups that justify the upgrade from supermarket coffee.
+If you're new to specialty coffee and don't know where to start, subscribe. If you've already found roasters you trust, buy direct and skip the middleman. The coffee in the bag matters more than the platform that delivered it — and once you can dial in [grind size](/magazine/coffee-grind-size-guide) and brewing fundamentals, even mid-tier subscription beans will produce cups that justify the upgrade from supermarket coffee.

@@ -23,7 +23,7 @@ The key word there is **steam pressure**. A moka pot generates roughly 1.5 bar o
 
 What it is, instead, is a pressurized percolator. The coffee comes out concentrated (around 3:1 brew ratio), strong, and full-bodied, with a thick mouthfeel that no drip brewer can match. It will not produce true crema. It will not extract like a 9-bar machine. But it will give you a small cup of intense, dark, bittersweet coffee that's perfect on its own, mixed with milk, or stretched over ice.
 
-If you want real espresso at home, you need a [proper espresso machine](/articles/best-home-espresso-machines) or a [manual lever maker](/articles/best-manual-espresso-makers). If you want something close, cheap, and ridiculously satisfying, read on.
+If you want real espresso at home, you need a [proper espresso machine](/magazine/best-home-espresso-machines) or a [manual lever maker](/magazine/best-manual-espresso-makers). If you want something close, cheap, and ridiculously satisfying, read on.
 
 ## How a Moka Pot Works
 
@@ -112,7 +112,7 @@ Either way, fill to just below the safety valve. Never above.
 
 Grind size for moka pots is finer than drip but coarser than espresso. Think table salt, not powdered sugar. If your grind is too fine, the pressure can't push through and you'll get a sputtering, slow brew that tastes burnt. Too coarse, and the water rushes through and you get watery, sour coffee.
 
-If you're using a [hand grinder or burr grinder](/articles/best-coffee-grinders-under-100), aim for a setting one or two clicks finer than your drip setting. See the [grind size guide](/articles/coffee-grind-size-guide) for reference.
+If you're using a [hand grinder or burr grinder](/magazine/best-coffee-grinders-under-100), aim for a setting one or two clicks finer than your drip setting. See the [grind size guide](/magazine/coffee-grind-size-guide) for reference.
 
 ### Step 3: Fill the Basket Loosely — Do Not Tamp
 
@@ -148,7 +148,7 @@ Italian tradition pairs moka pots with dark roasts — classic espresso roasts, 
 
 But moka pots will brew anything. I've made excellent moka with light Ethiopian naturals, medium Colombian washed coffees, and even decaf. The one rule: if you're using a single-origin specialty coffee, dial the heat down even lower and consider a slightly coarser grind. Modern specialty roasts (light to medium) can taste harsh in a moka if you're not careful.
 
-For a deeper dive on roast levels, see the [roast levels guide](/articles/coffee-roast-levels-guide).
+For a deeper dive on roast levels, see the [roast levels guide](/magazine/coffee-roast-levels-guide).
 
 ## Cleaning and Maintenance
 
@@ -196,7 +196,7 @@ Marginally. The crema-like foam is largely visual. The brew itself is slightly m
 Absolutely. Brew strong, pour over ice, add milk if you want. Moka coffee's concentrated nature makes it ideal for iced drinks.
 
 **What grind setting do I use?**
-Medium-fine — finer than drip, coarser than espresso. Around the texture of table salt. If you're starting from a [pour-over grind setting](/articles/coffee-grind-size-guide), go one or two clicks finer.
+Medium-fine — finer than drip, coarser than espresso. Around the texture of table salt. If you're starting from a [pour-over grind setting](/magazine/coffee-grind-size-guide), go one or two clicks finer.
 
 ## Bottom Line
 
@@ -206,4 +206,4 @@ If you want something to grow into, the Alessi 9090 is a beautiful piece of desi
 
 But honestly? Just buy the Moka Express. It's the moka pot that actually launched a thousand at-home coffee setups. There's a reason it's still around.
 
-For more on home espresso options, see our [espresso at home guide](/articles/espresso-at-home-guide). If you're considering manual alternatives, check out the [best manual espresso makers comparison](/articles/best-manual-espresso-makers).
+For more on home espresso options, see our [espresso at home guide](/magazine/espresso-at-home-guide). If you're considering manual alternatives, check out the [best manual espresso makers comparison](/magazine/best-manual-espresso-makers).

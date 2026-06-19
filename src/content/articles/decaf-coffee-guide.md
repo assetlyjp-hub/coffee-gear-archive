@@ -111,7 +111,7 @@ Trapper Creek has been Stumptown's flagship decaf for over a decade and it's got
 
 Verve (Santa Cruz) offers a sugarcane-decaffeinated blend called Streetlevel Decaf — bright, sweet, with a fruit-forward character that's clearly the EA process at work. If you've only had Swiss Water decaf, Streetlevel is a great way to taste the difference. Pairs especially well with milk.
 
-For more on choosing single-origin vs blend approaches, see [single origin vs blend coffee](/articles/single-origin-vs-blend-coffee). The same logic applies to decaf: blends are forgiving and consistent, single origins reward precision brewing.
+For more on choosing single-origin vs blend approaches, see [single origin vs blend coffee](/magazine/single-origin-vs-blend-coffee). The same logic applies to decaf: blends are forgiving and consistent, single origins reward precision brewing.
 
 ## Brewing Decaf Well
 
@@ -121,7 +121,7 @@ Decaf beans behave slightly differently than regular beans, and adjusting your b
 
 The decaffeination process makes the beans more porous. Water extracts faster from decaf than from regular coffee. To compensate, grind one or two clicks finer than your usual setting on your grinder. This slows the extraction back to the same rate you'd get with a regular bean.
 
-If you're not sure where to start, see [coffee grind size guide](/articles/coffee-grind-size-guide). The general rule: if your decaf brew tastes thin or sour, grind finer; if it tastes harsh or astringent, grind coarser.
+If you're not sure where to start, see [coffee grind size guide](/magazine/coffee-grind-size-guide). The general rule: if your decaf brew tastes thin or sour, grind finer; if it tastes harsh or astringent, grind coarser.
 
 ### Water Temperature
 
@@ -131,13 +131,13 @@ Some roasters recommend slightly higher water temps for decaf (97-99°C) to comp
 
 Decaf shines on filter methods (V60, Kalita Wave, AeroPress) where extraction is precise and clean. Immersion methods (French press, Clever) work fine but can amplify the muted character of lower-quality decaf. For darker decaf roasts, espresso and moka pot are excellent — the concentration brings the flavors forward.
 
-For more on pour-over technique with these beans, see [how to brew perfect pour over](/articles/how-to-brew-perfect-pour-over). And for water that lets the bean character show through, see [water recipe guide](/articles/water-recipe-guide).
+For more on pour-over technique with these beans, see [how to brew perfect pour over](/magazine/how-to-brew-perfect-pour-over). And for water that lets the bean character show through, see [water recipe guide](/magazine/water-recipe-guide).
 
 ### Roast Level Considerations
 
 Specialty decaf is most often offered as light-medium or medium roast. Very light roasts can taste muted in decaf because the decaffeination process slightly reduces the most volatile aromatic compounds — light roast highlights aromatics, so decaf light roasts can feel one-dimensional. Medium roasts hide the gap better.
 
-Dark decaf works fine for espresso but loses the nuance that makes specialty decaf interesting in filter brewing. See [coffee roast levels guide](/articles/coffee-roast-levels-guide) for context.
+Dark decaf works fine for espresso but loses the nuance that makes specialty decaf interesting in filter brewing. See [coffee roast levels guide](/magazine/coffee-roast-levels-guide) for context.
 
 ## How Much Caffeine Is Actually in Decaf?
 
@@ -159,7 +159,7 @@ A few things to know before you go all-in on decaf:
 
 **Roasters age decaf faster.** The processing slightly opens the bean's cell structure, which means decaf can stale a few days faster than regular coffee. Buy smaller bags and use them within 3-4 weeks of the roast date.
 
-For more on the economics of specialty coffee, [specialty vs commodity coffee true cost](/articles/specialty-vs-commodity-coffee-true-cost) covers why these beans cost what they do.
+For more on the economics of specialty coffee, [specialty vs commodity coffee true cost](/magazine/specialty-vs-commodity-coffee-true-cost) covers why these beans cost what they do.
 
 ## What I Actually Drink
 
@@ -185,7 +185,7 @@ The FDA and most regulatory bodies say residue levels are far below harmful thre
 Most likely the bean quality (low-grade coffee was decaffeinated, not specialty), the process (older MC method), or the freshness (decaf goes stale faster). Try a specialty roaster's Swiss Water option and see if your perception changes.
 
 **Can I make great espresso with decaf?**
-Yes, especially with sugarcane-process decaf. The natural sweetness from the EA process pairs beautifully with espresso's concentration. See [best coffee beans for espresso](/articles/best-coffee-beans-for-espresso) for general bean considerations — most apply to decaf too.
+Yes, especially with sugarcane-process decaf. The natural sweetness from the EA process pairs beautifully with espresso's concentration. See [best coffee beans for espresso](/magazine/best-coffee-beans-for-espresso) for general bean considerations — most apply to decaf too.
 
 **Is half-caf a thing?**
 Yes — most easily made by mixing your normal beans 50/50 with decaf in your grinder. Some roasters sell pre-blended half-caf. It's a genuine middle ground for people cutting back without going fully decaf.

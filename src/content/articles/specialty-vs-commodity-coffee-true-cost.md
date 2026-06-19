@@ -50,7 +50,7 @@ The cutoff is **80**. Coffee that scores 80 or above is "specialty." Below 80 is
 
 A score of 90+ is genuinely uncommon. Most "specialty" coffee in good cafes scores 84-87. The 92+ category includes most Best of Panama winners and Cup of Excellence top finishers.
 
-If you've never tried to articulate flavor in coffee, reading the [coffee tasting notes guide](/articles/how-to-read-coffee-tasting-notes) first will make those Q-score categories concrete. The difference between an 84 and an 88 is not subtle once you know what you're tasting for.
+If you've never tried to articulate flavor in coffee, reading the [coffee tasting notes guide](/magazine/how-to-read-coffee-tasting-notes) first will make those Q-score categories concrete. The difference between an 84 and an 88 is not subtle once you know what you're tasting for.
 
 ## Why micro-lots cost so much
 
@@ -62,7 +62,7 @@ Yields are also lower. A farm optimizing for Q-score might pull only 15% of its 
 
 When you pay $25 for a 200g bag of an anaerobic-fermentation Colombian micro-lot, roughly: $7-9 of that is the green coffee itself (vs. ~$1 for commodity), $4 is roasting and packaging, $5 is shipping and import, and $7-9 is the roaster's margin. The roaster isn't getting rich. The farmer, for once, actually is making real money.
 
-This is the crux of the [single-origin vs blend question](/articles/single-origin-vs-blend-coffee) — single-origin micro-lots cost more partly because of pure economics, not just because they taste better.
+This is the crux of the [single-origin vs blend question](/magazine/single-origin-vs-blend-coffee) — single-origin micro-lots cost more partly because of pure economics, not just because they taste better.
 
 ## Fair Trade vs Direct Trade
 
@@ -98,9 +98,9 @@ For an even more premium 250g bag of a 90+ scoring micro-lot at $35:
 
 So even drinking the world-class stuff at home, you're paying less than half what a cafe charges for ordinary specialty. The math is brutal in favor of home brewing — assuming you have decent gear and know what you're doing.
 
-**The catch:** that math assumes you don't waste beans. If you drink half a bag and the rest goes stale, your effective per-cup cost doubles. This is why [proper coffee storage](/articles/how-to-store-coffee-beans) matters so much — buying premium beans and letting them oxidize in the cabinet is like buying premium gas and leaving the cap off.
+**The catch:** that math assumes you don't waste beans. If you drink half a bag and the rest goes stale, your effective per-cup cost doubles. This is why [proper coffee storage](/magazine/how-to-store-coffee-beans) matters so much — buying premium beans and letting them oxidize in the cabinet is like buying premium gas and leaving the cap off.
 
-It also assumes you can actually brew well. A $35 bag of 91-point Gesha brewed badly tastes worse than a $9 bag of supermarket coffee brewed competently. If you're new, start with the [pour-over fundamentals](/articles/how-to-brew-perfect-pour-over) and a [solid roast level](/articles/coffee-roast-levels-guide) before chasing scarcity.
+It also assumes you can actually brew well. A $35 bag of 91-point Gesha brewed badly tastes worse than a $9 bag of supermarket coffee brewed competently. If you're new, start with the [pour-over fundamentals](/magazine/how-to-brew-perfect-pour-over) and a [solid roast level](/magazine/coffee-roast-levels-guide) before chasing scarcity.
 
 ## When to splurge, when to save
 
@@ -113,7 +113,7 @@ After several years and a lot of expensive bags, here's how I actually think abo
 - It's a celebration, gift, or you just want to taste something extraordinary
 
 **Save when:**
-- You're making espresso-based drinks with milk (the milk masks 80% of origin character — a $9 espresso blend will outperform a $35 micro-lot in a latte). See the [best espresso beans guide](/articles/best-coffee-beans-for-espresso) for solid mid-tier options.
+- You're making espresso-based drinks with milk (the milk masks 80% of origin character — a $9 espresso blend will outperform a $35 micro-lot in a latte). See the [best espresso beans guide](/magazine/best-coffee-beans-for-espresso) for solid mid-tier options.
 - You drink coffee primarily for caffeine and don't dial in technique
 - You're learning to brew — burn through cheap beans first
 - You drink more than 3 cups a day (the math compounds fast)
@@ -166,7 +166,7 @@ It guarantees a price floor and prohibits worst-case labor abuses, which is mean
 "Specialty" has a real SCA definition (Q score 80+). "Gourmet" has no defined meaning — it's pure marketing. So is "premium," "artisan," and "small-batch." Look for roast date, origin specifics, and processing method instead of marketing adjectives.
 
 **Should I buy single-origin or blends?**
-Single-origin to learn flavors and explore; blends for everyday espresso and milk drinks. The full breakdown is in [single-origin vs blend](/articles/single-origin-vs-blend-coffee).
+Single-origin to learn flavors and explore; blends for everyday espresso and milk drinks. The full breakdown is in [single-origin vs blend](/magazine/single-origin-vs-blend-coffee).
 
 **How do I get into specialty coffee on a budget?**
 Buy a 340g bag of a well-reviewed single origin from a transparent roaster (~$18-22). Use a basic pour-over setup. Brew it carefully for two weeks. That's about $1.50/cup of genuinely good coffee — cheaper than every cafe option and a real education in what you actually like.

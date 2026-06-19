@@ -45,15 +45,15 @@ Within the light roast range, professional roasters recognize a rough ladder of 
 
 Light roasts let the bean itself do the talking. You're tasting origin, varietal, and processing method more than the roaster's fingerprint. That's why Ethiopian Yirgacheffe tastes like jasmine and bergamot when roasted light, while a natural-processed Brazilian tastes like blueberry candy. The darker you push either of those, the more those signature notes blur into generic "coffee" flavor.
 
-Expect higher perceived acidity, lighter body, more floral and fruit notes, tea-like mouthfeel, and a cleaner finish. When people complain that their [single-origin bag](/articles/single-origin-vs-blend-coffee) tastes "sour," they're usually drinking a light roast brewed with technique that doesn't match it.
+Expect higher perceived acidity, lighter body, more floral and fruit notes, tea-like mouthfeel, and a cleaner finish. When people complain that their [single-origin bag](/magazine/single-origin-vs-blend-coffee) tastes "sour," they're usually drinking a light roast brewed with technique that doesn't match it.
 
 ### The Honest Downsides of Light Roasts
 
 Light roasts are demanding. Underdeveloped cups taste grassy, peanut-skinny, or aggressively acidic. They require:
 
 - Fresher beans (light roasts go flat faster — more on this below)
-- More precise [grind size](/articles/coffee-grind-size-guide) — usually finer than you'd expect
-- Hotter water, often 96–99°C (205–210°F) — see the [water temperature guide](/articles/water-temperature-guide)
+- More precise [grind size](/magazine/coffee-grind-size-guide) — usually finer than you'd expect
+- Hotter water, often 96–99°C (205–210°F) — see the [water temperature guide](/magazine/water-temperature-guide)
 - Longer contact time or higher agitation to fully extract
 
 If your brewing technique is still settling in, a light roast will punish you for it. The coffee isn't bad — you just haven't unlocked it yet.
@@ -118,10 +118,10 @@ Not every roast suits every method. Here's what actually works:
 
 | Brewing Method | Light Roast | Medium Roast | Dark Roast |
 |---|---|---|---|
-| [Pour over](/articles/how-to-brew-perfect-pour-over) | Excellent — shows off clarity and acidity | Excellent — most forgiving match | Decent — can taste flat, low acidity |
-| [Espresso](/articles/espresso-at-home-guide) | Difficult — hard to extract, often sour | Very good — modern specialty default | Classic — traditional Italian choice |
-| [French press](/articles/french-press-vs-pour-over) | Okay — immersion can mute acidity | Excellent — body suits the method | Excellent — classic pairing |
-| [Cold brew](/articles/cold-brew-vs-iced-coffee) | Wasteful — buries the good notes | Good — balanced and sweet | Excellent — signature smoothness |
+| [Pour over](/magazine/how-to-brew-perfect-pour-over) | Excellent — shows off clarity and acidity | Excellent — most forgiving match | Decent — can taste flat, low acidity |
+| [Espresso](/magazine/espresso-at-home-guide) | Difficult — hard to extract, often sour | Very good — modern specialty default | Classic — traditional Italian choice |
+| [French press](/magazine/french-press-vs-pour-over) | Okay — immersion can mute acidity | Excellent — body suits the method | Excellent — classic pairing |
+| [Cold brew](/magazine/cold-brew-vs-iced-coffee) | Wasteful — buries the good notes | Good — balanced and sweet | Excellent — signature smoothness |
 | Automatic drip | Okay — needs dialed-in grind | Excellent — forgiving and flavorful | Good — traditional diner profile |
 
 The quick rule: lighter roasts reward precision and fast, high-flow brewing methods. Darker roasts forgive messy technique and reward longer, gentler extraction.
@@ -189,7 +189,7 @@ French roast is dark with oily surface, smoky and bittersweet with origin charac
 Actually the opposite. Dark roasts contain fewer chlorogenic acids (which break down during roasting). Many people with acid sensitivity tolerate dark roasts or cold brew better than light filter coffee.
 
 **Why does my light roast taste sour?**
-Under-extraction, usually. Light roasts need hotter water, finer grind, or longer contact time than you'd use for a medium. Check your [water temperature](/articles/water-temperature-guide) and [grind size](/articles/coffee-grind-size-guide) first before blaming the beans.
+Under-extraction, usually. Light roasts need hotter water, finer grind, or longer contact time than you'd use for a medium. Check your [water temperature](/magazine/water-temperature-guide) and [grind size](/magazine/coffee-grind-size-guide) first before blaming the beans.
 
 ## Bottom Line
 

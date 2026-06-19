@@ -29,7 +29,7 @@ The 1Zpresso JX-Pro uses a 48mm conical burr with a heptagonal (seven-sided) cut
 
 In practical particle distribution, the two are close enough that I cannot reliably tell them apart in a blind cup at filter grind sizes. The Comandante might produce slightly fewer fines at the very fine end of filter (20 clicks and below). The JX-Pro might be slightly more uniform at the coarse end (4+ rotations). Both produce competition-acceptable cups. Anyone who tells you one is dramatically more uniform than the other in cup is either selling something or hearing what they expect.
 
-For more on what particle distribution actually does to your cup, see [Coffee Grind Size: The Complete Guide](/articles/coffee-grind-size-guide).
+For more on what particle distribution actually does to your cup, see [Coffee Grind Size: The Complete Guide](/magazine/coffee-grind-size-guide).
 
 ## Build quality: this is where the gap opens
 
@@ -53,7 +53,7 @@ The Comandante is optimized for filter brewing. It can grind for espresso, but t
 
 The JX-Pro is also a filter-first grinder, but its 40-clicks-per-rotation system gives it more usable resolution at the espresso end out of the box. It can do single-cup espresso adequately. For serious espresso work, 1Zpresso's K-series or J-Max are designed specifically for that purpose and are better choices than the JX-Pro.
 
-If you only brew filter — V60, Kalita, Chemex, Aeropress — both are excellent. If you brew filter and dabble in espresso, the JX-Pro is more flexible without accessories. If you only do espresso, neither of these is the right tool. See [Espresso at Home: The Complete Guide](/articles/espresso-at-home-guide) for espresso-specific gear.
+If you only brew filter — V60, Kalita, Chemex, Aeropress — both are excellent. If you brew filter and dabble in espresso, the JX-Pro is more flexible without accessories. If you only do espresso, neither of these is the right tool. See [Espresso at Home: The Complete Guide](/magazine/espresso-at-home-guide) for espresso-specific gear.
 
 ## Price: where the value calculation lands
 
@@ -63,7 +63,7 @@ If you are buying your first hand grinder and you are not sure how deep into the
 
 If you have been brewing for a while, you know you will keep at it for years, and you want a single piece of equipment that you will not feel the need to upgrade later, the Comandante is worth the premium. The wood-and-aluminum build, the slow-iteration design, and the resale value — used Comandantes hold price remarkably well — combine to make it less expensive than the sticker suggests over a long enough timeline.
 
-For broader options at lower price points, see [The Best Coffee Grinders Under $100](/articles/best-coffee-grinders-under-100).
+For broader options at lower price points, see [The Best Coffee Grinders Under $100](/magazine/best-coffee-grinders-under-100).
 
 ## Step calibration system
 
@@ -103,7 +103,7 @@ Both grinders are low-retention by design. In my testing, both leave less than 0
 For most people, no. For people who value the build quality and want a grinder for the next decade, yes. The grind quality difference in the cup is small.
 
 **2. Which is better for V60?**
-A tie at the cup level. Both produce excellent V60 brews at 18-22 clicks (Comandante) or 1.8-2.2 turns (JX-Pro). For V60-specific guidance see [The Hario V60 Complete Guide](/articles/hario-v60-vs-kalita-wave) — wait, the relevant guide is on V60 brewing technique under [How to Brew the Perfect Pour Over](/articles/how-to-brew-perfect-pour-over).
+A tie at the cup level. Both produce excellent V60 brews at 18-22 clicks (Comandante) or 1.8-2.2 turns (JX-Pro). For V60-specific guidance see [The Hario V60 Complete Guide](/magazine/hario-v60-vs-kalita-wave) — wait, the relevant guide is on V60 brewing technique under [How to Brew the Perfect Pour Over](/magazine/how-to-brew-perfect-pour-over).
 
 **3. Can I use either for espresso?**
 The JX-Pro can, with reasonable results for single shots. The Comandante can with a Red Clix axle accessory ($60+) but it is awkward. Neither is a serious espresso grinder.
@@ -121,7 +121,7 @@ Yes. Both are similar in size. The JX-Pro packs slightly more compactly because 
 Not in any meaningful timeframe for home use. Both manufacturers rate their burrs for hundreds of kilograms of coffee, which is decades of typical home brewing.
 
 **8. Should I buy electric instead?**
-If grinding 18g once a day is a chore for you, yes. See [Manual vs Electric Coffee Grinders](/articles/manual-vs-electric-coffee-grinders) for the full discussion.
+If grinding 18g once a day is a chore for you, yes. See [Manual vs Electric Coffee Grinders](/magazine/manual-vs-electric-coffee-grinders) for the full discussion.
 
 ## Honest downsides
 
@@ -147,4 +147,4 @@ If I had to keep only one, it would be the Comandante — for reasons that have 
 
 Both are great. The C40 is the romantic answer. The JX-Pro is the rational one. Pick the one that matches who you are when you are buying coffee gear, not the one that matches who you wish you were.
 
-For a complete starter setup that includes a great hand grinder see [Pour Over Setup for Beginners](/articles/pour-over-setup-for-beginners). For the brewing technique that gets the most out of either grinder, see [How to Brew the Perfect Pour Over](/articles/how-to-brew-perfect-pour-over).
+For a complete starter setup that includes a great hand grinder see [Pour Over Setup for Beginners](/magazine/pour-over-setup-for-beginners). For the brewing technique that gets the most out of either grinder, see [How to Brew the Perfect Pour Over](/magazine/how-to-brew-perfect-pour-over).

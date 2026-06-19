@@ -27,7 +27,7 @@ Neither is "better" — they're flavor preferences. Conical = body and depth. Fl
 
 A third category, the **48mm or 54mm flat burrs in modern manual grinders** (1Zpresso ZP6, Kingrinder K6), produces flat-burr clarity in a hand grinder. This is a relatively new development and it's blurred the manual/electric quality line considerably.
 
-If you want to dig deeper into how grind size affects extraction, my [coffee grind size guide](/articles/coffee-grind-size-guide) covers the mechanics in detail.
+If you want to dig deeper into how grind size affects extraction, my [coffee grind size guide](/magazine/coffee-grind-size-guide) covers the mechanics in detail.
 
 ## The Manual Grinder Case
 
@@ -103,7 +103,7 @@ Here's how they stack up across what actually matters day to day.
 
 ## My Picks: Manual Grinders
 
-**Budget — Timemore C2 (~$80):** Surprisingly good. Steel conical burrs, decent build, works fine for pour-over and French press. Espresso is technically possible but the adjustment is too coarse for proper dialing. Great starter grinder. I cover this one in detail in [best coffee grinders under $100](/articles/best-coffee-grinders-under-100).
+**Budget — Timemore C2 (~$80):** Surprisingly good. Steel conical burrs, decent build, works fine for pour-over and French press. Espresso is technically possible but the adjustment is too coarse for proper dialing. Great starter grinder. I cover this one in detail in [best coffee grinders under $100](/magazine/best-coffee-grinders-under-100).
 
 **Mid-range — 1Zpresso JX-Pro (~$170):** This is the sweet spot. 48mm conical burrs, fine adjustments suitable for espresso, capacity for 35g+. I've owned mine for four years and it still produces café-quality grounds. If you're only buying one manual grinder, buy this.
 
@@ -135,11 +135,11 @@ Here's how they stack up across what actually matters day to day.
 
 **Buy both if:** You're me or anyone else who falls down this rabbit hole. A 1Zpresso for travel and weekends, an electric for daily home use. Total cost around $500 and you've covered every scenario.
 
-If you're trying to figure out which method to brew first before committing to gear, I'd start with my [pour over setup for beginners](/articles/pour-over-setup-for-beginners) or the [how to brew perfect pour over](/articles/how-to-brew-perfect-pour-over) guide. The brewing method should drive the grinder choice, not the other way around.
+If you're trying to figure out which method to brew first before committing to gear, I'd start with my [pour over setup for beginners](/magazine/pour-over-setup-for-beginners) or the [how to brew perfect pour over](/magazine/how-to-brew-perfect-pour-over) guide. The brewing method should drive the grinder choice, not the other way around.
 
 ## Beans Matter More Than the Grinder Type
 
-Whatever grinder you pick — manual, electric, conical, flat — you're still extracting from beans. Old or low-quality beans won't taste good no matter how perfect your particle distribution is. If you haven't already, read about [single-origin vs blend coffee](/articles/single-origin-vs-blend-coffee) to figure out what to feed into your new grinder.
+Whatever grinder you pick — manual, electric, conical, flat — you're still extracting from beans. Old or low-quality beans won't taste good no matter how perfect your particle distribution is. If you haven't already, read about [single-origin vs blend coffee](/magazine/single-origin-vs-blend-coffee) to figure out what to feed into your new grinder.
 
 Also: clean your burrs. I do mine every 3-4 weeks with a brush and every 6 months with grinder cleaner tablets (Urnex Grindz). A neglected grinder produces stale, oily, off-tasting coffee regardless of price. This applies to both manual and electric.
 

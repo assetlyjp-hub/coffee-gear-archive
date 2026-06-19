@@ -55,7 +55,7 @@ Three acid types dominate the conversation:
 - **Malic acid** tastes like green apple or pear. It's softer than citric, rounder, slightly tart. Common in washed Kenyan and some Colombian lots.
 - **Tartaric acid** tastes like grape or wine. It's the deeper, more vinous note in some natural-processed coffees and can lean toward fermented when overdone.
 
-When a tasting note says "bright" or "lively," it's pointing at acidity. When it says "soft" or "mellow," acidity is restrained. Roast level matters here too — darker roasts destroy acidity, which is why a French roast Kenyan tastes nothing like a light roast one. (For more on this, see our [coffee roast levels guide](/articles/coffee-roast-levels-guide).)
+When a tasting note says "bright" or "lively," it's pointing at acidity. When it says "soft" or "mellow," acidity is restrained. Roast level matters here too — darker roasts destroy acidity, which is why a French roast Kenyan tastes nothing like a light roast one. (For more on this, see our [coffee roast levels guide](/magazine/coffee-roast-levels-guide).)
 
 ### Sweetness
 
@@ -72,7 +72,7 @@ A coffee that's "sweet" without specifying which kind usually means caramel-tone
 
 Body is mouthfeel — the weight and texture of the coffee on your tongue. It has nothing to do with flavor and everything to do with how the cup feels.
 
-- **Silky** = smooth, light, almost slippery. Common in washed coffees brewed via [pour over](/articles/how-to-brew-perfect-pour-over).
+- **Silky** = smooth, light, almost slippery. Common in washed coffees brewed via [pour over](/magazine/how-to-brew-perfect-pour-over).
 - **Syrupy** = thick, dense, coats the mouth. Espresso and Indonesian coffees often hit this.
 - **Juicy** = somewhere between silky and syrupy, with a perceived liquid quality. Naturals can taste juicy.
 - **Watery / thin** = body is missing. Usually a brewing issue (weak extraction, wrong grind), not the bean's fault.
@@ -95,7 +95,7 @@ Origin matters, but it's a tendency, not a guarantee. Two coffees from the same 
 
 **Kenyan.** Blackcurrant is the legendary Kenyan note, and it's actually there in good lots — that dark, slightly savory berry quality. Bright, juicy, with a tomato-like or savory edge in some lots. Loud coffees that don't whisper.
 
-**Colombian.** Balanced. Caramel, cocoa, gentle citrus, sometimes red apple or stone fruit. A "safe" specialty origin in the best sense — broadly enjoyable, not extreme. Many [great espresso beans](/articles/best-coffee-beans-for-espresso) are Colombian or Colombian-leaning blends because of this balance.
+**Colombian.** Balanced. Caramel, cocoa, gentle citrus, sometimes red apple or stone fruit. A "safe" specialty origin in the best sense — broadly enjoyable, not extreme. Many [great espresso beans](/magazine/best-coffee-beans-for-espresso) are Colombian or Colombian-leaning blends because of this balance.
 
 **Brazilian.** Chocolate, peanut, walnut, low acidity, heavy body. The backbone of most espresso blends globally. Easy to drink, hard to be wowed by, but reliably good.
 
@@ -111,7 +111,7 @@ Cupping is how the coffee industry tastes coffee for evaluation. You don't need 
 
 **Step 1.** Grind 11g of coffee coarse (think French press) into a small bowl or cup.
 
-**Step 2.** Pour 200g of water just off the boil (around 200–205°F — see our [water temperature guide](/articles/water-temperature-guide) for why this matters) directly onto the grounds. Don't stir yet.
+**Step 2.** Pour 200g of water just off the boil (around 200–205°F — see our [water temperature guide](/magazine/water-temperature-guide) for why this matters) directly onto the grounds. Don't stir yet.
 
 **Step 3.** Wait four minutes. A crust of grounds will form on top.
 
@@ -127,11 +127,11 @@ Try this with two or three coffees side by side. Differences become obvious in c
 
 Most home brewers can't taste 60–80% of the notes printed on the bag. There are real reasons for this, and most are fixable.
 
-**Bean freshness.** Coffee peaks 7–21 days after roast and degrades fast after that. A bag bought 4 months after roast date has lost most of its aromatics. (We cover this in [how to store coffee beans](/articles/how-to-store-coffee-beans).)
+**Bean freshness.** Coffee peaks 7–21 days after roast and degrades fast after that. A bag bought 4 months after roast date has lost most of its aromatics. (We cover this in [how to store coffee beans](/magazine/how-to-store-coffee-beans).)
 
-**Brew technique.** Under-extraction tastes sour and thin. Over-extraction tastes bitter and dry. Both flatten the flavor profile. If your [grind size](/articles/coffee-grind-size-guide) is off, the bean's character can't show up.
+**Brew technique.** Under-extraction tastes sour and thin. Over-extraction tastes bitter and dry. Both flatten the flavor profile. If your [grind size](/magazine/coffee-grind-size-guide) is off, the bean's character can't show up.
 
-**Water.** If your tap water is too soft, too hard, or full of chlorine, it suppresses the flavors that minerals are supposed to extract. Most cafes use mineral-balanced water for a reason. Our [water recipe guide](/articles/water-recipe-guide) walks through this.
+**Water.** If your tap water is too soft, too hard, or full of chlorine, it suppresses the flavors that minerals are supposed to extract. Most cafes use mineral-balanced water for a reason. Our [water recipe guide](/magazine/water-recipe-guide) walks through this.
 
 **Roast level.** A dark roast obliterates origin character. If the bag is described as "fruity Ethiopian" but the beans look oily and almost black, the roaster over-roasted past the point where origin matters.
 
@@ -172,7 +172,7 @@ Your bean origin sets a ceiling. Your brewing decides how close to that ceiling 
 
 Once those are locked in, the notes start showing up — not as literal blueberries, but as recognizable hints, families of flavor, things you can name. That's the goal. Not pretentious description, but a richer, more specific kind of attention.
 
-If you're trying to understand what your beans should taste like in the first place, our [single origin vs blend coffee](/articles/single-origin-vs-blend-coffee) guide is a useful companion to this one — it covers what those origin labels actually promise.
+If you're trying to understand what your beans should taste like in the first place, our [single origin vs blend coffee](/magazine/single-origin-vs-blend-coffee) guide is a useful companion to this one — it covers what those origin labels actually promise.
 
 ## FAQ
 

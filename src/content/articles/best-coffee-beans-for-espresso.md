@@ -25,7 +25,7 @@ Espresso is a brewing method, not a bean type. But because espresso extracts fas
 
 **Body and milk compatibility.** Espresso for milk drinks needs body. A bright, washed Ethiopian single origin can disappear under steamed milk into something that tastes like watery tea with cream. A medium-dark Brazilian or a chocolatey blend cuts through. If you mostly drink lattes and cappuccinos, this matters more than people admit.
 
-If you want a primer on how extraction actually works, the [home espresso guide](/articles/espresso-at-home-guide) covers the mechanics in more detail.
+If you want a primer on how extraction actually works, the [home espresso guide](/magazine/espresso-at-home-guide) covers the mechanics in more detail.
 
 ## The Right Roast Level for Espresso
 
@@ -39,11 +39,11 @@ Roast level is the single biggest variable after the bean itself. Most third-wav
 
 **Dark roast espresso.** Italian-style. Smoky, bittersweet, heavy body. Loses origin character but very stable and milk-friendly. Lavazza, Illy, and most diner espresso live here.
 
-For more on how roast level changes the cup, see the [coffee roast levels guide](/articles/coffee-roast-levels-guide). For espresso specifically, I land in medium to medium-dark for 80% of what I drink. That's where the recommendations below sit.
+For more on how roast level changes the cup, see the [coffee roast levels guide](/magazine/coffee-roast-levels-guide). For espresso specifically, I land in medium to medium-dark for 80% of what I drink. That's where the recommendations below sit.
 
 ## Blend vs Single Origin for Espresso: When Each Wins
 
-I covered the broader debate in the [single origin vs blend comparison](/articles/single-origin-vs-blend-coffee), but for espresso specifically the calculus shifts.
+I covered the broader debate in the [single origin vs blend comparison](/magazine/single-origin-vs-blend-coffee), but for espresso specifically the calculus shifts.
 
 ### Blends Are Built for Espresso
 
@@ -152,7 +152,7 @@ The downside: rotating profiles mean the bag you buy in February isn't always id
 
 Even the best bag of espresso beans falls apart with bad fundamentals.
 
-**Grind size.** Espresso needs a fine, consistent grind — finer than table salt, similar to fine sand. The exact setting depends on your grinder, the bean, and the days off roast. I generally start at the same grind setting for a new bag and adjust by 1-2 clicks per shot until time and yield line up. The [coffee grind size guide](/articles/coffee-grind-size-guide) has visual references.
+**Grind size.** Espresso needs a fine, consistent grind — finer than table salt, similar to fine sand. The exact setting depends on your grinder, the bean, and the days off roast. I generally start at the same grind setting for a new bag and adjust by 1-2 clicks per shot until time and yield line up. The [coffee grind size guide](/magazine/coffee-grind-size-guide) has visual references.
 
 **Dose and ratio.** Most modern espresso recipes use 1:2 ratios — 18g in, 36g out. Some lighter roasts taste better at 1:2.5 or 1:3 (longer ratio, more dilution). Darker roasts often taste better tighter — 1:1.5 or even 1:1 for traditional Italian style.
 
@@ -160,9 +160,9 @@ Even the best bag of espresso beans falls apart with bad fundamentals.
 
 This is the single most underrated variable. A great bag pulled at 30 days off roast will taste worse than a mediocre bag at 10 days. Check the roast date on every bag you buy, and don't stockpile.
 
-**Water.** Espresso amplifies water flaws. Hard water tastes harsh. Soft water tastes flat. The [water recipe guide](/articles/water-recipe-guide) and [water temperature guide](/articles/water-temperature-guide) cover this in depth — for espresso specifically, aim for 50-100 ppm total dissolved solids and water in the 92-94°C range from the group head.
+**Water.** Espresso amplifies water flaws. Hard water tastes harsh. Soft water tastes flat. The [water recipe guide](/magazine/water-recipe-guide) and [water temperature guide](/magazine/water-temperature-guide) cover this in depth — for espresso specifically, aim for 50-100 ppm total dissolved solids and water in the 92-94°C range from the group head.
 
-**Equipment match.** A great bag of espresso beans won't fix a bad grinder. If you're shopping for beans before fixing your grinder, you have the order wrong. The [best manual espresso makers](/articles/best-manual-espresso-makers) guide covers the equipment side.
+**Equipment match.** A great bag of espresso beans won't fix a bad grinder. If you're shopping for beans before fixing your grinder, you have the order wrong. The [best manual espresso makers](/magazine/best-manual-espresso-makers) guide covers the equipment side.
 
 ## How I Buy Espresso Beans Now
 
@@ -192,7 +192,7 @@ A: Blends for daily drinking and milk drinks — they're engineered for body and
 A: Three common causes: under-extraction (grind too coarse, shot too fast), beans too light-roasted for your equipment, or beans too fresh (under 7 days off roast). Try grinding finer, choosing a slightly darker roast, or letting beans rest a few more days.
 
 **Q: Are pre-ground espresso beans okay?**
-A: No, not really. Espresso is the format most punished by stale grounds. Pre-ground espresso beans lose volatile aromatics within minutes and produce flat, bitter shots. If you don't have a grinder, see the [coffee grind size guide](/articles/coffee-grind-size-guide) for what to look for in one.
+A: No, not really. Espresso is the format most punished by stale grounds. Pre-ground espresso beans lose volatile aromatics within minutes and produce flat, bitter shots. If you don't have a grinder, see the [coffee grind size guide](/magazine/coffee-grind-size-guide) for what to look for in one.
 
 **Q: How long does an espresso bean bag last once opened?**
 A: 2-3 weeks of peak quality, 4-5 weeks of acceptable quality, then declining fast. Store the bag sealed at room temperature, away from light and heat.

@@ -39,7 +39,7 @@ If you take one thing from this article, take this: spend more on the grinder th
 
 A real burr grinder produces a tight, consistent particle size. Even a $90 burr grinder will outperform any blade grinder ever made. This is why my $100 build leads with the grinder and works backward from there. If your budget is tight, buy the grinder first and pour into a paper towel taped to a mug if you have to. (Please don't actually do that. But the principle is real.)
 
-I cover the entire grinder landscape under $100 in [my detailed grinder roundup](/articles/best-coffee-grinders-under-100), and the relationship between grind size and extraction is explained in [the grind size guide](/articles/coffee-grind-size-guide). If you want the deeper why, those are the rabbit holes.
+I cover the entire grinder landscape under $100 in [my detailed grinder roundup](/magazine/best-coffee-grinders-under-100), and the relationship between grind size and extraction is explained in [the grind size guide](/magazine/coffee-grind-size-guide). If you want the deeper why, those are the rabbit holes.
 
 ## The $100 Build: Pure Function, Zero Vanity
 
@@ -59,19 +59,19 @@ This is the build I recommend to anyone testing the waters. It has no luxury par
 
 **Total: roughly $146 if you buy everything new, closer to $100 if you find the kettle on sale or already own a scale.** I have included a small overrun because nobody actually pays sticker on all six items in the same week.
 
-What this build skips: temperature control, weight precision below one gram, a built-in timer, an aesthetic kitchen presence. None of those things change the taste of the coffee. You will brew a cup that is 90% as good as my $300 setup with this kit, as long as you follow [a real recipe](/articles/how-to-brew-perfect-pour-over).
+What this build skips: temperature control, weight precision below one gram, a built-in timer, an aesthetic kitchen presence. None of those things change the taste of the coffee. You will brew a cup that is 90% as good as my $300 setup with this kit, as long as you follow [a real recipe](/magazine/how-to-brew-perfect-pour-over).
 
 ## The $200 Build: The Sweet Spot
 
 This is the build I would actually buy if I were starting over today. It is the point where each upgrade gives you something concrete, and beyond it the returns start to taper. If you can stretch the budget once, stretch it to here.
 
-**Hario V60-02 or Kalita Wave 185 — about $35.** Step up to the larger V60-02 if you brew for two people sometimes, or switch to the Kalita Wave 185 for an easier, more forgiving brew. The Wave's flat bottom and three small holes slow the flow and even out small pouring mistakes. I drink both. If you want help deciding, I wrote [a full V60 vs Wave comparison](/articles/hario-v60-vs-kalita-wave) — read that first.
+**Hario V60-02 or Kalita Wave 185 — about $35.** Step up to the larger V60-02 if you brew for two people sometimes, or switch to the Kalita Wave 185 for an easier, more forgiving brew. The Wave's flat bottom and three small holes slow the flow and even out small pouring mistakes. I drink both. If you want help deciding, I wrote [a full V60 vs Wave comparison](/magazine/hario-v60-vs-kalita-wave) — read that first.
 
 **Filters — about $8.** Same deal as before, in the right shape for your chosen dripper.
 
 **Baratza Encore electric grinder — about $170.** This is the single biggest jump in this build. The Encore is the entry point into electric grinding for pour over. Conical steel burrs, 40 grind settings, push-button operation, and parts you can replace for the next decade. I have owned mine for six years and it still grinds like the day I bought it. It is loud and it is plain, but it just works.
 
-**Hario V60 drip scale — about $50.** A real coffee scale with a built-in timer, 0.1 gram resolution, and a flat profile that fits the V60 perfectly. The timer auto-starts when you tare; the display is bright. I cover the whole scale category in [my scale guide](/articles/best-coffee-scales).
+**Hario V60 drip scale — about $50.** A real coffee scale with a built-in timer, 0.1 gram resolution, and a flat profile that fits the V60 perfectly. The timer auto-starts when you tare; the display is bright. I cover the whole scale category in [my scale guide](/magazine/best-coffee-scales).
 
 **Fellow Stagg pour over kettle (non-EKG, stovetop) — about $80.** The non-electric Stagg is a stovetop kettle, but with a flow-control spout that gives you essentially the same pouring experience as the electric version. You still boil water and wait, but the pour itself is on another level.
 
@@ -87,11 +87,11 @@ This is the kit I currently use most mornings. Every piece is something I would 
 
 **Origami dripper or Kalita Wave 185 stainless steel — about $50.** The Origami is a Japanese dripper with twenty vertical ridges that you can use with either V60-style or Kalita Wave-style filters, which is a small superpower. The stainless Kalita Wave is the same dripper as before with the heat-retention bonus of metal. Either works. I use the Origami most days.
 
-**Baratza Encore ESP — about $200.** The ESP version of the Encore adds finer grind settings useful for espresso, but the pour over performance is also improved over the original Encore — better burr alignment and a slightly larger range of useful settings. If you might ever try [manual espresso](/articles/best-manual-espresso-makers), this is the smarter buy.
+**Baratza Encore ESP — about $200.** The ESP version of the Encore adds finer grind settings useful for espresso, but the pour over performance is also improved over the original Encore — better burr alignment and a slightly larger range of useful settings. If you might ever try [manual espresso](/magazine/best-manual-espresso-makers), this is the smarter buy.
 
 **Acaia Lunar or Fellow Tally scale — $150–250.** The Lunar is the gold standard for coffee scales: 0.1 gram resolution, water-resistant, a beautiful UI, and an auto-mode that handles timing without any button pushing. The Tally is Fellow's newer, less expensive answer, and it is genuinely good. Either makes brewing feel like it is happening in slow motion. If your $300 budget is firm, the Tally fits; the Lunar pushes you over.
 
-**Fellow Stagg EKG variable-temperature electric kettle — about $165.** This is, in my opinion, the best single upgrade in all of pour over. Set the temperature to 96 degrees Celsius, hit start, the kettle reaches that exact temperature in about three minutes and holds it for thirty. No boiling, no waiting, no thermometer. The pouring spout is the same as the stovetop Stagg. I have bought this kettle three times — once for me, twice as gifts. Everyone keeps it. I cover the whole category in [the gooseneck kettle guide](/articles/best-gooseneck-kettles).
+**Fellow Stagg EKG variable-temperature electric kettle — about $165.** This is, in my opinion, the best single upgrade in all of pour over. Set the temperature to 96 degrees Celsius, hit start, the kettle reaches that exact temperature in about three minutes and holds it for thirty. No boiling, no waiting, no thermometer. The pouring spout is the same as the stovetop Stagg. I have bought this kettle three times — once for me, twice as gifts. Everyone keeps it. I cover the whole category in [the gooseneck kettle guide](/magazine/best-gooseneck-kettles).
 
 **Filters and a glass server — about $30.** Treat yourself to the matching server now if you want one.
 
@@ -120,7 +120,7 @@ If you are starting at the $100 build, this is the order I would replace pieces:
 3. **Scale third.** A real coffee scale with auto-timing changes the rhythm of brewing in a way you do not realize until you have it.
 4. **Dripper last.** The dripper is the cheapest piece and the one beginners obsess over. It matters least.
 
-I cover the dripper landscape in detail in [my pour over dripper guide](/articles/best-pour-over-drippers) when you are ready.
+I cover the dripper landscape in detail in [my pour over dripper guide](/magazine/best-pour-over-drippers) when you are ready.
 
 ## The Honest Downsides
 
@@ -128,11 +128,11 @@ Pour over is not perfect. A few things to know before you commit.
 
 It is slow. A single cup takes three to four minutes of active brewing, not counting heating water and grinding. If you need coffee in ninety seconds at 6 a.m., a French press or moka pot is faster.
 
-It rewards practice. Your first ten cups will be inconsistent. Your fiftieth cup will be good. This is fine — most people enjoy the learning — but if you hate variance, an automatic drip machine like the Moccamaster or [Fellow Aiden](/articles/fellow-aiden-vs-moccamaster) is a better fit.
+It rewards practice. Your first ten cups will be inconsistent. Your fiftieth cup will be good. This is fine — most people enjoy the learning — but if you hate variance, an automatic drip machine like the Moccamaster or [Fellow Aiden](/magazine/fellow-aiden-vs-moccamaster) is a better fit.
 
 It is single-cup. Brewing for four people at once with a V60 is annoying. The Kalita Wave 185 helps a little, but for groups, switch to a Chemex or an automatic.
 
-It is sensitive to water. If your tap water is heavy in minerals, your coffee will taste muddy no matter how good the gear is. A simple filter pitcher fixes this for most homes. I cover [water temperature](/articles/water-temperature-guide) in detail elsewhere; water composition is the next rabbit hole.
+It is sensitive to water. If your tap water is heavy in minerals, your coffee will taste muddy no matter how good the gear is. A simple filter pitcher fixes this for most homes. I cover [water temperature](/magazine/water-temperature-guide) in detail elsewhere; water composition is the next rabbit hole.
 
 ## FAQ
 
@@ -155,7 +155,7 @@ For grams of coffee and grams of water, yes. The expensive scales add water resi
 Ceramic holds heat best and feels nice; preheat it with a rinse before brewing. Plastic is light, cheap, and travels well. Glass looks great but is fragile. Metal (the Origami's optional copper, the Wave's stainless) holds heat very well but is the most expensive. Functionally they all brew similar coffee — pick what you like looking at.
 
 **Can I use the same setup for cold brew or other methods?**
-The grinder, scale, and kettle (for the heated step of some methods) all carry over. The dripper does not. If you want to make [cold brew or iced coffee](/articles/cold-brew-vs-iced-coffee), or move into AeroPress, those are separate small purchases — but the core kit transfers.
+The grinder, scale, and kettle (for the heated step of some methods) all carry over. The dripper does not. If you want to make [cold brew or iced coffee](/magazine/cold-brew-vs-iced-coffee), or move into AeroPress, those are separate small purchases — but the core kit transfers.
 
 **What is the absolute cheapest acceptable starting setup?**
 A Timemore C2 grinder, a plastic V60-02 ($10), filters ($6), a $15 kitchen scale, and any kettle with a gooseneck spout ($25 stovetop). About $130. I would not recommend going lower than this. Below that price you start hitting blade grinders and bad kettles, and the cup quality falls off a cliff.
