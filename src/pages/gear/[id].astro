@@ -31,11 +31,11 @@ const relatedGear = gearData
   .filter(g => g.category === gear.category && g.id !== gear.id)
   .slice(0, 3);
 
-// カテゴリの表示名を整形
-const categoryLabel = gear.category.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+// カテゴリの表示名を整形（欠損に耐える）
+const categoryLabel = (gear.category ?? '').split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 
-// 抽出方法の表示名を整形
-const methodLabel = gear.brewMethod.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+// 抽出方法の表示名を整形（欠損に耐える）
+const methodLabel = (gear.brewMethod ?? '').split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 
 // JSON-LD構造化データ（Article schema）
 const articleJsonLd = {
@@ -125,7 +125,7 @@ const articleJsonLd = {
     <div style="padding: var(--space-lg) 0;">
       <h2 style="margin-bottom: var(--space-md);">Key Features</h2>
       <ul style="list-style: none; padding: 0;">
-        {gear.features.map((feature: string) => (
+        {(gear.features ?? []).map((feature: string) => (
           <li style="padding: 0.6rem 0; border-bottom: 1px solid var(--color-border); color: var(--color-text-sub); display: flex; align-items: center; gap: 0.5rem;">
             <span style="color: var(--color-accent);">&#9670;</span>
             {feature}

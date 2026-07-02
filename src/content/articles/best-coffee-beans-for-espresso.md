@@ -2,7 +2,7 @@
 title: "Best Coffee Beans for Espresso 2026: Single Origin vs Blend Picks"
 description: "The best coffee beans for espresso in 2026: how extraction, roast level, and origin shape the cup, plus six specific bean recommendations from top US and European roasters."
 category: "guide"
-tags: [espresso, coffee-beans, single-origin, blend, roasters, 2026]
+tags: [espresso, coffee-beans, single-origin, blend, roasters, "2026"]
 publishedAt: "2026-04-25"
 updatedAt: "2026-04-25"
 relatedGear: []
